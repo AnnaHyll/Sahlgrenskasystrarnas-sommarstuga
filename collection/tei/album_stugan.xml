@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+               <title>Fotoalbum med foton och tidningsutklipp av Sahlgrenskasystrarnas inköp av sommarstuga på 1930-talet</title>
+               <author>Gudrun Andersson</author>
+               <principal>Anna Hyll, Beata Rydberg, Sabina Stjernman</principal>
+            </titleStmt>
+            <publicationStmt>
+               <publisher>University of Borås</publisher>
+               <date>March 2022</date>
+               <authority> Anna Hyll, Beata Rydberg, Sabina Stjernman </authority>
+               <date when="2024-03">Mars 2024</date>
+               <availability>
+
+                  <p> Vid publicering skall Medicinhistoriskas namn alltid utsättas vid bilden
+                        eller anges i bildförteckningen. </p>
+                  <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+                     <p>
+                     Transcription distributed under a CC-BY-SA 4.0 license.
+                     </p>
+                  </licence>
+               </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Albumet finns i Medicinhistoriskas samlingar.</p>
+            </sourceDesc>
+         </fileDesc>
+         <profileDesc>
+            <textDesc>
+                <!-- Här anger du vad som kan vara tillämpligt. Kontrollera mot TEI guidelines 
+                för möjliga elements semantik. Om du dokumenterar en annan semantik (i encodingDesc) så kan det vara gångbart också.
+                -->
+                <channel></channel>
+                <constitution></constitution>
+                <derivation></derivation>
+                <domain></domain>
+                <factuality></factuality>
+                <interaction></interaction>
+                <preparedness></preparedness>
+                <purpose></purpose>
+            </textDesc>
+            <creation> Album samanställt av Gertrud Andersson och skänkt till Medicinhistoriska museet den
+                    <date when="1998-01-14">14 januari 1998</date>
+            </creation>
+            <textClass>
+                <!-- Här dokumenterar du lämpligen från vilkan vokabulär du hämtat "ämnesorden", som alltså gäller hela samlingen även här. 
+                    Gettys Art and Architecture Thesaurus är sannolikt en rimlig vokabulär för många projekt
+                -->
+                <keywords scheme="https://www.getty.edu/research/tools/vocabularies/aat/">
+                    <list>
+                        <item><ref target="http://vocab.getty.edu/page/aat/300025492"
+                                >författare</ref></item>
+                        <item><ref target="http://vocab.getty.edu/page/aat/300026877"
+                                >korrespondens</ref></item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+      </teiHeader>
+
+      <TEI xml:id="S2">
+         <teiHeader>
+            <fileDesc>
+               <titleStmt>
+                  <title>Album, stugan sida 2</title>
+                  <author> Gertrud Andersson</author>
+</titleStmt>
+<publicationStmt>
+<p></p>
+</publicationStmt>
+<sourceDesc>
+<p></p>
+</sourceDesc>
+</fileDesc>
+
+</teiHeader>
+
+<!-- 
+            oXygen kan ge felmeddelanden för inklusionen av facsimile-element i corpusens enskilda TEI-delar, men det 
+            ska enligt TEI guidelines vara ett giltigt förfarande, så vi får ignorera det tills vidare. 
+            TBE Validation Service (https://teibyexample.org/exist/tools/TBEvalidator.htm) validerar utan anmärkning.
+            
+            Observera att det refereras till jpeg-versionerna och inte tiff-versionerna av avbildningarna. I de fall
+            du eventuellt endast vill ha TEI-filen som en platshållare och inte avser att generera en html-presentation
+            så kan länkarna i stället peka på tiff-versionerna.
+        -->
+<facsimile>
+<surface xml:id="album_stugan_s2">
+                     <figure>
+                        <label>Albumets andra sida</label>
+                        <figDesc> Ett skannat fotografi av albumets andra sida med två tidningsutklipp och ett inbjudningskort.</figDesc>
+                        <graphic xml:id="album_stugan_s2_pub" url="assets/img/document/album_stugan_s2.jpg"/>
+
+                     </figure>
+                  </surface>
+                   <surface xml:id="album_stugan_s2_inbjudan">
+            <figure>
+                <label>Ett inbjudningskort</label>
+                <figDesc>
+                    Ett fotografi av ett inbjudningskort till sjuksystrarnas julförsäljning
+                </figDesc>
+                <graphic url="collection/img/documents/album_stugan_s2_inbjudan.jpg" mimeType="image/jpg"/>
+            </figure>
+        </surface>
+        <surface xml:id="album_stugan_s2_artkl1">
+            <figure>
+                <label>Tidningsutklipp</label>
+                <figDesc>
+                    Ett fotografi av ett tidningsutklipp om sjuksystrarnas julförsäljning
+                </figDesc>
+                <graphic url="collection/img/documents/album_stugan_s2_artkl1.jpg" mimeType="image/jpg"/>
+            </figure>
+        </surface>
+        <surface xml:id="album_stugan_s2_artkl2">
+            <figure>
+                <label>Ett inbjudningskort</label>
+                <figDesc>
+                    Ett fotografi av ett inbjudningskort till sjuksystrarnas julförsäljning
+                </figDesc>
+                <graphic url="collection/img/documents/album_stugan_s2_artkl2.jpg" mimeType="image/jpg"/>
+            </figure>
+        </surface>
+        
+        
+    </facsimile>
+            
+
+               <!-- 
+            text-elementet här nedan är inte strikt nödvändigt, eftersom headern följs av ett facsimile-element.
+            Om du inte behöver ett text-element kan du radera det
+       
+       Om du använder imagecollection.xsl förs ingenting över från text-elementet, men om du reviderar den så kan
+       du lägga transkriberad text här, eller annat. Skulle det behövas så ta kontakt med Mikael för assistans.
+         
+         -->
+               <text>
+                  <body>
+                   <div type="note" facs"#album_stugan_s2_inbjudan"/>
+                        <p>
+                           <p rend="align(center)">Försäljning </p>
+                              <p rend="align(center)">till förmån för </p>
+                                 <p rend="align(center)">En sommarstuga för Systrarna </p>
+                                    <p rend="align(center)">anordnas å </p>
+                                       <p rend="align(center)">Sahlgrenska Sjukhuset </p>
+                                         <p rend="align(center)">Onsdagen den 3 Dec. 1930 med början kl. 12 midd. </p>
+                                             <p rend="align(center)">Servering av Kaffe, Thé m.m.     Gåvor mottages med tacksamhet </p>
+                                                </p>
+                                             </div>
+                                          </body>
+                                       </text>
+ <text type="note">
+                  <body>
+                   <facs="#album_stugan_s2_artkl1"/>
+                     <div>
+                        <p>
+                         Försäljningen på Sahl-<lb/>
+                         grenska. Den stora sjuksköterske-<lb/> 
+                         och elevkåren på Sahlgrenska sjukhu-<lb/>
+                         set har hittills saknat ett sommar-<lb/>
+                         hem. Man har nu planer på att bygga<lb/>
+                         en liten sommarstuga vid havet. Till<lb/>
+                         förmån härför anordnas försäljning på<lb/>
+                         Sahlgrenska sjukhuset onsdagen den 3<lb/>
+                          december, med början kl. 12 midda-<lb/>
+                          gen. Därvid kan allmänheten, som är<lb/>
+                           hjärtligt välkommen, få tillfälle inköpa<lb/>
+                           de handarbeten, som tillverkats på<lb/>
+                           systrarnas syaftnar. Under försälj-<lb/>
+                           ningen, som pågår hela dagen, blir det<lb/>
+                           servering av kaffe, te och förfrisknin-<lb/>
+                           gar. Lotterier och fiskdamm anordnas.<lb/>
+                            Gåvor till försäljningen emottages med tacksamhet. 
+                                                </p>
+                                             </div>
+                                          </body>
+                                       </text>
+                                    
+
+                                    </TEI>
+
+</teiCorpus>
