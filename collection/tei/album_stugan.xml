@@ -11,7 +11,7 @@
             </titleStmt>
             <publicationStmt>
                 <publisher>University of Borås</publisher>
-                <date>March 2022</date>
+                <date>May 2025</date>
                 <authority>Anna Hyll, Beata Carlberg, Sabina Stjernman</authority>
                 <date when="2025-05">Maj 2025</date>
                 <availability>
@@ -140,10 +140,10 @@
                            Försäljning <lb/>
                            till förmån för <lb/>
                            En sommarstuga för Systrarna <lb/>
-                           anordnas å </lb>
+                           anordnas å <lb/>
                            Sahlgrenska Sjukhuset <lb/>
                            Onsdagen den 3 Dec. 1930 med början kl. 12 midd. <lb/>
-                           Servering av Kaffe, Thé m.m.     Gåvor mottages med tacksamhet <lb/>
+                           Servering av Kaffe, Thé m.m.     Gåvor mottages med tacksamhet 
                     </p>
                 </div>
             </body>
@@ -170,7 +170,7 @@
                          ningen, som pågår hela dagen, blir det<lb/>
                          servering av kaffe, te och förfrisknin-<lb/>
                          gar. Lotterier och fiskdamm anordnas.<lb/>
-                         Gåvor till försäljningen emottages med tacksamhet.<lb/>
+                         Gåvor till försäljningen emottages med tacksamhet.
                     </p>
                 </div>
             </body>
@@ -245,14 +245,14 @@
                     <label>Albumets andra uppslag</label>
                     <figDesc> Ett fotografi av sida tre och fyra i albumet.
                     </figDesc>
-                    <graphic xml:id="stugan_album_uppslag_1_pub" url="assets/img/documents/2.jpg"/>
+                    <graphic xml:id="stugan_album_uppslag_2_pub" url="assets/img/documents/3.jpg"/>
                 </figure>
             <surface xml:id="stugan_album_s3">
                 <figure>
                     <label>Albumets tredje sida</label>
                     <figDesc> Ett skannat fotografi av albumets tredje sida med tett fotografi och ett tidningsutklipp.
                     </figDesc>
-                    <graphic xml:id="stugan_album_s2_pub" url="assets/img/documents/stugan_album_s2.jpg"/>
+                    <graphic xml:id="stugan_album_s3_pub" url="assets/img/documents/stugan_album_s3.jpg"/>
                 </figure>
             </surface>
             <surface xml:id="stugan_album_s3_foto">
