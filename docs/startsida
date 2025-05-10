@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="sv" xml:lang="sv">
+   <head>
+      <title>Fotoalbum med foton och tidningsutklipp av Sahlgrenskasystrarnas inköp av sommarstuga på 1930-talet</title>
+      <link rel="stylesheet"
+            href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+            integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
+            crossorigin="anonymous"/>
+      <link rel="stylesheet" href="assets/css/main.css"/>
+      <link rel="stylesheet" href="assets/css/desktop.css"/>
+   </head>
+   <body>
+      <header>
+         <h1>Fotoalbum med foton och tidningsutklipp av Sahlgrenskasystrarnas inköp av sommarstuga på 1930-talet</h1>
+         <p>
+                        Urval och sammanställning av:  <span style="font-style:italic"> Anna Hyll, Beata Carlberg, Sabina Stjernman </span>
+         </p>
+      </header>
+      <nav id="sitenav">
+         <a href="index.html">Hem</a> |
+                    <a href="album.html">Fotoalbum</a> |
+                    <a href="">Brev 2</a>
+      </nav>
+      <main id="manuscript">
+         <div class="container">
+            <div class="row">
+               <div id="introduction">
+                  <p> Album skänkt av Gertrud Andersson till Medicinhistoriska museet den
+                <b>14 januari 1998</b>
+                  </p>
+               </div>
+            </div>
+            <div class="container">
+               <div class="row">
+                  <div id="col_sm">
+                     <article class="photo">
+                        <h2>Uppslag 1</h2>
+                        <object data="assets/img/documents/stugan.pdf" type="application/pdf" width="100%" height="500px">
+                           <p>Unable to display PDF file. <a href="assets/img/documents/stugan.pdf">Download</a> instead.</p>
+                         </object>
+                     </article>
+                     </p>
+                  </div>
+               </div>
+
+            <div class="row">
+               <div class="col-sm">
+                  <article class="scan">
+                     <h2>Faksimil</h2>
+                     <img width="500"
+                          src="assets/img/documents/stugan_album_s2.jpg"
+                          title="Albumets andra sida"
+                          alt=" Ett skannat fotografi av albumets andra sida med två tidningsutklipp och ett inbjudningskort."/>
+                  </article>
+               </div>
+               <div class="col-sm">
+                  <article class="transkribering">
+                     <h2>Transkribering</h2>
+                     <div class="extract">
+                
+                        <p>Ett skannat fotografi av albumets andra sida med två tidningsutklipp och ett inbjudningskort.
+                </p>
+                
+
+                     </div>
+                     
+                  </article>
+               </div>
+            </div>
+            <div class="row">
+               <div class="col-sm">
+                  <article class="scan">
+                     <h2>Faksimil</h2>
+                     <img width="500"
+                          src="assets/img/documents/stugan_album_s2_inbjudan.jpg"
+                          title="Inbjudan"
+                          alt=" Ett skannat fotografi av albumets andra sida med två tidningsutklipp och ett inbjudningskort."/>
+                  </article>
+               </div>
+               <div class="col-sm">
+                  <article class="transkribering">
+                     <h2>Transkribering</h2>
+                     <div class="extract">
+
+
+                        <p>Försäljning </p>
+                        <p>till förmån för </p>
+                        <p>En sommarstuga för Systrarna </p>
+                        <p>anordnas å </p>
+                        <p>Sahlgrenska Sjukhuset </p>
+                        <p>Onsdagen den 3 Dec. 1930 med början kl. 12 midd. </p>
+                        <p>Servering av Kaffe, Thé m.m.     Gåvor mottages med tacksamhet </p>
+
+                     </div>
+                  </article>
+               </div>
+               </div>
+               
+               <div class="row">
+                  <div class="col-sm">
+                     <article class="scan">
+                        <h2>Faksimil</h2>
+                        <img width="500"
+                             src="assets/img/documents/stugan_album_s2_artkl1.jpg"
+                             title="Inbjudan"
+                             alt=" Ett skannat fotografi av albumets andra sida med två tidningsutklipp och ett inbjudningskort."/>
+                     </article>
+                  </div>
+                  <div class="col-sm">
+                     <article class="transkribering">
+                        <h2>Transkribering</h2>
+                        <div class="extract">
+   
+   
+                           <p>
+                              Försäljningen på Sahl-<br/>
+                              grenska. Den stora sjuksköterske-<br/>
+       
+                              och elevkåren på Sahlgrenska sjukhu-<br/>
+                              set har hittills saknat ett sommar-<br/>
+                              hem. Man har nu planer på att bygga<br/>
+                              en liten sommarstuga vid havet. Till<br/>
+                              förmån härför anordnas försäljning på<br/>
+                              Sahlgrenska sjukhuset onsdagen den 3<br/>
+                              december, med början kl. 12 midda-<br/>
+                              gen. Därvid kan allmänheten, som är<br/>
+                              hjärtligt välkommen, få tillfälle inköpa<br/>
+                              de handarbeten, som tillverkats på<br/>
+                              systrarnas syaftnar. Under försälj-<br/>
+                              ningen, som pågår hela dagen, blir det<br/>
+                              servering av kaffe, te och förfrisknin-<br/>
+                              gar. Lotterier och fiskdamm anordnas.<br/>
+                              Gåvor till försäljningen emottages med <br/>
+                              tacksamhet. </p>
+                  </div>
+
+                        </div>
+                     </article>
+                  </div>
+                  </div>
+
+         </div>
+      </main>
+   </body>
+</html>
