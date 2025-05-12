@@ -88,12 +88,12 @@
         </teiHeader>
 
         <facsimile>
-        <surfaceGrp xml:id="stugan_album_uppslag_1">
+        <surfaceGrp xml:id="stugan_album_uppslag1">
                 <figure>
-                    <label>Albumets andra sida</label>
+                    <label>Albumets första uppslag</label>
                     <figDesc> Ett fotografi av sida ett och två i albumet.
                     </figDesc>
-                    <graphic xml:id="stugan_album_uppslag_1_pub" url="assets/img/documents/2.jpg"/>
+                    <graphic xml:id="stugan_album_uppslag1_pub" url="assets/img/documents/stugan_album_uppslag1.jpg"/>
                 </figure>
             <surface xml:id="stugan_album_s2">
                 <figure>
@@ -107,25 +107,25 @@
                 <figure>
                     <label>Ett inbjudningskort</label>
                     <figDesc>
-                    Ett fotografi av ett inbjudningskort till sjuksystrarnas julförsäljning
+                    Ett fotografi av ett inbjudningskort till sjuksystrarnas julförsäljning.
                     </figDesc>
                     <graphic xml:id="stugan_album_s2_inbjudan_pub" url="collection/img/documents/stugan_album_s2_inbjudan.jpg" mimeType="image/jpg"/>
                 </figure>
             </surface>
             <surface xml:id="stugan_album_s2_artkl1">
                 <figure>
-                    <label>Tidningsutklipp</label>
+                    <label>Ett tidningsutklipp</label>
                     <figDesc>
-                    Ett fotografi av ett tidningsutklipp om sjuksystrarnas julförsäljning
+                    Ett fotografi av ett tidningsutklipp om sjuksystrarnas julförsäljning.
                     </figDesc>
                     <graphic xml:id="stugan_album_s2_artkl1_pub" url="collection/img/documents/stugan_album_s2_artkl1.jpg" mimeType="image/jpg"/>
                 </figure>
             </surface>
             <surface xml:id="stugan_album_s2_artkl2">
                 <figure>
-                    <label>Ett inbjudningskort</label>
+                    <label>Ett tidningsutklipp</label>
                     <figDesc>
-                    Ett fotografi av ett inbjudningskort till sjuksystrarnas julförsäljning
+                    Ett fotografi av ett tidningsutklipp om sjuksystrarnas julförsäljning.
                     </figDesc>
                     <graphic xml:id="stugan_album_s2_artkl2_pub" url="collection/img/documents/stugan_album_s2_artkl2.jpg" mimeType="image/jpg"/>
                 </figure>
@@ -187,7 +187,7 @@
                          när man kommer i det ärendet, är det<lb/> 
                          liksom litet trevligare att gå till Sahl-<lb/>
                          grenska för att ha roligt. Det kan man<lb/>
-                         som sagt göra på onsdag. 
+                         som sagt göra på onsdag. <lb/>
                          Bilden lär ge en aning om, vad det är fråga om.<lb/>
                          Den söta systern, tecknad<lb/>
                          med sann förståelse av Mr. Gaw<lb/>
@@ -240,12 +240,12 @@
         </teiHeader>
 
         <facsimile>
-        <surfaceGrp xml:id="stugan_album_uppslag_2">
+        <surfaceGrp xml:id="stugan_album_uppslag2">
                 <figure>
                     <label>Albumets andra uppslag</label>
                     <figDesc> Ett fotografi av sida tre och fyra i albumet.
                     </figDesc>
-                    <graphic xml:id="stugan_album_uppslag_2_pub" url="assets/img/documents/3.jpg"/>
+                    <graphic xml:id="stugan_album_uppslag2_pub" url="assets/img/documents/stugan_album_uppslag2.jpg"/>
                 </figure>
             <surface xml:id="stugan_album_s3">
                 <figure>
@@ -319,5 +319,580 @@
             </body>
         </text>
     </TEI>
+
+
+    <TEI xml:id="S5-6">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Album, tredje första uppslaget</title>
+                    <author></author>
+                </titleStmt>
+                <publicationStmt>
+                    <p></p>
+                </publicationStmt>
+                <sourceDesc>
+                    <p></p>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+
+        <facsimile>
+        <surfaceGrp xml:id="stugan_album_uppslag3">
+                <figure>
+                    <label>Albumets tredje uppslag</label>
+                    <figDesc> Ett fotografi av sida fem och sex i albumet.
+                    </figDesc>
+                    <graphic xml:id="stugan_album_uppslag3_pub" url="assets/img/documents/stugan_album_uppslag3.jpg"/>
+                </figure>
+            <surface xml:id="stugan_album_s5">
+                <figure>
+                    <label>Albumets femte sida</label>
+                    <figDesc> Ett skannat fotografi av albumets femte sida med ett fotografi och ett utklipp.
+                    </figDesc>
+                    <graphic xml:id="stugan_album_s5_pub" url="assets/img/documents/stugan_album_s5.jpg"/>
+                </figure>
+            </surface>
+            <surface xml:id="stugan_album_s5_foto">
+                <figure>
+                    <label>Ett fotografi</label>
+                    <figDesc>
+                    Ett svartvitt fotografi från sjuksystrarna vid Sahlgrenskas julförsäljning den tredje december 1930. Till vänster i bilden syns en sjuksyster och ett barn hålla i ett metspö till försäjningens fiskedamm. En påse sitter på kroken. Flera kvinnor i ytterkläder och en sjuksyster tittar på, två av kvinnorna tittar in i kameran. 
+                    </figDesc>
+                    <graphic xml:id="stugan_album_s5_foto_pub" url="collection/img/documents/stugan_album_s5_foto.jpg" mimeType="image/jpg"/>
+                </figure>
+            </surface>  
+            <surface xml:id="stugan_album_s6">
+                <figure>
+                    <label>Albumets sjätte sida</label>
+                    <figDesc> Ett skannat fotografi av albumets sjätte sida med ett två tidningsutklipp.
+                    </figDesc>
+                    <graphic xml:id="stugan_album_s6_pub" url="assets/img/documents/stugan_album_s6.jpg"/>
+                </figure>
+            </surface>
+            <surface xml:id="stugan_album_s6_artkl1">
+                <figure>
+                    <label>Ett tidningsutklipp</label>
+                    <figDesc>
+                    Ett fotografi av ett tidningsutklipp om sjuksystrarnas julförsäljning
+                    </figDesc>
+                    <graphic xml:id="stugan_album_s6_artkl1_pub" url="collection/img/documents/stugan_album_s6_artkl1.jpg" mimeType="image/jpg"/>
+                </figure>
+            </surface>
+            <surface xml:id="stugan_album_s6_artkl2">
+                <figure>
+                    <label>Ett tidningsutklipp</label>
+                    <figDesc>
+                    Ett fotografi av ett tidningsutklipp om sjuksystrarnas julförsäljning
+                    </figDesc>
+                    <graphic xml:id="stugan_album_s6_artkl2_pub" url="collection/img/documents/stugan_album_s6_artkl2.jpg" mimeType="image/jpg"/>
+                </figure>
+            </surface>
+        </surfaceGrp>
+        </facsimile>
+
+        <text type="note" facs="#stugan_album_s5">
+            <body>
+                <div>
+                    <p>
+                         Sommarhem för <lb/>
+                         sjuksystrarna <lb/>
+                         icke omöjligt. 
+                    </p>
+                </div>
+            </body>
+        </text>
+
+        
+        <text type="note" facs="#stugan_album_s6_artkl1">
+            <body>
+                <div>
+                    <p>
+                            Försäljningen i går blev <lb/>
+                            stor succés. <lb/>
+                            Försäljningen i går på Sahlgrenska<lb/>
+                            till förmån för sjuksystrarnas som- <lb/>
+                            marhem blev en över förväntan god <lb/>
+                            affär och från det försäljningen öpp- <lb/>
+                            nades till dess den stängdes trängdes <lb/>
+                            man formligen vid borden för att göra <lb/>
+                            uppköp. Bakom denna försäljning lig- <lb/>
+                            ger också ett oerhört arbete från syst- <lb/>
+                            rarnas sida. Flertalet av de arbetena, <lb/>
+                            som voro till salu, hade de själva gjort <lb/>
+                            på sina syaftnar och arbete, med iord- <lb/>
+                            ningställandet av lokal och dylikt är <lb/>
+                            också helt och hållet gjort under fri- <lb/>
+                            tid. Firmor såväl stora som små samt <lb/>
+                            enskilda hade dessutom skänkt massor <lb/>
+                            av föremål till försäljning.   Kommer- <lb/>
+                            sen gick ypperligt och frampå efter- <lb/>
+                            middagen hade man inte mycket kvar. <lb/>
+                            Som extra inslag i trevnaden hade <lb/>
+                            herrarna Einar Hölén, Harald Thun- <lb/>
+                            berg, Adolf Scubeiss och Rolf Hell- <lb/>
+                            stén gratis ställt sig till förfogande för <lb/>
+                            utförande av musik. Metspöt vid fisk- <lb/>
+                            dammen var i livlig verksamhet hela <lb/>
+                            dagen och man räknade med att det <lb/>
+                            nappat cirka 1,200 gånger.” Hur myc- <lb/>
+                            ket pengar som på detta sätt influtit <lb/>
+                            kan man ännu icke uppgiva, men det <lb/> 
+                            lär vara åtskilligt. <lb/>
+                            Fröken Henning, med vilken vi hade <lb/>
+                            ett samtal, kunde icke nog uttrycka <lb/>
+                            sin glädje över den storartade succés <lb/>
+                            försäljningen blivit. Om planerna för <lb/>
+                            sommarhemmet meddelar hon vidare, <lb/>
+                            att man hade tänkt sig en liten stuga <lb/>
+                            någonstans på Säröbanan, nära havet <lb/>
+                            och icke långt från Göteborg, då ju <lb/>
+                            systrarnas fritid är ganska knapp. Om <lb/>
+                            möjligt skulle man helst se att stugan <lb/>
+                            komme till stånd redan till <lb/>
+                            sommaren, men ännu vet man som <lb/>
+                            sagt inte hur mycket som influtit vid <lb/>
+                            försäljningen.
+
+                    </p>
+                </div>
+            </body>
+        </text>
+
+         <text type="note" facs="#stugan_album_s6_artkl1">
+            <body>
+                <div>
+                    <p>
+                            <cb n="1"/>
+                            Det hör till ovanligheterna att se folk <lb/>
+                            vandra f r å n Sahlgrenska fullastade med <lb/>
+                            paketer. Såsom det emellertid för ovan- <lb/>
+                            lighetens skull hände igår middag. An- <lb/>
+                            ledningen var naturligtvis sjuksystrarnas <lb/>
+                            försäljning. De hade pyntat och gjort <lb/>
+                            det riktigt gemytligt uppe i andra vånin- <lb/>
+                            gen där långbord dignade under mäng- <lb/>
+                            der av varor. Det fanns mycket smått <lb/>
+                            och gott att välja på.  Systrarnas egna <lb/>
+                            arbeten, som de under lediga stunder <lb/>
+                            förfärdigat, fick genast strykande åtgång. <lb/>
+                            Dessutom hade firmor och enskilda ställt <lb/>
+                            diverse föremål till förfogande, varför <lb/>
+                            sortimentet var både rikligt och tillta- <lb/>
+                            lande. <lb/>
+                                Systrarna sågo om möjligt mer an van- <lb/>
+                            
+                            <cb n="2"/>
+                            ligt söta och käcka  ut, och den stora pu- <lb/>
+                            bliken uppskattade också till fullo deras <lb/>
+                            arrangemang. Det köptes friskt och <lb/>
+                            dessemellan lät man sig väl smaka av <lb/>
+                            förplägnanden i form av kaffe och läske- <lb/>
+                            drycker. Vid fiskdammen var det kö <lb/>
+                            hela tiden och man räknar med, att om- <lb/>
+                            kring 1,200 napp ”serverades” under da- <lb/>
+                            gens lopp. <lb/>
+                            Försäljningen inbragte 5,500 kr. Där- <lb/>
+                            till kom i kontanta penningbidrag 300 kr. <lb/>
+                            Försäljningen blev alltså en stor <lb/>
+                            succés och man får hoppas, att åtmin- <lb/>
+                            stone grunden till deras tilltänkta som- <lb/>
+                            marstuga vid Säröbanan härmed är <lb/>
+                            klarad. 
+
+
+                    </p>
+                </div>
+            </body>
+        </text>
+    </TEI>
+
+    <TEI xml:id="S15-16">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Album, stugan åttonde uppslaget</title>
+                    <author></author>
+                </titleStmt>
+                <publicationStmt>
+                    <p></p>
+                </publicationStmt>
+                <sourceDesc>
+                    <p></p>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+
+        <facsimile>
+        <surfaceGrp xml:id="stugan_album_uppslag8">
+                <figure>
+                    <label>Albumets åttonde uppslag</label>
+                    <figDesc> Ett fotografi av sida femton och sexton i albumet.
+                    </figDesc>
+                    <graphic xml:id="stugan_album_uppslag8_pub" url="assets/img/documents/stugan_album_uppslag8.jpg"/>
+                </figure>
+            <surface xml:id="stugan_album_s15">
+                <figure>
+                    <label>Albumets femtonde sida</label>
+                    <figDesc> Ett skannat fotografi av albumets femtonde sida med tre fotografier.
+                    </figDesc>
+                    <graphic xml:id="stugan_album_s15_pub" url="assets/img/documents/stugan_album_s15.jpg"/>
+                </figure>
+            </surface>
+            <surface xml:id="stugan_album_s15_foto1">
+                <figure>
+                    <label>Ett fotografi</label>
+                    <figDesc>
+                    Ett svartvitt fotografi av två kvinnor i Göteborgs skärgård. De har kappor och hatt på sig. En av dem tittar mot kameran och en tittar ut mot havet. 
+                    </figDesc>
+                    <graphic xml:id="stugan_album_s15_foto1_pub" url="collection/img/documents/stugan_album_s15_foto1.jpg" mimeType="image/jpg"/>
+                </figure>
+            </surface>
+            <surface xml:id="stugan_album_s15_foto2">
+                <figure>
+                    <label>Ett fotografi</label>
+                    <figDesc>
+                    Ett svartvitt fotografi av tre kvinnor som står på en klippa i Göteborgs skärgård. 
+                    </figDesc>
+                    <graphic xml:id="stugan_album_s15_foto2_pub" url="collection/img/documents/stugan_album_s15_foto2.jpg" mimeType="image/jpg"/>
+                </figure>
+            </surface>
+            <surface xml:id="stugan_album_s15_foto3">
+                <figure>
+                    <label>Ett fotografi</label>
+                    <figDesc>
+                    Ett svartvitt fotografi av tre kvinnor som promenerar över klipporna i Göteborgs skärgård. De har alla tre ryggarna mot kameran. 
+                    </figDesc>
+                    <graphic xml:id="stugan_album_s15_foto3_pub" url="collection/img/documents/stugan_album_s15_foto3.jpg" mimeType="image/jpg"/>
+                </figure>
+            </surface>
+            <surface xml:id="stugan_album_s16">
+                <figure>
+                    <label>Albumets sextonde sida</label>
+                    <figDesc> Ett skannat fotografi av albumets femtosextonde sida med fyra fotografier.
+                    </figDesc>
+                    <graphic xml:id="stugan_album_s16_pub" url="assets/img/documents/stugan_album_s16.jpg"/>
+                </figure>
+            </surface>
+            <surface xml:id="stugan_album_s16_foto1">
+                <figure>
+                    <label>Ett fotografi</label>
+                    <figDesc>
+                    Ett svartvitt fotografi av utsikten över Göteborgs skärgård. På bilden syns flera skär i havet.  
+                    </figDesc>
+                    <graphic xml:id="stugan_album_s16_foto1_pub" url="collection/img/documents/stugan_album_s16_foto1.jpg" mimeType="image/jpg"/>
+                    <head>Utsikten</head>
+                </figure>
+            </surface>
+            <surface xml:id="stugan_album_s16_foto2">
+                <figure>
+                    <label>Ett fotografi</label>
+                    <figDesc>
+                    Ett svartvitt fotografi av män och kvinnor som sitter på några klippor och fikar. I bakgrunden skymtar fasaden på systrarnas sommarstuga. Den är omålad och fönstren har inte än blivit insatta. 
+                    </figDesc>
+                    <graphic xml:id="stugan_album_s16_foto2_pub" url="collection/img/documents/stugan_album_s16_foto2.jpg" mimeType="image/jpg"/>
+                    <head>Taklagsfest</head>
+                </figure>
+            </surface>
+            <surface xml:id="stugan_album_s16_foto3">
+                <figure>
+                    <label>Ett fotografi</label>
+                    <figDesc>
+                    Ett svartvitt fotografi av stugan under byggnation. Fasaden är rest men fönster och tak saknas. På en påle som sticker upp över taknocken är ett ris fastsatt. Framför byggnaden sitter en samling män och kvinnor på klipporna.  
+                    </figDesc>
+                    <graphic xml:id="stugan_album_s16_foto3_pub" url="collection/img/documents/stugan_album_s16_foto3.jpg" mimeType="image/jpg"/>
+                    <head>Taklagsfest</head>
+                </figure>
+            </surface>
+            <surface xml:id="stugan_album_s16_foto4">
+                <figure>
+                    <label>Ett fotografi</label>
+                    <figDesc>
+                    Ett svartvitt fotografi av systrarnas sommarstuga under byggnation. Fasad, tak och fönster är färdiga. Stugan är omålad och är omgärdad av byggställningar. På klipporna framför stugan ligger träplankor och byggspillror. 
+                    </figDesc>
+                    <graphic xml:id="stugan_album_s16_foto4_pub" url="collection/img/documents/stugan_album_s16_foto4.jpg" mimeType="image/jpg"/>
+                    <head>Stugan under byggnad våren 1933</head>
+                </figure>
+            </surface>
+        </surfaceGrp>
+        </facsimile>
+
+        <text type="note" facs="#stugan_album_s15">
+            <body>
+                <div>
+                    <p>
+                           Badstranden undersökes
+                    </p>
+                </div>
+            </body>
+        </text>
+        </TEI>
+
+        <TEI xml:id="S1-2">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Album, stugan första uppslaget</title>
+                    <author></author>
+                </titleStmt>
+                <publicationStmt>
+                    <p></p>
+                </publicationStmt>
+                <sourceDesc>
+                    <p></p>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+
+        <facsimile>
+        <surfaceGrp xml:id="stugan_album_uppslag10">
+                <figure>
+                    <label>Albumets tionde uppslag</label>
+                    <figDesc> Ett fotografi av sida 19 och 20 i albumet.
+                    </figDesc>
+                    <graphic xml:id="stugan_album_uppslag1_pub" url="assets/img/documents/stugan_album_uppslag1.jpg"/>
+                </figure>
+            <surface xml:id="stugan_album_s19">
+                <figure>
+                    <label>Albumets nittonde sida</label>
+                    <figDesc> Ett skannat fotografi av albumets andra sida med ett tidningsutklipp.
+                    </figDesc>
+                    <graphic xml:id="stugan_album_s19_pub" url="assets/img/documents/stugan_album_s19.jpg"/>
+                </figure>
+            </surface>
+            <surface xml:id="stugan_album_s20">
+                <figure>
+                    <label>Albumets nittonde sida</label>
+                    <figDesc> Ett skannat fotografi av albumets andra sida med ett tidningsutklipp.
+                    </figDesc>
+                    <graphic xml:id="stugan_album_s20_pub" url="assets/img/documents/stugan_album_s20.jpg"/>
+                </figure>
+            </surface>
+        </surfaceGrp>
+        </facsimile>
+
+        <text type="note" facs="#stugan_album_uppslag10">
+            <body>
+                <div>
+                    <h1>”STUGAN” på Näset</h1>
+                    <h2>Hur Sahlgrensystrarna ordnat för sig</h2>
+                    <p>
+                           <cb n="1"/>
+                            Sahlgrenska sjukhuset är stort! <lb/>                       
+                            Sjuksystrarna där äro många! Om- <lb/>               
+                            kring 300 sköterskor och elever! <lb/>
+                            Arbetstiden är lång. Sextio tim- <lb/>
+                            mar i veckan. Men de 60 timmarna <lb/>
+                            betyder en betydlig förbättring. Det <lb/>
+                            har nämligen varit 80 timmar. Redu- <lb/>
+                            ceringen i arbetstidens längd har ny- <lb/>
+                            ligen ägt rum. <lb/>
+                            Sextio timmars arbete i veckan å ett <lb/>
+                            sjukhus kan vara ansträngande nog. <lb/>
+                            Inte underligt då, att tanken föddes <lb/>
+                            att ordna ett sommarhem. För <lb/>
+                            tre år sedan började man fundera över <lb/>
+                            projektet. Genom en jultidning ”Stu- <lb/>
+                            gan” 1931 och ett par basarer, där <lb/>
+                            man sålde Sahlgrensystrarnas hand- <lb/>
+                            arbeten, fick man ihop till grund. Och <lb/>
+                            det huvudsakligaste för ett bygga. <lb/>
+                            En styrelse har haft att ordna om <lb/>
+                            Så att ”Stugan” skulle bli verklighet. <lb/>
+                            Där fanns fröken Henning samt syst- <lb/>
+                            rarna Britta Källström, Karin Olsson, <lb/>
+                            Ann-Sofi Manne, Anna Forsén och <lb/>
+                            Ebba Andersson. <lb/>
+                            Och så satt man igång. Fick tag i <lb/>
+                            plats vid Hammar, ute på Näset. Arki- <lb/>
+                            tekt Wilhelm Mattson utförde rit- <lb/>
+                            ningarna. Byggmästare Tellander stod <lb/>
+                            för uppförandet. <lb/>  
+                            Nu är stugan färdig. Sahlgrens- <lb/> 
+                            systrarnas sommarhem står vackert på <lb/>
+                            en bergknalle ute vid havet. Om- <lb/>
+                            rådet är stort. C:a 17, 000 kvm. Sten- <lb/>
+                            mark broderad med ljung. <lb/>
+                            ”Stugan” invigdes i tisdags förra <lb/>
+                            <cb n="2"/>
+                            veckan. Hundratals Sahlgrenssystrar i <lb/>
+                            sina ljusa sköterskedräkter hade <lb/>
+                            samlats där ute. Överläkarna, d:r Sven <lb/>
+                            Johansson och d:r Gotthard Söder- <lb/>
+                            bergh hade också passat på för att <lb/> 
+                            se hur deras personal ordnat åt sig för <lb/>
+                            sommaren. Tidningsmän och andra <lb/>
+                            <cb n="3"/>
+                            inbjudna. Det var en väldig samling <lb/>
+                            som syster Britta och fröken Inga <lb/>
+                            Hemming hade att hälsa välkommen ut <lb/>
+                            till landet, ut till havet, ut till fåglar- <lb/>
+                            ne. Solen sken så särskilt vackert. <lb/>
+                            Sahlgrenssystrarna sökte också tävla <lb/>
+                            med solen. Att de voro glada över, <lb/>
+                            <cb n="4"/>
+                            att ha landställe på egen grund, var <lb/>
+                            tydligt. <lb/>
+                            Så visades allt! Och vi som hade att <lb/>
+                            göra husesyn fann det allt vara gott <lb/>
+                            och bra. Den rymliga storstugan, där <lb/>
+                            det bjöds på kaffe och dopp, var fun- <lb/>
+                            kis. I alla händelser fullt modern och <lb/>
+                            enkel. Vackert målad och hemtrev- <lb/>
+                            ligt med tak i plywood. Överallt lyste <lb/> 
+                            det i vackra färger: rostrött, gult och <lb/>
+                            grönt. Ett stort präktigt kök. Sär- <lb/>
+                            skilt rum med skåp för badgrejor. En <lb/>
+                            stor källare, nedsprängd i berget, för <lb/>
+                            förvaring av matvaror o.d. I övre <lb/>
+                            våningen sovrum med sovkojer. Be- <lb/>
+                            kvämt och praktiskt ordnat för att <lb/>
+                            samtidigt kunna härbergera 18 natt- <lb/>
+                            gäster. Fler blir det väl knappast, <lb/>
+                            som kan ligga kvar under nätterna, <lb/>
+                            omväxlande. Men behövs det, så är <lb/>
+                            det en enkel sak att ordna med fler <lb/>
+                            sängplatser, så stora utrymmen som <lb/>
+                            finns. <lb/>
+                            I sitt hälsnings- och invigningstal <lb/>
+                            frambar föreståndarinnan, fröken <lb/>
+                            Henning, ett tack, främst till sjuk- <lb/>
+                            husets läkare d:r Söderbergh och d:r <lb/> 
+                            Johansson för det intresse de visat <lb/>
+                            bygget; till arkitekt och byggmästare; <lb/>
+                            till alla som bidragit till att finansiera <lb/>
+                            sommarhemmet. Som man hoppas- <lb/>
+                            genom en ny basar- skall vara helt- <lb/>
+                            betalt. <lb/>
+                            Men nu vänder vi blicken utåt. En <lb/>
+                            bedårande utsikt, vare sig man place- <lb/>
+                            rat sig i storstugan, å verandan eller <lb/>
+                            nedanför på berget. Där ute ligger <lb/>
+                            de blåa fjordarna, med dess gråa klip- <lb/>
+                            por och kobbar. Långt borta ser man <lb/>
+                            konturerna av Vinga fyr. Där ute på <lb/>
+                            böljorna dunkar kuttrarna, där glider <lb/>
+                            segelbåtar fram. Vid stränderna <lb/>
+                            kommer sommaren med ett livligt bad- <lb/>
+                            liv. Och en bit från ”Stugan”, nedan- <lb/>
+                            för bergbranten har Sahlgrenssytrar- <lb/>
+                            na sina egna badställen på omkring <lb/>
+                            200 meters strandvidd. <lb/>
+                            Vad kan man mera begära! Vi <lb/>
+                            lyckönska dem till förvärvet! De be- <lb/>
+                            höva så väl den solbestrålning, det <lb/>
+                            lugn och det salta havsstänk, som här <lb/>
+                            bjudes. Som omväxling med långa <lb/>
+                            dagar och nätter vid de sjukas bäddar. <lb/>
+                            När sund och vik här stranden spegla, <lb/>
+                            Med pris åt dem vi villigt är tillfreds <lb/>
+                            Men när tvärs stiltjen kårar segla <lb/>
+                            Med solguld i, då är vi rätt tillfreds.
+                            
+
+                    </p>
+                </div>
+            </body>
+        </text>
+        </TEI>
+
+        <TEI xml:id="S15-16">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Album, stugan åttonde uppslaget</title>
+                    <author></author>
+                </titleStmt>
+                <publicationStmt>
+                    <p></p>
+                </publicationStmt>
+                <sourceDesc>
+                    <p></p>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+
+        <facsimile>
+        <surfaceGrp xml:id="stugan_album_uppslag14">
+                <figure>
+                    <label>Albumets fjortonde uppslag</label>
+                    <figDesc> Ett fotografi av sida 27 och 28 i albumet.
+                    </figDesc>
+                    <graphic xml:id="stugan_album_uppslag14_pub" url="assets/img/documents/stugan_album_uppslag14.jpg"/>
+                </figure>
+            <surface xml:id="stugan_album_s27">
+                <figure>
+                    <label>Albumets tjugosjunde sida</label>
+                    <figDesc> Ett skannat fotografi av albumets sjugosjunde sida med tre fotografier.
+                    </figDesc>
+                    <graphic xml:id="stugan_album_s27_pub" url="assets/img/documents/stugan_album_s27.jpg"/>
+                </figure>
+            </surface>
+            <surface xml:id="stugan_album_s27_foto1">
+                <figure>
+                    <label>Ett fotografi</label>
+                    <figDesc>
+                    Ett svartvitt fotografi av fem kvinnor som sitter och fikar utanför sommarstugan, troligtvis på baksidan. De är sommarklädda och tre av dem sitter på utomhusmöbler med ett bord framför sig, medan två av dem sitter på stugans trapp. 
+                    </figDesc>
+                    <graphic xml:id="stugan_album_s27_foto1_pub" url="collection/img/documents/stugan_album_s27_foto1.jpg" mimeType="image/jpg"/>
+                    <head>Söndagsfrukost</head>
+                </figure>
+            </surface>
+            <surface xml:id="stugan_album_s27_foto2">
+                <figure>
+                    <label>Ett fotografi</label>
+                    <figDesc>
+                    Ett svartvitt fotografi av fem kvinnor sitter på en klippa i Göteborgs skärgård. Mellan sig har de en bricka med karaff och koppar. 
+                    </figDesc>
+                    <graphic xml:id="stugan_album_s27_foto2_pub" url="collection/img/documents/stugan_album_s27_foto2.jpg" mimeType="image/jpg"/>
+                </figure>
+            </surface>
+            <surface xml:id="stugan_album_s27_foto3">
+                <figure>
+                    <label>Ett fotografi</label>
+                    <figDesc>
+                    Ett svartvitt fotografi av tre kvinnor som sitter på stolar framför sommarstugan. Bakom den syns stugans trappa som går upp till en veranda, där dörrarna in till stugan står öppna.  
+                    </figDesc>
+                    <graphic xml:id="stugan_album_s27_foto3_pub" url="collection/img/documents/stugan_album_s27_foto3.jpg" mimeType="image/jpg"/>
+                </figure>
+            </surface>
+             <surface xml:id="stugan_album_s28">
+                <figure>
+                    <label>Albumets tjugoåttonde sida</label>
+                    <figDesc> Ett skannat fotografi av albumets sjugosåttonde sida med tre fotografier.
+                    </figDesc>
+                    <graphic xml:id="stugan_album_s28_pub" url="assets/img/documents/stugan_album_s28.jpg"/>
+                </figure>
+            </surface>
+            <surface xml:id="stugan_album_s28_foto1">
+                <figure>
+                    <label>Ett fotografi</label>
+                    <figDesc>
+                    Ett svartvitt fotografi av en äldre kvinna och en sjuksyster i Göteborgs skärgård.  
+                    </figDesc>
+                    <graphic xml:id="stugan_album_s28_foto1_pub" url="collection/img/documents/stugan_album_s28_foto1.jpg" mimeType="image/jpg"/>
+                </figure>
+            </surface>
+            <surface xml:id="stugan_album_s28_foto2">
+                <figure>
+                    <label>Ett fotografi</label>
+                    <figDesc>
+                    Ett svartvitt fotografi av sju kvinnor som sitter runt ett bord utanför sommarstugan. Flera av kvinnorna har badkläder på sig och på bordet står det kaffekoppar och en kaka.  
+                    </figDesc>
+                    <graphic xml:id="stugan_album_s28_foto2_pub" url="collection/img/documents/stugan_album_s28_foto2.jpg" mimeType="image/jpg"/>
+                </figure>
+            </surface>
+            <surface xml:id="stugan_album_s28_foto3">
+                <figure>
+                    <label>Ett fotografi</label>
+                    <figDesc>
+                    Ett svartvitt fotografi där nederdelen är avklippt. I bakgrunden sitter en samling kvinnor runt ett bord utanför sommarstugan. I förgrunden sitter en kvinna i baddräkt och äter en bit kaka.   
+                    </figDesc>
+                    <graphic xml:id="stugan_album_s28_foto3_pub" url="collection/img/documents/stugan_album_s28_foto3.jpg" mimeType="image/jpg"/>
+                </figure>
+            </surface>
+            </surfaceGrp>
+        </facsimile>
+        </TEI>
 
 </teiCorpus>
