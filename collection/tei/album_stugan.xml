@@ -39,7 +39,7 @@
             <textDesc>
                 
                 <channel mode="w"/>
-                <constitution type="frags">Samling av foton och tidningsutklipp</constitution>
+                <constitution type="frags">Samling av foton och tidningsurklipp</constitution>
                 <derivation></derivation>
                 <domain></domain>
                 <factuality></factuality>
@@ -125,9 +125,9 @@
             </surface>
             <surface xml:id="stugan_album_s2_artkl2">
                 <figure>
-                    <label>Ett tidningsutklipp</label>
+                    <label>Ett tidningsurklipp</label>
                     <figDesc>
-                    Ett fotografi av ett tidningsutklipp om sjuksystrarnas julförsäljning.
+                    Ett fotografi av ett tidningsurklipp om sjuksystrarnas julförsäljning.
                     </figDesc>
                     <graphic xml:id="stugan_album_s2_artkl2_pub" url="assets/img/documents/stugan_album_s2_artkl2.jpg" mimeType="image/jpg"/>
                 </figure>
@@ -252,7 +252,7 @@
             <surface xml:id="stugan_album_s3">
                 <figure>
                     <label>Albumets tredje sida</label>
-                    <figDesc> Ett skannat fotografi av albumets tredje sida med tett fotografi och ett tidningsutklipp.
+                    <figDesc> Ett skannat fotografi av albumets tredje sida med tett fotografi och ett tidningsurklipp.
                     </figDesc>
                     <graphic xml:id="stugan_album_s3_pub" url="assets/img/documents/stugan_album_s3.jpg"/>
                 </figure>
