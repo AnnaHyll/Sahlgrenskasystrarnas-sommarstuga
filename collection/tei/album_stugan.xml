@@ -5,10 +5,11 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Fotoalbum med foton och tidningsutklipp av Sahlgrenskasystrarnas inköp av sommarstuga på 1930-talet</title>
+                <title>Fotoalbum om Sahlgrenskasystrarnas inköp av sommarstuga</title>
                 <author></author>
                 <principal>Anna Hyll, Beata Carlberg, Sabina Stjernman</principal>
             </titleStmt>
+            
             <publicationStmt>
                 <publisher>University of Borås</publisher>
                 <date>May 2025</date>
@@ -26,16 +27,19 @@
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <p>Albumet finns i Medicinhistoriskas samlingar.</p>
+                <p>Album skänkt av Gertrud Andersson till Medicinhistoriska museet den
+                <date when="1998-01-14">14 januari 1998</date> Albumet finns i Medicinhistoriskas samlingar.</p>
+
+
             </sourceDesc>
+            
         </fileDesc>
         <profileDesc>
+            
             <textDesc>
-                <!-- Här anger du vad som kan vara tillämpligt. Kontrollera mot TEI guidelines 
-                för möjliga elements semantik. Om du dokumenterar en annan semantik (i encodingDesc) så kan det vara gångbart också.
-                -->
-                <channel></channel>
-                <constitution></constitution>
+                
+                <channel mode="w"/>
+                <constitution type="frags">Samling av foton och tidningsutklipp</constitution>
                 <derivation></derivation>
                 <domain></domain>
                 <factuality></factuality>
@@ -43,13 +47,11 @@
                 <preparedness></preparedness>
                 <purpose></purpose>
             </textDesc>
-            <creation> Album skänkt av Gertrud Andersson till Medicinhistoriska museet den
-                <date when="1998-01-14">14 januari 1998</date>
+            
+            <creation> 
             </creation>
             <textClass>
-                <!-- Här dokumenterar du lämpligen från vilkan vokabulär du hämtat "ämnesorden", som alltså gäller hela samlingen även här. 
-                    Gettys Art and Architecture Thesaurus är sannolikt en rimlig vokabulär för många projekt
-                -->
+               
                 <keywords scheme="https://www.getty.edu/research/tools/vocabularies/aat/">
                     <list>
                         <item>
@@ -109,7 +111,7 @@
                     <figDesc>
                     Ett fotografi av ett inbjudningskort till sjuksystrarnas julförsäljning.
                     </figDesc>
-                    <graphic xml:id="stugan_album_s2_inbjudan_pub" url="collection/img/documents/stugan_album_s2_inbjudan.jpg" mimeType="image/jpg"/>
+                    <graphic xml:id="stugan_album_s2_inbjudan_pub" url="assets/img/documents/stugan_album_s2_inbjudan.jpg" mimeType="image/jpg"/>
                 </figure>
             </surface>
             <surface xml:id="stugan_album_s2_artkl1">
@@ -118,7 +120,7 @@
                     <figDesc>
                     Ett fotografi av ett tidningsutklipp om sjuksystrarnas julförsäljning.
                     </figDesc>
-                    <graphic xml:id="stugan_album_s2_artkl1_pub" url="collection/img/documents/stugan_album_s2_artkl1.jpg" mimeType="image/jpg"/>
+                    <graphic xml:id="stugan_album_s2_artkl1_pub" url="assets/img/documents/stugan_album_s2_artkl1.jpg" mimeType="image/jpg"/>
                 </figure>
             </surface>
             <surface xml:id="stugan_album_s2_artkl2">
@@ -127,7 +129,7 @@
                     <figDesc>
                     Ett fotografi av ett tidningsutklipp om sjuksystrarnas julförsäljning.
                     </figDesc>
-                    <graphic xml:id="stugan_album_s2_artkl2_pub" url="collection/img/documents/stugan_album_s2_artkl2.jpg" mimeType="image/jpg"/>
+                    <graphic xml:id="stugan_album_s2_artkl2_pub" url="assets/img/documents/stugan_album_s2_artkl2.jpg" mimeType="image/jpg"/>
                 </figure>
             </surface>
         </surfaceGrp>
@@ -142,7 +144,7 @@
                            En sommarstuga för Systrarna <lb/>
                            anordnas å <lb/>
                            Sahlgrenska Sjukhuset <lb/>
-                           Onsdagen den 3 Dec. 1930 med början kl. 12 midd. <lb/>
+                           Onsdagen den <date when="1930-12-03">3 Dec. 1930</date> med början kl. 12 midd. <lb/>
                            Servering av Kaffe, Thé m.m.     Gåvor mottages med tacksamhet 
                     </p>
                 </div>
@@ -161,8 +163,8 @@
                          hem. Man har nu planer på att bygga<lb/>
                          en liten sommarstuga vid havet. Till<lb/>
                          förmån härför anordnas försäljning på<lb/>
-                         Sahlgrenska sjukhuset onsdagen den 3<lb/>
-                         december, med början kl. 12 midda-<lb/>
+                         Sahlgrenska sjukhuset onsdagen den <date when="1930-12-03">3<lb/>
+                         december</date>, med början kl. 12 midda-<lb/>
                          gen. Därvid kan allmänheten, som är<lb/>
                          hjärtligt välkommen, få tillfälle inköpa<lb/>
                          de handarbeten, som tillverkats på<lb/>
@@ -261,7 +263,7 @@
                     <figDesc>
                     Ett svartvitt fotografi av två sjuksystrar vid ett försäljningsbord täckt med en vit duk. Den ena håller i en korg med blommor och den andra På bordet syns bland annat tre dockor och en vas med blommor. På en skylt på väggen bakom bordet samt på en skylt på framsidan av bordet står det God jul. 
                     </figDesc>
-                    <graphic xml:id="stugan_album_s3_foto_pub" url="collection/img/documents/stugan_album_s3_foto.jpg" mimeType="image/jpg"/>
+                    <graphic xml:id="stugan_album_s3_foto_pub" url="assets/img/documents/stugan_album_s3_foto.jpg" mimeType="image/jpg"/>
                 </figure>
             </surface>
             <surface xml:id="stugan_album_s4">
@@ -278,7 +280,7 @@
                     <figDesc>
                     Ett svartvitt fotografi från sjuksystrarna vid Sahlgrenska julförsäljning den tredje december 1930. I förgrunden till vänster böjer sig en läkare över ett bord med varor. På andra sidan bordet står en sjuksyster. I bakgrunden syns mer av bordet och flera besökare och sjuksystrar. 
                     </figDesc>
-                    <graphic xml:id="stugan_album_s4_foto_pub" url="collection/img/documents/stugan_album_s4_foto.jpg" mimeType="image/jpg"/>
+                    <graphic xml:id="stugan_album_s4_foto_pub" url="assets/img/documents/stugan_album_s4_foto.jpg" mimeType="image/jpg"/>
                 </figure>
             </surface>
         </surfaceGrp>
@@ -359,7 +361,7 @@
                     <figDesc>
                     Ett svartvitt fotografi från sjuksystrarna vid Sahlgrenskas julförsäljning den tredje december 1930. Till vänster i bilden syns en sjuksyster och ett barn hålla i ett metspö till försäjningens fiskedamm. En påse sitter på kroken. Flera kvinnor i ytterkläder och en sjuksyster tittar på, två av kvinnorna tittar in i kameran. 
                     </figDesc>
-                    <graphic xml:id="stugan_album_s5_foto_pub" url="collection/img/documents/stugan_album_s5_foto.jpg" mimeType="image/jpg"/>
+                    <graphic xml:id="stugan_album_s5_foto_pub" url="assets/img/documents/stugan_album_s5_foto.jpg" mimeType="image/jpg"/>
                 </figure>
             </surface>  
             <surface xml:id="stugan_album_s6">
@@ -376,7 +378,7 @@
                     <figDesc>
                     Ett fotografi av ett tidningsutklipp om sjuksystrarnas julförsäljning
                     </figDesc>
-                    <graphic xml:id="stugan_album_s6_artkl1_pub" url="collection/img/documents/stugan_album_s6_artkl1.jpg" mimeType="image/jpg"/>
+                    <graphic xml:id="stugan_album_s6_artkl1_pub" url="assets/img/documents/stugan_album_s6_artkl1.jpg" mimeType="image/jpg"/>
                 </figure>
             </surface>
             <surface xml:id="stugan_album_s6_artkl2">
@@ -385,7 +387,7 @@
                     <figDesc>
                     Ett fotografi av ett tidningsutklipp om sjuksystrarnas julförsäljning
                     </figDesc>
-                    <graphic xml:id="stugan_album_s6_artkl2_pub" url="collection/img/documents/stugan_album_s6_artkl2.jpg" mimeType="image/jpg"/>
+                    <graphic xml:id="stugan_album_s6_artkl2_pub" url="assets/img/documents/stugan_album_s6_artkl2.jpg" mimeType="image/jpg"/>
                 </figure>
             </surface>
         </surfaceGrp>
@@ -465,7 +467,7 @@
                     <p>
                             <cb n="1"/>
                             Det hör till ovanligheterna att se folk <lb/>
-                            vandra f r å n Sahlgrenska fullastade med <lb/>
+                            vandra från Sahlgrenska fullastade med <lb/>
                             paketer. Såsom det emellertid för ovan- <lb/>
                             lighetens skull hände igår middag. An- <lb/>
                             ledningen var naturligtvis sjuksystrarnas <lb/>
@@ -545,7 +547,7 @@
                     <figDesc>
                     Ett svartvitt fotografi av två kvinnor i Göteborgs skärgård. De har kappor och hatt på sig. En av dem tittar mot kameran och en tittar ut mot havet. 
                     </figDesc>
-                    <graphic xml:id="stugan_album_s15_foto1_pub" url="collection/img/documents/stugan_album_s15_foto1.jpg" mimeType="image/jpg"/>
+                    <graphic xml:id="stugan_album_s15_foto1_pub" url="assets/img/documents/stugan_album_s15_foto1.jpg" mimeType="image/jpg"/>
                 </figure>
             </surface>
             <surface xml:id="stugan_album_s15_foto2">
@@ -554,7 +556,7 @@
                     <figDesc>
                     Ett svartvitt fotografi av tre kvinnor som står på en klippa i Göteborgs skärgård. 
                     </figDesc>
-                    <graphic xml:id="stugan_album_s15_foto2_pub" url="collection/img/documents/stugan_album_s15_foto2.jpg" mimeType="image/jpg"/>
+                    <graphic xml:id="stugan_album_s15_foto2_pub" url="assets/img/documents/stugan_album_s15_foto2.jpg" mimeType="image/jpg"/>
                 </figure>
             </surface>
             <surface xml:id="stugan_album_s15_foto3">
@@ -563,7 +565,7 @@
                     <figDesc>
                     Ett svartvitt fotografi av tre kvinnor som promenerar över klipporna i Göteborgs skärgård. De har alla tre ryggarna mot kameran. 
                     </figDesc>
-                    <graphic xml:id="stugan_album_s15_foto3_pub" url="collection/img/documents/stugan_album_s15_foto3.jpg" mimeType="image/jpg"/>
+                    <graphic xml:id="stugan_album_s15_foto3_pub" url="assets/img/documents/stugan_album_s15_foto3.jpg" mimeType="image/jpg"/>
                 </figure>
             </surface>
             <surface xml:id="stugan_album_s16">
@@ -580,7 +582,7 @@
                     <figDesc>
                     Ett svartvitt fotografi av utsikten över Göteborgs skärgård. På bilden syns flera skär i havet.  
                     </figDesc>
-                    <graphic xml:id="stugan_album_s16_foto1_pub" url="collection/img/documents/stugan_album_s16_foto1.jpg" mimeType="image/jpg"/>
+                    <graphic xml:id="stugan_album_s16_foto1_pub" url="assets/img/documents/stugan_album_s16_foto1.jpg" mimeType="image/jpg"/>
                     <head>Utsikten</head>
                 </figure>
             </surface>
@@ -590,7 +592,7 @@
                     <figDesc>
                     Ett svartvitt fotografi av män och kvinnor som sitter på några klippor och fikar. I bakgrunden skymtar fasaden på systrarnas sommarstuga. Den är omålad och fönstren har inte än blivit insatta. 
                     </figDesc>
-                    <graphic xml:id="stugan_album_s16_foto2_pub" url="collection/img/documents/stugan_album_s16_foto2.jpg" mimeType="image/jpg"/>
+                    <graphic xml:id="stugan_album_s16_foto2_pub" url="assets/img/documents/stugan_album_s16_foto2.jpg" mimeType="image/jpg"/>
                     <head>Taklagsfest</head>
                 </figure>
             </surface>
@@ -600,7 +602,7 @@
                     <figDesc>
                     Ett svartvitt fotografi av stugan under byggnation. Fasaden är rest men fönster och tak saknas. På en påle som sticker upp över taknocken är ett ris fastsatt. Framför byggnaden sitter en samling män och kvinnor på klipporna.  
                     </figDesc>
-                    <graphic xml:id="stugan_album_s16_foto3_pub" url="collection/img/documents/stugan_album_s16_foto3.jpg" mimeType="image/jpg"/>
+                    <graphic xml:id="stugan_album_s16_foto3_pub" url="assets/img/documents/stugan_album_s16_foto3.jpg" mimeType="image/jpg"/>
                     <head>Taklagsfest</head>
                 </figure>
             </surface>
@@ -610,7 +612,7 @@
                     <figDesc>
                     Ett svartvitt fotografi av systrarnas sommarstuga under byggnation. Fasad, tak och fönster är färdiga. Stugan är omålad och är omgärdad av byggställningar. På klipporna framför stugan ligger träplankor och byggspillror. 
                     </figDesc>
-                    <graphic xml:id="stugan_album_s16_foto4_pub" url="collection/img/documents/stugan_album_s16_foto4.jpg" mimeType="image/jpg"/>
+                    <graphic xml:id="stugan_album_s16_foto4_pub" url="assets/img/documents/stugan_album_s16_foto4.jpg" mimeType="image/jpg"/>
                     <head>Stugan under byggnad våren 1933</head>
                 </figure>
             </surface>
@@ -628,11 +630,11 @@
         </text>
         </TEI>
 
-        <TEI xml:id="S1-2">
+        <TEI xml:id="S19-20">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>Album, stugan första uppslaget</title>
+                    <title>Album, stugan tionde uppslaget</title>
                     <author></author>
                 </titleStmt>
                 <publicationStmt>
@@ -648,9 +650,9 @@
         <surfaceGrp xml:id="stugan_album_uppslag10">
                 <figure>
                     <label>Albumets tionde uppslag</label>
-                    <figDesc> Ett fotografi av sida 19 och 20 i albumet.
+                    <figDesc> Ett fotografi av sida nitton och tjugo i albumet.
                     </figDesc>
-                    <graphic xml:id="stugan_album_uppslag1_pub" url="assets/img/documents/stugan_album_uppslag1.jpg"/>
+                    <graphic xml:id="stugan_album_uppslag10_pub" url="assets/img/documents/stugan_album_uppslag10.jpg"/>
                 </figure>
             <surface xml:id="stugan_album_s19">
                 <figure>
@@ -674,8 +676,8 @@
         <text type="note" facs="#stugan_album_uppslag10">
             <body>
                 <div>
-                    <h1>”STUGAN” på Näset</h1>
-                    <h2>Hur Sahlgrensystrarna ordnat för sig</h2>
+                    <head>”STUGAN” på Näset</head>
+                    <head>Hur Sahlgrensystrarna ordnat för sig</head>
                     <p>
                            <cb n="1"/>
                             Sahlgrenska sjukhuset är stort! <lb/>                       
@@ -796,7 +798,7 @@
         </text>
         </TEI>
 
-        <TEI xml:id="S15-16">
+        <TEI xml:id="S27-28">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
@@ -816,14 +818,14 @@
         <surfaceGrp xml:id="stugan_album_uppslag14">
                 <figure>
                     <label>Albumets fjortonde uppslag</label>
-                    <figDesc> Ett fotografi av sida 27 och 28 i albumet.
+                    <figDesc> Ett fotografi av sida tjugosju och tjugoåtta i albumet.
                     </figDesc>
                     <graphic xml:id="stugan_album_uppslag14_pub" url="assets/img/documents/stugan_album_uppslag14.jpg"/>
                 </figure>
             <surface xml:id="stugan_album_s27">
                 <figure>
                     <label>Albumets tjugosjunde sida</label>
-                    <figDesc> Ett skannat fotografi av albumets sjugosjunde sida med tre fotografier.
+                    <figDesc> Ett skannat fotografi av albumets tjugosjunde sida med tre fotografier.
                     </figDesc>
                     <graphic xml:id="stugan_album_s27_pub" url="assets/img/documents/stugan_album_s27.jpg"/>
                 </figure>
@@ -834,7 +836,7 @@
                     <figDesc>
                     Ett svartvitt fotografi av fem kvinnor som sitter och fikar utanför sommarstugan, troligtvis på baksidan. De är sommarklädda och tre av dem sitter på utomhusmöbler med ett bord framför sig, medan två av dem sitter på stugans trapp. 
                     </figDesc>
-                    <graphic xml:id="stugan_album_s27_foto1_pub" url="collection/img/documents/stugan_album_s27_foto1.jpg" mimeType="image/jpg"/>
+                    <graphic xml:id="stugan_album_s27_foto1_pub" url="assets/img/documents/stugan_album_s27_foto1.jpg" mimeType="image/jpg"/>
                     <head>Söndagsfrukost</head>
                 </figure>
             </surface>
@@ -844,7 +846,7 @@
                     <figDesc>
                     Ett svartvitt fotografi av fem kvinnor sitter på en klippa i Göteborgs skärgård. Mellan sig har de en bricka med karaff och koppar. 
                     </figDesc>
-                    <graphic xml:id="stugan_album_s27_foto2_pub" url="collection/img/documents/stugan_album_s27_foto2.jpg" mimeType="image/jpg"/>
+                    <graphic xml:id="stugan_album_s27_foto2_pub" url="assets/img/documents/stugan_album_s27_foto2.jpg" mimeType="image/jpg"/>
                 </figure>
             </surface>
             <surface xml:id="stugan_album_s27_foto3">
@@ -853,7 +855,7 @@
                     <figDesc>
                     Ett svartvitt fotografi av tre kvinnor som sitter på stolar framför sommarstugan. Bakom den syns stugans trappa som går upp till en veranda, där dörrarna in till stugan står öppna.  
                     </figDesc>
-                    <graphic xml:id="stugan_album_s27_foto3_pub" url="collection/img/documents/stugan_album_s27_foto3.jpg" mimeType="image/jpg"/>
+                    <graphic xml:id="stugan_album_s27_foto3_pub" url="assets/img/documents/stugan_album_s27_foto3.jpg" mimeType="image/jpg"/>
                 </figure>
             </surface>
              <surface xml:id="stugan_album_s28">
@@ -870,7 +872,7 @@
                     <figDesc>
                     Ett svartvitt fotografi av en äldre kvinna och en sjuksyster i Göteborgs skärgård.  
                     </figDesc>
-                    <graphic xml:id="stugan_album_s28_foto1_pub" url="collection/img/documents/stugan_album_s28_foto1.jpg" mimeType="image/jpg"/>
+                    <graphic xml:id="stugan_album_s28_foto1_pub" url="assets/img/documents/stugan_album_s28_foto1.jpg" mimeType="image/jpg"/>
                 </figure>
             </surface>
             <surface xml:id="stugan_album_s28_foto2">
@@ -879,7 +881,7 @@
                     <figDesc>
                     Ett svartvitt fotografi av sju kvinnor som sitter runt ett bord utanför sommarstugan. Flera av kvinnorna har badkläder på sig och på bordet står det kaffekoppar och en kaka.  
                     </figDesc>
-                    <graphic xml:id="stugan_album_s28_foto2_pub" url="collection/img/documents/stugan_album_s28_foto2.jpg" mimeType="image/jpg"/>
+                    <graphic xml:id="stugan_album_s28_foto2_pub" url="assets/img/documents/stugan_album_s28_foto2.jpg" mimeType="image/jpg"/>
                 </figure>
             </surface>
             <surface xml:id="stugan_album_s28_foto3">
@@ -888,7 +890,7 @@
                     <figDesc>
                     Ett svartvitt fotografi där nederdelen är avklippt. I bakgrunden sitter en samling kvinnor runt ett bord utanför sommarstugan. I förgrunden sitter en kvinna i baddräkt och äter en bit kaka.   
                     </figDesc>
-                    <graphic xml:id="stugan_album_s28_foto3_pub" url="collection/img/documents/stugan_album_s28_foto3.jpg" mimeType="image/jpg"/>
+                    <graphic xml:id="stugan_album_s28_foto3_pub" url="assets/img/documents/stugan_album_s28_foto3.jpg" mimeType="image/jpg"/>
                 </figure>
             </surface>
             </surfaceGrp>
