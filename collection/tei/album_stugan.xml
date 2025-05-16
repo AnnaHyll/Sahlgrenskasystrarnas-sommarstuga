@@ -639,7 +639,7 @@ OTk4IGF2IEdlcnRydWQgQW5kZXJzc29uLiAg
             <surface xml:id="stugan_album_s2">
                 <figure>
                     <label>Albumets andra sida</label>
-                    <figDesc> Ett skannat fotografi av albumets andra sida med två tidningsutklipp och ett inbjudningskort.
+                    <figDesc> Ett skannat fotografi av albumets andra sida med två tidningsurklipp och ett inbjudningskort.
                     </figDesc>
                     <graphic xml:id="stugan_album_s2_pub" url="assets/img/documents/stugan_album_s2.jpg"/>
                 </figure>
@@ -655,9 +655,9 @@ OTk4IGF2IEdlcnRydWQgQW5kZXJzc29uLiAg
             </surface>
             <surface xml:id="stugan_album_s2_artkl1">
                 <figure>
-                    <label>Ett tidningsutklipp</label>
+                    <label>Ett tidningsurklipp</label>
                     <figDesc>
-                    Ett fotografi av ett tidningsutklipp om sjuksystrarnas julförsäljning.
+                    Ett fotografi av ett tidningsurklipp om sjuksystrarnas julförsäljning.
                     </figDesc>
                     <graphic xml:id="stugan_album_s2_artkl1_pub" url="assets/img/documents/stugan_album_s2_artkl1.jpg" mimeType="image/jpg"/>
                 </figure>
@@ -1254,7 +1254,7 @@ c3Nvbi4gIA==
             <surface xml:id="stugan_album_s3">
                 <figure>
                     <label>Albumets tredje sida</label>
-                    <figDesc> Ett skannat fotografi av albumets tredje sida med tett fotografi och ett tidningsurklipp.
+                    <figDesc> Ett skannat fotografi av albumets tredje sida med ett fotografi och ett tidningsurklipp.
                     </figDesc>
                     <graphic xml:id="stugan_album_s3_pub" url="assets/img/documents/stugan_album_s3.jpg"/>
                 </figure>
@@ -1263,7 +1263,7 @@ c3Nvbi4gIA==
                 <figure>
                     <label>Ett fotografi</label>
                     <figDesc>
-                    Ett svartvitt fotografi av två sjuksystrar vid ett försäljningsbord täckt med en vit duk. Den ena håller i en korg med blommor och den andra På bordet syns bland annat tre dockor och en vas med blommor. På en skylt på väggen bakom bordet samt på en skylt på framsidan av bordet står det God jul. 
+                    Ett svartvitt fotografi av två sjuksystrar vid ett försäljningsbord täckt med en vit duk. Den ena håller i en korg med blommor och den andra håller i en docka. På bordet syns bland annat tre dockor och en vas med blommor. På en skylt på väggen bakom bordet samt på en skylt på framsidan av bordet står det God jul. 
                     </figDesc>
                     <graphic xml:id="stugan_album_s3_foto_pub" url="assets/img/documents/stugan_album_s3_foto.jpg" mimeType="image/jpg"/>
                 </figure>
@@ -1271,7 +1271,7 @@ c3Nvbi4gIA==
             <surface xml:id="stugan_album_s4">
                 <figure>
                     <label>Albumets fjärde sida</label>
-                    <figDesc> Ett skannat fotografi av albumets fjärde sida med ett fotografi och ett tidningsutklipp.
+                    <figDesc> Ett skannat fotografi av albumets fjärde sida med ett fotografi och ett tidningsurklipp.
                     </figDesc>
                     <graphic xml:id="stugan_album_s4_pub" url="assets/img/documents/stugan_album_s4.jpg"/>
                 </figure>
@@ -1834,7 +1834,7 @@ OTk4IGF2IEdlcnRydWQgQW5kZXJzc29uLiAg
             <surface xml:id="stugan_album_s5">
                 <figure>
                     <label>Albumets femte sida</label>
-                    <figDesc> Ett skannat fotografi av albumets femte sida med ett fotografi och ett utklipp.
+                    <figDesc> Ett skannat fotografi av albumets femte sida med ett fotografi och ett urklipp.
                     </figDesc>
                     <graphic xml:id="stugan_album_s5_pub" url="assets/img/documents/stugan_album_s5.jpg"/>
                 </figure>
@@ -1851,25 +1851,25 @@ OTk4IGF2IEdlcnRydWQgQW5kZXJzc29uLiAg
             <surface xml:id="stugan_album_s6">
                 <figure>
                     <label>Albumets sjätte sida</label>
-                    <figDesc> Ett skannat fotografi av albumets sjätte sida med ett två tidningsutklipp.
+                    <figDesc> Ett skannat fotografi av albumets sjätte sida med två tidningsurklipp.
                     </figDesc>
                     <graphic xml:id="stugan_album_s6_pub" url="assets/img/documents/stugan_album_s6.jpg"/>
                 </figure>
             </surface>
             <surface xml:id="stugan_album_s6_artkl1">
                 <figure>
-                    <label>Ett tidningsutklipp</label>
+                    <label>Ett tidningsurklipp</label>
                     <figDesc>
-                    Ett fotografi av ett tidningsutklipp om sjuksystrarnas julförsäljning
+                    Ett fotografi av ett tidningsurklipp om sjuksystrarnas julförsäljning
                     </figDesc>
                     <graphic xml:id="stugan_album_s6_artkl1_pub" url="assets/img/documents/stugan_album_s6_artkl1.jpg" mimeType="image/jpg"/>
                 </figure>
             </surface>
             <surface xml:id="stugan_album_s6_artkl2">
                 <figure>
-                    <label>Ett tidningsutklipp</label>
+                    <label>Ett tidningsurklipp</label>
                     <figDesc>
-                    Ett fotografi av ett tidningsutklipp om sjuksystrarnas julförsäljning
+                    Ett fotografi av ett tidningsurklipp om sjuksystrarnas julförsäljning
                     </figDesc>
                     <graphic xml:id="stugan_album_s6_artkl2_pub" url="assets/img/documents/stugan_album_s6_artkl2.jpg" mimeType="image/jpg"/>
                 </figure>
@@ -2537,7 +2537,7 @@ OTk4IGF2IEdlcnRydWQgQW5kZXJzc29uLiAg
             <surface xml:id="stugan_album_s16">
                 <figure>
                     <label>Albumets sextonde sida</label>
-                    <figDesc> Ett skannat fotografi av albumets femtosextonde sida med fyra fotografier.
+                    <figDesc> Ett skannat fotografi av albumets sextonde sida med fyra fotografier.
                     </figDesc>
                     <graphic xml:id="stugan_album_s16_pub" url="assets/img/documents/stugan_album_s16.jpg"/>
                 </figure>
@@ -3098,7 +3098,7 @@ OTk4IGF2IEdlcnRydWQgQW5kZXJzc29uLiAg
             <surface xml:id="stugan_album_s19">
                 <figure>
                     <label>Albumets nittonde sida</label>
-                    <figDesc> Ett skannat fotografi av albumets andra sida med ett tidningsutklipp.
+                    <figDesc> Ett skannat fotografi av albumets nittonde sida med ett tidningsurklipp.
                     </figDesc>
                     <graphic xml:id="stugan_album_s19_pub" url="assets/img/documents/stugan_album_s19.jpg"/>
                 </figure>
@@ -3106,7 +3106,7 @@ OTk4IGF2IEdlcnRydWQgQW5kZXJzc29uLiAg
             <surface xml:id="stugan_album_s20">
                 <figure>
                     <label>Albumets nittonde sida</label>
-                    <figDesc> Ett skannat fotografi av albumets andra sida med ett tidningsutklipp.
+                    <figDesc> Ett skannat fotografi av albumets tjugo sida med ett tidningsurklipp.
                     </figDesc>
                     <graphic xml:id="stugan_album_s20_pub" url="assets/img/documents/stugan_album_s20.jpg"/>
                 </figure>
@@ -3771,7 +3771,7 @@ OTk4IGF2IEdlcnRydWQgQW5kZXJzc29uLiAg
                 <figure>
                     <label>Ett fotografi</label>
                     <figDesc>
-                    Ett svartvitt fotografi av tre kvinnor som sitter på stolar framför sommarstugan. Bakom den syns stugans trappa som går upp till en veranda, där dörrarna in till stugan står öppna.  
+                    Ett svartvitt fotografi av tre kvinnor som sitter på stolar framför sommarstugan. Bakom dem syns stugans trappa som går upp till en veranda, där dörrarna in till stugan står öppna.  
                     </figDesc>
                     <graphic xml:id="stugan_album_s27_foto3_pub" url="assets/img/documents/stugan_album_s27_foto3.jpg" mimeType="image/jpg"/>
                 </figure>
@@ -3779,7 +3779,7 @@ OTk4IGF2IEdlcnRydWQgQW5kZXJzc29uLiAg
              <surface xml:id="stugan_album_s28">
                 <figure>
                     <label>Albumets tjugoåttonde sida</label>
-                    <figDesc> Ett skannat fotografi av albumets sjugosåttonde sida med tre fotografier.
+                    <figDesc> Ett skannat fotografi av albumets tjugoåttonde sida med tre fotografier.
                     </figDesc>
                     <graphic xml:id="stugan_album_s28_pub" url="assets/img/documents/stugan_album_s28.jpg"/>
                 </figure>
