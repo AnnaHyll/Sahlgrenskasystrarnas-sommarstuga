@@ -87,6 +87,545 @@
                     <p></p>
                 </sourceDesc>
             </fileDesc>
+             <xenoData>
+                <!-- 
+                    Alla data här är metadata genererad av exiftool från bildfilerna
+                    kommando
+                   
+                 
+                 exiftool -X assets/img/Brev_fr_AM_27_6_1911_v.tif 
+                 eller
+                 exiftool -X assets/img/Brev_fr_AM_27_6_1911_v.jpg 
+                 
+                 där output kan styras om till en separat xml-fil:
+                 
+                 exiftool -X assets/img/Brev_fr_AM_27_6_1911_v.tif > assets/img/Brev_fr_AM_27_6_1911_v.xml
+                 
+                 
+                 Du kan bädda in alla dessa data ograverat i TEI-filens xenodata-element
+                 om du vill göra det enkelt för dig. Även om inte alla data är relevanta så gör de
+                 ingen skada. Någon kan ha användning för dem.
+                 
+                 Genom att redigera xsl-transformationen har du möjlighet att extrahera den data
+                 till html-versionen som du har användning för, t ex XMP-dc:Title
+                 
+                 -->
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+
+<rdf:Description rdf:about='/Users/annahyll/Documents/GitHub/Digitaliseringsprojekt/Foton/Tiff/1_stugan_album_uppslag1.tif'
+  xmlns:et='http://ns.exiftool.org/1.0/' et:toolkit='Image::ExifTool 13.25'
+  xmlns:ExifTool='http://ns.exiftool.org/ExifTool/1.0/'
+  xmlns:System='http://ns.exiftool.org/File/System/1.0/'
+  xmlns:File='http://ns.exiftool.org/File/1.0/'
+  xmlns:IFD0='http://ns.exiftool.org/EXIF/IFD0/1.0/'
+  xmlns:XMP-x='http://ns.exiftool.org/XMP/XMP-x/1.0/'
+  xmlns:XMP-xmp='http://ns.exiftool.org/XMP/XMP-xmp/1.0/'
+  xmlns:XMP-aux='http://ns.exiftool.org/XMP/XMP-aux/1.0/'
+  xmlns:XMP-exifEX='http://ns.exiftool.org/XMP/XMP-exifEX/1.0/'
+  xmlns:XMP-photoshop='http://ns.exiftool.org/XMP/XMP-photoshop/1.0/'
+  xmlns:XMP-xmpMM='http://ns.exiftool.org/XMP/XMP-xmpMM/1.0/'
+  xmlns:XMP-dc='http://ns.exiftool.org/XMP/XMP-dc/1.0/'
+  xmlns:XMP-crs='http://ns.exiftool.org/XMP/XMP-crs/1.0/'
+  xmlns:XMP-xmpRights='http://ns.exiftool.org/XMP/XMP-xmpRights/1.0/'
+  xmlns:XMP-tiff='http://ns.exiftool.org/XMP/XMP-tiff/1.0/'
+  xmlns:XMP-exif='http://ns.exiftool.org/XMP/XMP-exif/1.0/'
+  xmlns:IPTC='http://ns.exiftool.org/IPTC/IPTC/1.0/'
+  xmlns:Photoshop='http://ns.exiftool.org/Photoshop/Photoshop/1.0/'
+  xmlns:ExifIFD='http://ns.exiftool.org/EXIF/ExifIFD/1.0/'
+  xmlns:ICC-header='http://ns.exiftool.org/ICC_Profile/ICC-header/1.0/'
+  xmlns:ICC_Profile='http://ns.exiftool.org/ICC_Profile/ICC_Profile/1.0/'
+  xmlns:Composite='http://ns.exiftool.org/Composite/1.0/'>
+ <ExifTool:ExifToolVersion>13.25</ExifTool:ExifToolVersion>
+ <System:FileName>1_stugan_album_uppslag1.tif</System:FileName>
+ <System:FileSize>69 MB</System:FileSize>
+ <System:FileModifyDate>2025:05:14 13:01:12+02:00</System:FileModifyDate>
+ <System:FileAccessDate>2025:05:14 13:21:06+02:00</System:FileAccessDate>
+ <System:FileInodeChangeDate>2025:05:14 13:21:03+02:00</System:FileInodeChangeDate>
+ <System:FilePermissions>-rw-r--r--</System:FilePermissions>
+ <File:FileType>TIFF</File:FileType>
+ <File:FileTypeExtension>tif</File:FileTypeExtension>
+ <File:MIMEType>image/tiff</File:MIMEType>
+ <File:ExifByteOrder>Big-endian (Motorola, MM)</File:ExifByteOrder>
+ <File:CurrentIPTCDigest>61b2ad330313b0c31fdd94d33306fc34</File:CurrentIPTCDigest>
+ <IFD0:SubfileType>Full-resolution image</IFD0:SubfileType>
+ <IFD0:ImageWidth>4953</IFD0:ImageWidth>
+ <IFD0:ImageHeight>2324</IFD0:ImageHeight>
+ <IFD0:BitsPerSample>16 16 16</IFD0:BitsPerSample>
+ <IFD0:Compression>Uncompressed</IFD0:Compression>
+ <IFD0:PhotometricInterpretation>RGB</IFD0:PhotometricInterpretation>
+ <IFD0:ImageDescription rdf:datatype='http://www.w3.org/2001/XMLSchema#base64Binary'>
+QWxidW0gZnKMbiBTanVrc2uadGVyc2tvcnMgaW5zYW1saW5nIGaaciBzb21t
+YXJzdHVnYSwgMTkzMS0xOTMzLiAgRnKMbiBNZWRpY2luaGlzdG9yaXNrYSBt
+dXNlZXQgaSBHmnRlYm9yZywgU3ZlcmlnZS4gQWxidW0gZG9uZXJhdCCMciAx
+OTk4IGF2IEdlcnRydWQgQW5kZXJzc29uLiAg
+</IFD0:ImageDescription>
+ <IFD0:Make>Canon</IFD0:Make>
+ <IFD0:Model>Canon EOS 5D Mark III</IFD0:Model>
+ <IFD0:StripOffsets>36390</IFD0:StripOffsets>
+ <IFD0:Orientation>Horizontal (normal)</IFD0:Orientation>
+ <IFD0:SamplesPerPixel>3</IFD0:SamplesPerPixel>
+ <IFD0:RowsPerStrip>2324</IFD0:RowsPerStrip>
+ <IFD0:StripByteCounts>69064632</IFD0:StripByteCounts>
+ <IFD0:XResolution>300</IFD0:XResolution>
+ <IFD0:YResolution>300</IFD0:YResolution>
+ <IFD0:PlanarConfiguration>Chunky</IFD0:PlanarConfiguration>
+ <IFD0:ResolutionUnit>inches</IFD0:ResolutionUnit>
+ <IFD0:Software>Adobe Photoshop 25.12 (Macintosh)</IFD0:Software>
+ <IFD0:ModifyDate>2025:05:14 12:17:24</IFD0:ModifyDate>
+ <IFD0:Artist>Unknown</IFD0:Artist>
+ <XMP-x:XMPToolkit>Adobe XMP Core 9.1-c002 79.a6a63968a, 2024/03/06-11:52:05        </XMP-x:XMPToolkit>
+ <XMP-xmp:Rating>0</XMP-xmp:Rating>
+ <XMP-xmp:ModifyDate>2025:05:14 12:17:24+02:00</XMP-xmp:ModifyDate>
+ <XMP-xmp:CreateDate>2025:03:21 12:18:03</XMP-xmp:CreateDate>
+ <XMP-xmp:MetadataDate>2025:05:14 12:17:24+02:00</XMP-xmp:MetadataDate>
+ <XMP-xmp:CreatorTool>Adobe Photoshop 25.12 (Macintosh)</XMP-xmp:CreatorTool>
+ <XMP-aux:SerialNumber>033023000916</XMP-aux:SerialNumber>
+ <XMP-aux:LensInfo>50mm f/?</XMP-aux:LensInfo>
+ <XMP-aux:Lens>50mm F1.4 DG HSM | Art 014</XMP-aux:Lens>
+ <XMP-aux:LensID>368</XMP-aux:LensID>
+ <XMP-aux:LensSerialNumber>0000000000</XMP-aux:LensSerialNumber>
+ <XMP-aux:ImageNumber>0</XMP-aux:ImageNumber>
+ <XMP-aux:ApproximateFocusDistance>1.12</XMP-aux:ApproximateFocusDistance>
+ <XMP-aux:FlashCompensation>0</XMP-aux:FlashCompensation>
+ <XMP-aux:Firmware>1.3.5</XMP-aux:Firmware>
+ <XMP-exifEX:LensModel>50mm F1.4 DG HSM | Art 014</XMP-exifEX:LensModel>
+ <XMP-photoshop:DateCreated>2025:03:21 12:18:03.041</XMP-photoshop:DateCreated>
+ <XMP-photoshop:ColorMode>RGB</XMP-photoshop:ColorMode>
+ <XMP-photoshop:ICCProfileName>Adobe RGB (1998)</XMP-photoshop:ICCProfileName>
+ <XMP-photoshop:Country>Sverige</XMP-photoshop:Country>
+ <XMP-photoshop:City>Göteborg</XMP-photoshop:City>
+ <XMP-xmpMM:DocumentID>adobe:docid:photoshop:0fe07cfd-7ac3-2649-9441-9d55ade16f90</XMP-xmpMM:DocumentID>
+ <XMP-xmpMM:HistoryAction>
+  <rdf:Bag>
+   <rdf:li>derived</rdf:li>
+   <rdf:li>saved</rdf:li>
+   <rdf:li>saved</rdf:li>
+  </rdf:Bag>
+ </XMP-xmpMM:HistoryAction>
+ <XMP-xmpMM:HistoryParameters>converted from image/x-canon-cr2 to image/tiff</XMP-xmpMM:HistoryParameters>
+ <XMP-xmpMM:HistoryInstanceID>
+  <rdf:Bag>
+   <rdf:li>xmp.iid:e1001b8e-ac84-4f0c-bb9d-249b34cbed0f</rdf:li>
+   <rdf:li>xmp.iid:185b0138-96cb-49cc-87ef-21f6e259ae50</rdf:li>
+  </rdf:Bag>
+ </XMP-xmpMM:HistoryInstanceID>
+ <XMP-xmpMM:HistoryWhen>
+  <rdf:Bag>
+   <rdf:li>2025:04:22 12:21:08+02:00</rdf:li>
+   <rdf:li>2025:05:14 12:17:24+02:00</rdf:li>
+  </rdf:Bag>
+ </XMP-xmpMM:HistoryWhen>
+ <XMP-xmpMM:HistorySoftwareAgent>
+  <rdf:Bag>
+   <rdf:li>Adobe Photoshop Camera Raw 16.5 (Macintosh)</rdf:li>
+   <rdf:li>Adobe Photoshop 25.12 (Macintosh)</rdf:li>
+  </rdf:Bag>
+ </XMP-xmpMM:HistorySoftwareAgent>
+ <XMP-xmpMM:HistoryChanged>
+  <rdf:Bag>
+   <rdf:li>/</rdf:li>
+   <rdf:li>/</rdf:li>
+  </rdf:Bag>
+ </XMP-xmpMM:HistoryChanged>
+ <XMP-xmpMM:OriginalDocumentID>19297B9E2D8BD5DFE479150647AB81F5</XMP-xmpMM:OriginalDocumentID>
+ <XMP-xmpMM:DerivedFromDocumentID>19297B9E2D8BD5DFE479150647AB81F5</XMP-xmpMM:DerivedFromDocumentID>
+ <XMP-xmpMM:DerivedFromOriginalDocumentID>19297B9E2D8BD5DFE479150647AB81F5</XMP-xmpMM:DerivedFromOriginalDocumentID>
+ <XMP-xmpMM:InstanceID>xmp.iid:185b0138-96cb-49cc-87ef-21f6e259ae50</XMP-xmpMM:InstanceID>
+ <XMP-dc:Format>image/tiff</XMP-dc:Format>
+ <XMP-dc:Title>stugan_album_uppslag1</XMP-dc:Title>
+ <XMP-dc:Description>Album från Sjuksköterskors insamling för sommarstuga, 1931-1933.  Från Medicinhistoriska museet i Göteborg, Sverige. Album donerat år 1998 av Gertrud Andersson.  </XMP-dc:Description>
+ <XMP-dc:Subject>
+  <rdf:Bag>
+   <rdf:li>history of medicine</rdf:li>
+   <rdf:li>nurses</rdf:li>
+   <rdf:li>nurses´residences</rdf:li>
+   <rdf:li>photograph albums</rdf:li>
+  </rdf:Bag>
+ </XMP-dc:Subject>
+ <XMP-dc:Creator>Unknown</XMP-dc:Creator>
+ <XMP-crs:Version>16.5</XMP-crs:Version>
+ <XMP-crs:ProcessVersion>15.4</XMP-crs:ProcessVersion>
+ <XMP-crs:WhiteBalance>Custom</XMP-crs:WhiteBalance>
+ <XMP-crs:ColorTemperature>6000</XMP-crs:ColorTemperature>
+ <XMP-crs:Tint>-5</XMP-crs:Tint>
+ <XMP-crs:Exposure2012>+0.40</XMP-crs:Exposure2012>
+ <XMP-crs:Contrast2012>+15</XMP-crs:Contrast2012>
+ <XMP-crs:Highlights2012>0</XMP-crs:Highlights2012>
+ <XMP-crs:Shadows2012>0</XMP-crs:Shadows2012>
+ <XMP-crs:Whites2012>0</XMP-crs:Whites2012>
+ <XMP-crs:Blacks2012>0</XMP-crs:Blacks2012>
+ <XMP-crs:Texture>+4</XMP-crs:Texture>
+ <XMP-crs:Clarity2012>+3</XMP-crs:Clarity2012>
+ <XMP-crs:Dehaze>0</XMP-crs:Dehaze>
+ <XMP-crs:Vibrance>0</XMP-crs:Vibrance>
+ <XMP-crs:Saturation>-17</XMP-crs:Saturation>
+ <XMP-crs:ParametricShadows>0</XMP-crs:ParametricShadows>
+ <XMP-crs:ParametricDarks>0</XMP-crs:ParametricDarks>
+ <XMP-crs:ParametricLights>0</XMP-crs:ParametricLights>
+ <XMP-crs:ParametricHighlights>0</XMP-crs:ParametricHighlights>
+ <XMP-crs:ParametricShadowSplit>25</XMP-crs:ParametricShadowSplit>
+ <XMP-crs:ParametricMidtoneSplit>50</XMP-crs:ParametricMidtoneSplit>
+ <XMP-crs:ParametricHighlightSplit>75</XMP-crs:ParametricHighlightSplit>
+ <XMP-crs:Sharpness>40</XMP-crs:Sharpness>
+ <XMP-crs:SharpenRadius>+1.0</XMP-crs:SharpenRadius>
+ <XMP-crs:SharpenDetail>25</XMP-crs:SharpenDetail>
+ <XMP-crs:SharpenEdgeMasking>0</XMP-crs:SharpenEdgeMasking>
+ <XMP-crs:LuminanceSmoothing>0</XMP-crs:LuminanceSmoothing>
+ <XMP-crs:ColorNoiseReduction>25</XMP-crs:ColorNoiseReduction>
+ <XMP-crs:ColorNoiseReductionDetail>50</XMP-crs:ColorNoiseReductionDetail>
+ <XMP-crs:ColorNoiseReductionSmoothness>50</XMP-crs:ColorNoiseReductionSmoothness>
+ <XMP-crs:HueAdjustmentRed>0</XMP-crs:HueAdjustmentRed>
+ <XMP-crs:HueAdjustmentOrange>0</XMP-crs:HueAdjustmentOrange>
+ <XMP-crs:HueAdjustmentYellow>0</XMP-crs:HueAdjustmentYellow>
+ <XMP-crs:HueAdjustmentGreen>0</XMP-crs:HueAdjustmentGreen>
+ <XMP-crs:HueAdjustmentAqua>0</XMP-crs:HueAdjustmentAqua>
+ <XMP-crs:HueAdjustmentBlue>0</XMP-crs:HueAdjustmentBlue>
+ <XMP-crs:HueAdjustmentPurple>0</XMP-crs:HueAdjustmentPurple>
+ <XMP-crs:HueAdjustmentMagenta>0</XMP-crs:HueAdjustmentMagenta>
+ <XMP-crs:SaturationAdjustmentRed>0</XMP-crs:SaturationAdjustmentRed>
+ <XMP-crs:SaturationAdjustmentOrange>0</XMP-crs:SaturationAdjustmentOrange>
+ <XMP-crs:SaturationAdjustmentYellow>0</XMP-crs:SaturationAdjustmentYellow>
+ <XMP-crs:SaturationAdjustmentGreen>0</XMP-crs:SaturationAdjustmentGreen>
+ <XMP-crs:SaturationAdjustmentAqua>0</XMP-crs:SaturationAdjustmentAqua>
+ <XMP-crs:SaturationAdjustmentBlue>0</XMP-crs:SaturationAdjustmentBlue>
+ <XMP-crs:SaturationAdjustmentPurple>0</XMP-crs:SaturationAdjustmentPurple>
+ <XMP-crs:SaturationAdjustmentMagenta>0</XMP-crs:SaturationAdjustmentMagenta>
+ <XMP-crs:LuminanceAdjustmentRed>0</XMP-crs:LuminanceAdjustmentRed>
+ <XMP-crs:LuminanceAdjustmentOrange>0</XMP-crs:LuminanceAdjustmentOrange>
+ <XMP-crs:LuminanceAdjustmentYellow>0</XMP-crs:LuminanceAdjustmentYellow>
+ <XMP-crs:LuminanceAdjustmentGreen>0</XMP-crs:LuminanceAdjustmentGreen>
+ <XMP-crs:LuminanceAdjustmentAqua>0</XMP-crs:LuminanceAdjustmentAqua>
+ <XMP-crs:LuminanceAdjustmentBlue>0</XMP-crs:LuminanceAdjustmentBlue>
+ <XMP-crs:LuminanceAdjustmentPurple>0</XMP-crs:LuminanceAdjustmentPurple>
+ <XMP-crs:LuminanceAdjustmentMagenta>0</XMP-crs:LuminanceAdjustmentMagenta>
+ <XMP-crs:SplitToningShadowHue>0</XMP-crs:SplitToningShadowHue>
+ <XMP-crs:SplitToningShadowSaturation>0</XMP-crs:SplitToningShadowSaturation>
+ <XMP-crs:SplitToningHighlightHue>0</XMP-crs:SplitToningHighlightHue>
+ <XMP-crs:SplitToningHighlightSaturation>0</XMP-crs:SplitToningHighlightSaturation>
+ <XMP-crs:SplitToningBalance>0</XMP-crs:SplitToningBalance>
+ <XMP-crs:ColorGradeMidtoneHue>0</XMP-crs:ColorGradeMidtoneHue>
+ <XMP-crs:ColorGradeMidtoneSat>0</XMP-crs:ColorGradeMidtoneSat>
+ <XMP-crs:ColorGradeShadowLum>0</XMP-crs:ColorGradeShadowLum>
+ <XMP-crs:ColorGradeMidtoneLum>0</XMP-crs:ColorGradeMidtoneLum>
+ <XMP-crs:ColorGradeHighlightLum>0</XMP-crs:ColorGradeHighlightLum>
+ <XMP-crs:ColorGradeBlending>50</XMP-crs:ColorGradeBlending>
+ <XMP-crs:ColorGradeGlobalHue>0</XMP-crs:ColorGradeGlobalHue>
+ <XMP-crs:ColorGradeGlobalSat>0</XMP-crs:ColorGradeGlobalSat>
+ <XMP-crs:ColorGradeGlobalLum>0</XMP-crs:ColorGradeGlobalLum>
+ <XMP-crs:AutoLateralCA>0</XMP-crs:AutoLateralCA>
+ <XMP-crs:LensProfileEnable>0</XMP-crs:LensProfileEnable>
+ <XMP-crs:LensManualDistortionAmount>0</XMP-crs:LensManualDistortionAmount>
+ <XMP-crs:VignetteAmount>0</XMP-crs:VignetteAmount>
+ <XMP-crs:DefringePurpleAmount>0</XMP-crs:DefringePurpleAmount>
+ <XMP-crs:DefringePurpleHueLo>30</XMP-crs:DefringePurpleHueLo>
+ <XMP-crs:DefringePurpleHueHi>70</XMP-crs:DefringePurpleHueHi>
+ <XMP-crs:DefringeGreenAmount>0</XMP-crs:DefringeGreenAmount>
+ <XMP-crs:DefringeGreenHueLo>40</XMP-crs:DefringeGreenHueLo>
+ <XMP-crs:DefringeGreenHueHi>60</XMP-crs:DefringeGreenHueHi>
+ <XMP-crs:PerspectiveUpright>Off</XMP-crs:PerspectiveUpright>
+ <XMP-crs:PerspectiveVertical>0</XMP-crs:PerspectiveVertical>
+ <XMP-crs:PerspectiveHorizontal>0</XMP-crs:PerspectiveHorizontal>
+ <XMP-crs:PerspectiveRotate>0.0</XMP-crs:PerspectiveRotate>
+ <XMP-crs:PerspectiveAspect>0</XMP-crs:PerspectiveAspect>
+ <XMP-crs:PerspectiveScale>100</XMP-crs:PerspectiveScale>
+ <XMP-crs:PerspectiveX>0.00</XMP-crs:PerspectiveX>
+ <XMP-crs:PerspectiveY>0.00</XMP-crs:PerspectiveY>
+ <XMP-crs:GrainAmount>0</XMP-crs:GrainAmount>
+ <XMP-crs:PostCropVignetteAmount>0</XMP-crs:PostCropVignetteAmount>
+ <XMP-crs:ShadowTint>0</XMP-crs:ShadowTint>
+ <XMP-crs:RedHue>0</XMP-crs:RedHue>
+ <XMP-crs:RedSaturation>0</XMP-crs:RedSaturation>
+ <XMP-crs:GreenHue>0</XMP-crs:GreenHue>
+ <XMP-crs:GreenSaturation>0</XMP-crs:GreenSaturation>
+ <XMP-crs:BlueHue>0</XMP-crs:BlueHue>
+ <XMP-crs:BlueSaturation>0</XMP-crs:BlueSaturation>
+ <XMP-crs:HDREditMode>0</XMP-crs:HDREditMode>
+ <XMP-crs:OverrideLookVignette>False</XMP-crs:OverrideLookVignette>
+ <XMP-crs:ToneCurveName2012>Linear</XMP-crs:ToneCurveName2012>
+ <XMP-crs:ToneCurvePV2012>
+  <rdf:Bag>
+   <rdf:li>0, 0</rdf:li>
+   <rdf:li>255, 255</rdf:li>
+  </rdf:Bag>
+ </XMP-crs:ToneCurvePV2012>
+ <XMP-crs:ToneCurvePV2012Red>
+  <rdf:Bag>
+   <rdf:li>0, 0</rdf:li>
+   <rdf:li>255, 255</rdf:li>
+  </rdf:Bag>
+ </XMP-crs:ToneCurvePV2012Red>
+ <XMP-crs:ToneCurvePV2012Green>
+  <rdf:Bag>
+   <rdf:li>0, 0</rdf:li>
+   <rdf:li>255, 255</rdf:li>
+  </rdf:Bag>
+ </XMP-crs:ToneCurvePV2012Green>
+ <XMP-crs:ToneCurvePV2012Blue>
+  <rdf:Bag>
+   <rdf:li>0, 0</rdf:li>
+   <rdf:li>255, 255</rdf:li>
+  </rdf:Bag>
+ </XMP-crs:ToneCurvePV2012Blue>
+ <XMP-crs:PointColors>-1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000</XMP-crs:PointColors>
+ <XMP-crs:CameraProfile>Adobe Standard</XMP-crs:CameraProfile>
+ <XMP-crs:CameraProfileDigest>87FB0EDC503E332309FB5DE5C5C65125</XMP-crs:CameraProfileDigest>
+ <XMP-crs:LookName>Adobe Color</XMP-crs:LookName>
+ <XMP-crs:LookAmount>1</XMP-crs:LookAmount>
+ <XMP-crs:LookGroup>Profiles</XMP-crs:LookGroup>
+ <XMP-crs:LookUUID>B952C231111CD8E0ECCF14B86BAA7077</XMP-crs:LookUUID>
+ <XMP-crs:LookSupportsAmount>false</XMP-crs:LookSupportsAmount>
+ <XMP-crs:LookSupportsMonochrome>false</XMP-crs:LookSupportsMonochrome>
+ <XMP-crs:LookSupportsOutputReferred>false</XMP-crs:LookSupportsOutputReferred>
+ <XMP-crs:LookCopyright>© 2018 Adobe Systems, Inc.</XMP-crs:LookCopyright>
+ <XMP-crs:LookParametersVersion>16.5</XMP-crs:LookParametersVersion>
+ <XMP-crs:LookParametersProcessVersion>15.4</XMP-crs:LookParametersProcessVersion>
+ <XMP-crs:LookParametersConvertToGrayscale>False</XMP-crs:LookParametersConvertToGrayscale>
+ <XMP-crs:LookParametersToneCurvePV2012>
+  <rdf:Bag>
+   <rdf:li>0, 0</rdf:li>
+   <rdf:li>22, 16</rdf:li>
+   <rdf:li>40, 35</rdf:li>
+   <rdf:li>127, 127</rdf:li>
+   <rdf:li>224, 230</rdf:li>
+   <rdf:li>240, 246</rdf:li>
+   <rdf:li>255, 255</rdf:li>
+  </rdf:Bag>
+ </XMP-crs:LookParametersToneCurvePV2012>
+ <XMP-crs:LookParametersToneCurvePV2012Red>
+  <rdf:Bag>
+   <rdf:li>0, 0</rdf:li>
+   <rdf:li>255, 255</rdf:li>
+  </rdf:Bag>
+ </XMP-crs:LookParametersToneCurvePV2012Red>
+ <XMP-crs:LookParametersToneCurvePV2012Green>
+  <rdf:Bag>
+   <rdf:li>0, 0</rdf:li>
+   <rdf:li>255, 255</rdf:li>
+  </rdf:Bag>
+ </XMP-crs:LookParametersToneCurvePV2012Green>
+ <XMP-crs:LookParametersToneCurvePV2012Blue>
+  <rdf:Bag>
+   <rdf:li>0, 0</rdf:li>
+   <rdf:li>255, 255</rdf:li>
+  </rdf:Bag>
+ </XMP-crs:LookParametersToneCurvePV2012Blue>
+ <XMP-crs:LookParametersCameraProfile>Adobe Standard</XMP-crs:LookParametersCameraProfile>
+ <XMP-crs:LookParametersLookTable>E1095149FDB39D7A057BAB208837E2E1</XMP-crs:LookParametersLookTable>
+ <XMP-crs:HasSettings>True</XMP-crs:HasSettings>
+ <XMP-crs:HasCrop>False</XMP-crs:HasCrop>
+ <XMP-crs:AlreadyApplied>True</XMP-crs:AlreadyApplied>
+ <XMP-xmpRights:Marked>False</XMP-xmpRights:Marked>
+ <XMP-tiff:ImageWidth>4953</XMP-tiff:ImageWidth>
+ <XMP-tiff:ImageHeight>2324</XMP-tiff:ImageHeight>
+ <XMP-tiff:BitsPerSample>
+  <rdf:Bag>
+   <rdf:li>16</rdf:li>
+   <rdf:li>16</rdf:li>
+   <rdf:li>16</rdf:li>
+  </rdf:Bag>
+ </XMP-tiff:BitsPerSample>
+ <XMP-tiff:Compression>Uncompressed</XMP-tiff:Compression>
+ <XMP-tiff:PhotometricInterpretation>RGB</XMP-tiff:PhotometricInterpretation>
+ <XMP-tiff:Orientation>Horizontal (normal)</XMP-tiff:Orientation>
+ <XMP-tiff:SamplesPerPixel>3</XMP-tiff:SamplesPerPixel>
+ <XMP-tiff:PlanarConfiguration>Chunky</XMP-tiff:PlanarConfiguration>
+ <XMP-tiff:XResolution>300</XMP-tiff:XResolution>
+ <XMP-tiff:YResolution>300</XMP-tiff:YResolution>
+ <XMP-tiff:ResolutionUnit>inches</XMP-tiff:ResolutionUnit>
+ <XMP-tiff:Make>Canon</XMP-tiff:Make>
+ <XMP-tiff:Model>Canon EOS 5D Mark III</XMP-tiff:Model>
+ <XMP-exif:ExifVersion>0230</XMP-exif:ExifVersion>
+ <XMP-exif:ColorSpace>Uncalibrated</XMP-exif:ColorSpace>
+ <XMP-exif:ExifImageWidth>4953</XMP-exif:ExifImageWidth>
+ <XMP-exif:ExifImageHeight>2324</XMP-exif:ExifImageHeight>
+ <XMP-exif:DateTimeOriginal>2025:03:21 12:18:03</XMP-exif:DateTimeOriginal>
+ <XMP-exif:ExposureTime>1/160</XMP-exif:ExposureTime>
+ <XMP-exif:FNumber>3.2</XMP-exif:FNumber>
+ <XMP-exif:ExposureProgram>Manual</XMP-exif:ExposureProgram>
+ <XMP-exif:ISO>800</XMP-exif:ISO>
+ <XMP-exif:ShutterSpeedValue>1/160</XMP-exif:ShutterSpeedValue>
+ <XMP-exif:ApertureValue>3.2</XMP-exif:ApertureValue>
+ <XMP-exif:ExposureCompensation>0</XMP-exif:ExposureCompensation>
+ <XMP-exif:MaxApertureValue>1.4</XMP-exif:MaxApertureValue>
+ <XMP-exif:MeteringMode>Center-weighted average</XMP-exif:MeteringMode>
+ <XMP-exif:FlashFired>False</XMP-exif:FlashFired>
+ <XMP-exif:FlashReturn>No return detection</XMP-exif:FlashReturn>
+ <XMP-exif:FlashMode>Off</XMP-exif:FlashMode>
+ <XMP-exif:FlashFunction>False</XMP-exif:FlashFunction>
+ <XMP-exif:FlashRedEyeMode>False</XMP-exif:FlashRedEyeMode>
+ <XMP-exif:FocalLength>50.0 mm</XMP-exif:FocalLength>
+ <XMP-exif:FocalPlaneXResolution>1600</XMP-exif:FocalPlaneXResolution>
+ <XMP-exif:FocalPlaneYResolution>1600</XMP-exif:FocalPlaneYResolution>
+ <XMP-exif:FocalPlaneResolutionUnit>cm</XMP-exif:FocalPlaneResolutionUnit>
+ <XMP-exif:CustomRendered>Normal</XMP-exif:CustomRendered>
+ <XMP-exif:ExposureMode>Manual</XMP-exif:ExposureMode>
+ <XMP-exif:WhiteBalance>Auto</XMP-exif:WhiteBalance>
+ <XMP-exif:SceneCaptureType>Standard</XMP-exif:SceneCaptureType>
+ <XMP-exif:SubSecTime>41</XMP-exif:SubSecTime>
+ <XMP-exif:SubSecTimeOriginal>41</XMP-exif:SubSecTimeOriginal>
+ <XMP-exif:SubSecTimeDigitized>41</XMP-exif:SubSecTimeDigitized>
+ <XMP-exif:SerialNumber>033023000916</XMP-exif:SerialNumber>
+ <XMP-exif:LensInfo>50</XMP-exif:LensInfo>
+ <XMP-exif:Lens>50mm F1.4 DG HSM | Art 014</XMP-exif:Lens>
+ <XMP-exif:LensSerialNumber>0000000000</XMP-exif:LensSerialNumber>
+ <XMP-exif:SensitivityType>2</XMP-exif:SensitivityType>
+ <XMP-exif:RecommendedExposureIndex>800</XMP-exif:RecommendedExposureIndex>
+ <IPTC:CodedCharacterSet>UTF8</IPTC:CodedCharacterSet>
+ <IPTC:ApplicationRecordVersion>0</IPTC:ApplicationRecordVersion>
+ <IPTC:Caption-Abstract>Album från Sjuksköterskors insamling för sommarstuga, 1931-1933.  Från Medicinhistoriska museet i Göteborg, Sverige. Album donerat år 1998 av Gertrud Andersson.  </IPTC:Caption-Abstract>
+ <IPTC:By-line>Unknown</IPTC:By-line>
+ <IPTC:ObjectName>stugan_album_uppslag1</IPTC:ObjectName>
+ <IPTC:DateCreated>2025:03:21</IPTC:DateCreated>
+ <IPTC:TimeCreated>12:18:03</IPTC:TimeCreated>
+ <IPTC:City>Göteborg</IPTC:City>
+ <IPTC:Country-PrimaryLocationName>Sverige</IPTC:Country-PrimaryLocationName>
+ <IPTC:Keywords>
+  <rdf:Bag>
+   <rdf:li>history of medicine</rdf:li>
+   <rdf:li>nurses</rdf:li>
+   <rdf:li>nurses´residences</rdf:li>
+   <rdf:li>photograph albums</rdf:li>
+  </rdf:Bag>
+ </IPTC:Keywords>
+ <Photoshop:IPTCDigest>61b2ad330313b0c31fdd94d33306fc34</Photoshop:IPTCDigest>
+ <Photoshop:XResolution>300</Photoshop:XResolution>
+ <Photoshop:DisplayedUnitsX>inches</Photoshop:DisplayedUnitsX>
+ <Photoshop:YResolution>300</Photoshop:YResolution>
+ <Photoshop:DisplayedUnitsY>inches</Photoshop:DisplayedUnitsY>
+ <Photoshop:PrintStyle>Centered</Photoshop:PrintStyle>
+ <Photoshop:PrintPosition>0 0</Photoshop:PrintPosition>
+ <Photoshop:PrintScale>1</Photoshop:PrintScale>
+ <Photoshop:GlobalAngle>30</Photoshop:GlobalAngle>
+ <Photoshop:GlobalAltitude>30</Photoshop:GlobalAltitude>
+ <Photoshop:CopyrightFlag>False</Photoshop:CopyrightFlag>
+ <Photoshop:URL_List>
+  <rdf:Bag>
+  </rdf:Bag>
+ </Photoshop:URL_List>
+ <Photoshop:SlicesGroupName>1_stugan_album_uppslag1</Photoshop:SlicesGroupName>
+ <Photoshop:NumSlices>1</Photoshop:NumSlices>
+ <Photoshop:PixelAspectRatio>1</Photoshop:PixelAspectRatio>
+ <Photoshop:PhotoshopThumbnail>(Binary data 2678 bytes, use -b option to extract)</Photoshop:PhotoshopThumbnail>
+ <Photoshop:HasRealMergedData>Yes</Photoshop:HasRealMergedData>
+ <Photoshop:WriterName>Adobe Photoshop</Photoshop:WriterName>
+ <Photoshop:ReaderName>Adobe Photoshop 2024</Photoshop:ReaderName>
+ <ExifIFD:ExposureTime>1/160</ExifIFD:ExposureTime>
+ <ExifIFD:FNumber>3.2</ExifIFD:FNumber>
+ <ExifIFD:ExposureProgram>Manual</ExifIFD:ExposureProgram>
+ <ExifIFD:ISO>800</ExifIFD:ISO>
+ <ExifIFD:SensitivityType>Recommended Exposure Index</ExifIFD:SensitivityType>
+ <ExifIFD:RecommendedExposureIndex>800</ExifIFD:RecommendedExposureIndex>
+ <ExifIFD:ExifVersion>0230</ExifIFD:ExifVersion>
+ <ExifIFD:DateTimeOriginal>2025:03:21 12:18:03</ExifIFD:DateTimeOriginal>
+ <ExifIFD:CreateDate>2025:03:21 12:18:03</ExifIFD:CreateDate>
+ <ExifIFD:ShutterSpeedValue>1/160</ExifIFD:ShutterSpeedValue>
+ <ExifIFD:ApertureValue>3.2</ExifIFD:ApertureValue>
+ <ExifIFD:ExposureCompensation>0</ExifIFD:ExposureCompensation>
+ <ExifIFD:MaxApertureValue>1.4</ExifIFD:MaxApertureValue>
+ <ExifIFD:MeteringMode>Center-weighted average</ExifIFD:MeteringMode>
+ <ExifIFD:Flash>Off, Did not fire</ExifIFD:Flash>
+ <ExifIFD:FocalLength>50.0 mm</ExifIFD:FocalLength>
+ <ExifIFD:SubSecTime>41</ExifIFD:SubSecTime>
+ <ExifIFD:SubSecTimeOriginal>41</ExifIFD:SubSecTimeOriginal>
+ <ExifIFD:SubSecTimeDigitized>41</ExifIFD:SubSecTimeDigitized>
+ <ExifIFD:ColorSpace>Uncalibrated</ExifIFD:ColorSpace>
+ <ExifIFD:ExifImageWidth>4953</ExifIFD:ExifImageWidth>
+ <ExifIFD:ExifImageHeight>2324</ExifIFD:ExifImageHeight>
+ <ExifIFD:FocalPlaneXResolution>1600</ExifIFD:FocalPlaneXResolution>
+ <ExifIFD:FocalPlaneYResolution>1600</ExifIFD:FocalPlaneYResolution>
+ <ExifIFD:FocalPlaneResolutionUnit>cm</ExifIFD:FocalPlaneResolutionUnit>
+ <ExifIFD:CustomRendered>Normal</ExifIFD:CustomRendered>
+ <ExifIFD:ExposureMode>Manual</ExifIFD:ExposureMode>
+ <ExifIFD:WhiteBalance>Auto</ExifIFD:WhiteBalance>
+ <ExifIFD:SceneCaptureType>Standard</ExifIFD:SceneCaptureType>
+ <ExifIFD:SerialNumber>033023000916</ExifIFD:SerialNumber>
+ <ExifIFD:LensInfo>50mm f/?</ExifIFD:LensInfo>
+ <ExifIFD:LensModel>50mm F1.4 DG HSM | Art 014</ExifIFD:LensModel>
+ <ExifIFD:LensSerialNumber>0000000000</ExifIFD:LensSerialNumber>
+ <ICC-header:ProfileCMMType>Adobe Systems Inc.</ICC-header:ProfileCMMType>
+ <ICC-header:ProfileVersion>2.1.0</ICC-header:ProfileVersion>
+ <ICC-header:ProfileClass>Display Device Profile</ICC-header:ProfileClass>
+ <ICC-header:ColorSpaceData>RGB </ICC-header:ColorSpaceData>
+ <ICC-header:ProfileConnectionSpace>XYZ </ICC-header:ProfileConnectionSpace>
+ <ICC-header:ProfileDateTime>1999:06:03 00:00:00</ICC-header:ProfileDateTime>
+ <ICC-header:ProfileFileSignature>acsp</ICC-header:ProfileFileSignature>
+ <ICC-header:PrimaryPlatform>Apple Computer Inc.</ICC-header:PrimaryPlatform>
+ <ICC-header:CMMFlags>Not Embedded, Independent</ICC-header:CMMFlags>
+ <ICC-header:DeviceManufacturer>none</ICC-header:DeviceManufacturer>
+ <ICC-header:DeviceModel></ICC-header:DeviceModel>
+ <ICC-header:DeviceAttributes>Reflective, Glossy, Positive, Color</ICC-header:DeviceAttributes>
+ <ICC-header:RenderingIntent>Media-Relative Colorimetric</ICC-header:RenderingIntent>
+ <ICC-header:ConnectionSpaceIlluminant>0.9642 1 0.82491</ICC-header:ConnectionSpaceIlluminant>
+ <ICC-header:ProfileCreator>Adobe Systems Inc.</ICC-header:ProfileCreator>
+ <ICC-header:ProfileID>0</ICC-header:ProfileID>
+ <ICC_Profile:ProfileCopyright>Copyright 1999 Adobe Systems Incorporated</ICC_Profile:ProfileCopyright>
+ <ICC_Profile:ProfileDescription>Adobe RGB (1998)</ICC_Profile:ProfileDescription>
+ <ICC_Profile:MediaWhitePoint>0.95045 1 1.08905</ICC_Profile:MediaWhitePoint>
+ <ICC_Profile:MediaBlackPoint>0 0 0</ICC_Profile:MediaBlackPoint>
+ <ICC_Profile:RedTRC>(Binary data 14 bytes, use -b option to extract)</ICC_Profile:RedTRC>
+ <ICC_Profile:GreenTRC>(Binary data 14 bytes, use -b option to extract)</ICC_Profile:GreenTRC>
+ <ICC_Profile:BlueTRC>(Binary data 14 bytes, use -b option to extract)</ICC_Profile:BlueTRC>
+ <ICC_Profile:RedMatrixColumn>0.60974 0.31111 0.01947</ICC_Profile:RedMatrixColumn>
+ <ICC_Profile:GreenMatrixColumn>0.20528 0.62567 0.06087</ICC_Profile:GreenMatrixColumn>
+ <ICC_Profile:BlueMatrixColumn>0.14919 0.06322 0.74457</ICC_Profile:BlueMatrixColumn>
+ <Composite:Aperture>3.2</Composite:Aperture>
+ <Composite:ImageSize>4953x2324</Composite:ImageSize>
+ <Composite:Megapixels>11.5</Composite:Megapixels>
+ <Composite:ShutterSpeed>1/160</Composite:ShutterSpeed>
+ <Composite:SubSecCreateDate>2025:03:21 12:18:03.41</Composite:SubSecCreateDate>
+ <Composite:SubSecDateTimeOriginal>2025:03:21 12:18:03.41</Composite:SubSecDateTimeOriginal>
+ <Composite:SubSecModifyDate>2025:05:14 12:17:24.41</Composite:SubSecModifyDate>
+ <Composite:DateTimeCreated>2025:03:21 12:18:03</Composite:DateTimeCreated>
+ <Composite:Flash>Off, Did not fire</Composite:Flash>
+ <Composite:FocalLength35efl>50.0 mm</Composite:FocalLength35efl>
+ <Composite:LightValue>7.7</Composite:LightValue>
+ <Composite:LensID>Sigma 50mm f/1.4 DG HSM | A</Composite:LensID>
+</rdf:Description>
+</rdf:RDF>
+
+                
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+
+<rdf:Description rdf:about='stugan_album_s2.jpg'
+  xmlns:et='http://ns.exiftool.org/1.0/' et:toolkit='Image::ExifTool 13.25'
+  xmlns:ExifTool='http://ns.exiftool.org/ExifTool/1.0/'
+  xmlns:System='http://ns.exiftool.org/File/System/1.0/'
+  xmlns:File='http://ns.exiftool.org/File/1.0/'
+  xmlns:IFD0='http://ns.exiftool.org/EXIF/IFD0/1.0/'
+  xmlns:ExifIFD='http://ns.exiftool.org/EXIF/ExifIFD/1.0/'
+  xmlns:Photoshop='http://ns.exiftool.org/Photoshop/Photoshop/1.0/'
+  xmlns:Composite='http://ns.exiftool.org/Composite/1.0/'>
+ <ExifTool:ExifToolVersion>13.25</ExifTool:ExifToolVersion>
+ <System:FileName>stugan_album_s2.jpg</System:FileName>
+ <System:FileSize>38 MB</System:FileSize>
+ <System:FileModifyDate>2025:04:15 15:18:41+02:00</System:FileModifyDate>
+ <System:FileAccessDate>2025:05:14 12:18:33+02:00</System:FileAccessDate>
+ <System:FileInodeChangeDate>2025:05:14 12:18:32+02:00</System:FileInodeChangeDate>
+ <System:FilePermissions>-rw-r--r--</System:FilePermissions>
+ <File:FileType>JPEG</File:FileType>
+ <File:FileTypeExtension>jpg</File:FileTypeExtension>
+ <File:MIMEType>image/jpeg</File:MIMEType>
+ <File:ExifByteOrder>Big-endian (Motorola, MM)</File:ExifByteOrder>
+ <File:ImageWidth>7790</File:ImageWidth>
+ <File:ImageHeight>6000</File:ImageHeight>
+ <File:EncodingProcess>Baseline DCT, Huffman coding</File:EncodingProcess>
+ <File:BitsPerSample>8</File:BitsPerSample>
+ <File:ColorComponents>3</File:ColorComponents>
+ <File:YCbCrSubSampling>YCbCr4:4:4 (1 1)</File:YCbCrSubSampling>
+ <IFD0:XResolution>600</IFD0:XResolution>
+ <IFD0:YResolution>600</IFD0:YResolution>
+ <IFD0:ResolutionUnit>inches</IFD0:ResolutionUnit>
+ <ExifIFD:MakerNoteUnknownText>CLIP STUDIO PAINT</ExifIFD:MakerNoteUnknownText>
+ <Photoshop:XResolution>600</Photoshop:XResolution>
+ <Photoshop:DisplayedUnitsX>inches</Photoshop:DisplayedUnitsX>
+ <Photoshop:YResolution>600</Photoshop:YResolution>
+ <Photoshop:DisplayedUnitsY>inches</Photoshop:DisplayedUnitsY>
+ <Composite:ImageSize>7790x6000</Composite:ImageSize>
+ <Composite:Megapixels>46.7</Composite:Megapixels>
+</rdf:Description>
+</rdf:RDF>
+
+            </xenoData>
         </teiHeader>
 
         <facsimile>
@@ -239,6 +778,469 @@
                     <p></p>
                 </sourceDesc>
             </fileDesc>
+            <xenoData>
+            <rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+
+<rdf:Description rdf:about='2_stugan_album_uppslag2.tif'
+  xmlns:et='http://ns.exiftool.org/1.0/' et:toolkit='Image::ExifTool 13.25'
+  xmlns:ExifTool='http://ns.exiftool.org/ExifTool/1.0/'
+  xmlns:System='http://ns.exiftool.org/File/System/1.0/'
+  xmlns:File='http://ns.exiftool.org/File/1.0/'
+  xmlns:IFD0='http://ns.exiftool.org/EXIF/IFD0/1.0/'
+  xmlns:XMP-x='http://ns.exiftool.org/XMP/XMP-x/1.0/'
+  xmlns:XMP-xmp='http://ns.exiftool.org/XMP/XMP-xmp/1.0/'
+  xmlns:XMP-aux='http://ns.exiftool.org/XMP/XMP-aux/1.0/'
+  xmlns:XMP-exifEX='http://ns.exiftool.org/XMP/XMP-exifEX/1.0/'
+  xmlns:XMP-photoshop='http://ns.exiftool.org/XMP/XMP-photoshop/1.0/'
+  xmlns:XMP-xmpMM='http://ns.exiftool.org/XMP/XMP-xmpMM/1.0/'
+  xmlns:XMP-dc='http://ns.exiftool.org/XMP/XMP-dc/1.0/'
+  xmlns:XMP-crs='http://ns.exiftool.org/XMP/XMP-crs/1.0/'
+  xmlns:XMP-xmpRights='http://ns.exiftool.org/XMP/XMP-xmpRights/1.0/'
+  xmlns:XMP-tiff='http://ns.exiftool.org/XMP/XMP-tiff/1.0/'
+  xmlns:XMP-exif='http://ns.exiftool.org/XMP/XMP-exif/1.0/'
+  xmlns:IPTC='http://ns.exiftool.org/IPTC/IPTC/1.0/'
+  xmlns:Photoshop='http://ns.exiftool.org/Photoshop/Photoshop/1.0/'
+  xmlns:ExifIFD='http://ns.exiftool.org/EXIF/ExifIFD/1.0/'
+  xmlns:ICC-header='http://ns.exiftool.org/ICC_Profile/ICC-header/1.0/'
+  xmlns:ICC_Profile='http://ns.exiftool.org/ICC_Profile/ICC_Profile/1.0/'
+  xmlns:Composite='http://ns.exiftool.org/Composite/1.0/'>
+ <ExifTool:ExifToolVersion>13.25</ExifTool:ExifToolVersion>
+ <System:FileName>2_stugan_album_uppslag2.tif</System:FileName>
+ <System:FileSize>64 MB</System:FileSize>
+ <System:FileModifyDate>2025:05:14 13:01:15+02:00</System:FileModifyDate>
+ <System:FileAccessDate>2025:05:14 13:23:34+02:00</System:FileAccessDate>
+ <System:FileInodeChangeDate>2025:05:14 13:22:10+02:00</System:FileInodeChangeDate>
+ <System:FilePermissions>-rw-r--r--</System:FilePermissions>
+ <File:FileType>TIFF</File:FileType>
+ <File:FileTypeExtension>tif</File:FileTypeExtension>
+ <File:MIMEType>image/tiff</File:MIMEType>
+ <File:ExifByteOrder>Big-endian (Motorola, MM)</File:ExifByteOrder>
+ <File:CurrentIPTCDigest>407d836738d6bb6a805d79814e475cc0</File:CurrentIPTCDigest>
+ <IFD0:SubfileType>Full-resolution image</IFD0:SubfileType>
+ <IFD0:ImageWidth>4934</IFD0:ImageWidth>
+ <IFD0:ImageHeight>2169</IFD0:ImageHeight>
+ <IFD0:BitsPerSample>16 16 16</IFD0:BitsPerSample>
+ <IFD0:Compression>Uncompressed</IFD0:Compression>
+ <IFD0:PhotometricInterpretation>RGB</IFD0:PhotometricInterpretation>
+ <IFD0:ImageDescription rdf:datatype='http://www.w3.org/2001/XMLSchema#base64Binary'>
+QWxidW0gb20gU2FobGdyZW5za2Egc2p1a3NrmnRlcnNrb3JzIGluc2FtbGlu
+ZyB0aWxsIGVuIHNvbW1hcnN0dWdhLCAxOTMxLTE5MzMuIEZyjG4gTWVkaWNp
+bmhpc3Rvcmlza2EgbXVzZWV0cyBzYW1saW5nYXIgIGkgR5p0ZWJvcmcsIFN2
+ZXJpZ2UuIEFsYnVtIGRvbmVyYXQgjHIgMTk5OCBhdiBHZXJ0cnVkIEFuZGVy
+c3Nvbi4gIA==
+</IFD0:ImageDescription>
+ <IFD0:Make>Canon</IFD0:Make>
+ <IFD0:Model>Canon EOS 5D Mark III</IFD0:Model>
+ <IFD0:StripOffsets>37372</IFD0:StripOffsets>
+ <IFD0:Orientation>Horizontal (normal)</IFD0:Orientation>
+ <IFD0:SamplesPerPixel>3</IFD0:SamplesPerPixel>
+ <IFD0:RowsPerStrip>2169</IFD0:RowsPerStrip>
+ <IFD0:StripByteCounts>64211076</IFD0:StripByteCounts>
+ <IFD0:XResolution>300</IFD0:XResolution>
+ <IFD0:YResolution>300</IFD0:YResolution>
+ <IFD0:PlanarConfiguration>Chunky</IFD0:PlanarConfiguration>
+ <IFD0:ResolutionUnit>inches</IFD0:ResolutionUnit>
+ <IFD0:Software>Adobe Photoshop 25.12 (Macintosh)</IFD0:Software>
+ <IFD0:ModifyDate>2025:05:14 12:09:08</IFD0:ModifyDate>
+ <IFD0:Artist>Unknown</IFD0:Artist>
+ <XMP-x:XMPToolkit>Adobe XMP Core 9.1-c002 79.a6a63968a, 2024/03/06-11:52:05        </XMP-x:XMPToolkit>
+ <XMP-xmp:Rating>0</XMP-xmp:Rating>
+ <XMP-xmp:ModifyDate>2025:05:14 12:09:08+02:00</XMP-xmp:ModifyDate>
+ <XMP-xmp:CreateDate>2025:03:21 12:18:13</XMP-xmp:CreateDate>
+ <XMP-xmp:MetadataDate>2025:05:14 12:09:08+02:00</XMP-xmp:MetadataDate>
+ <XMP-xmp:CreatorTool>Adobe Photoshop 25.12 (Macintosh)</XMP-xmp:CreatorTool>
+ <XMP-aux:SerialNumber>033023000916</XMP-aux:SerialNumber>
+ <XMP-aux:LensInfo>50mm f/?</XMP-aux:LensInfo>
+ <XMP-aux:Lens>50mm F1.4 DG HSM | Art 014</XMP-aux:Lens>
+ <XMP-aux:LensID>368</XMP-aux:LensID>
+ <XMP-aux:LensSerialNumber>0000000000</XMP-aux:LensSerialNumber>
+ <XMP-aux:ImageNumber>0</XMP-aux:ImageNumber>
+ <XMP-aux:ApproximateFocusDistance>1.12</XMP-aux:ApproximateFocusDistance>
+ <XMP-aux:FlashCompensation>0</XMP-aux:FlashCompensation>
+ <XMP-aux:Firmware>1.3.5</XMP-aux:Firmware>
+ <XMP-exifEX:LensModel>50mm F1.4 DG HSM | Art 014</XMP-exifEX:LensModel>
+ <XMP-photoshop:DateCreated>2025:03:21 12:17:38.063</XMP-photoshop:DateCreated>
+ <XMP-photoshop:ColorMode>RGB</XMP-photoshop:ColorMode>
+ <XMP-photoshop:ICCProfileName>Adobe RGB (1998)</XMP-photoshop:ICCProfileName>
+ <XMP-photoshop:Country>Sverige</XMP-photoshop:Country>
+ <XMP-photoshop:City>Göteborg</XMP-photoshop:City>
+ <XMP-xmpMM:DocumentID>adobe:docid:photoshop:ccac3334-fccc-f84c-b224-d065764d6565</XMP-xmpMM:DocumentID>
+ <XMP-xmpMM:HistoryAction>
+  <rdf:Bag>
+   <rdf:li>derived</rdf:li>
+   <rdf:li>saved</rdf:li>
+   <rdf:li>saved</rdf:li>
+  </rdf:Bag>
+ </XMP-xmpMM:HistoryAction>
+ <XMP-xmpMM:HistoryParameters>converted from image/x-canon-cr2 to image/tiff</XMP-xmpMM:HistoryParameters>
+ <XMP-xmpMM:HistoryInstanceID>
+  <rdf:Bag>
+   <rdf:li>xmp.iid:697f1f71-8661-42bf-8ace-54b7e52819b5</rdf:li>
+   <rdf:li>xmp.iid:fac6dffe-49de-402a-98bc-effe98ec6b49</rdf:li>
+  </rdf:Bag>
+ </XMP-xmpMM:HistoryInstanceID>
+ <XMP-xmpMM:HistoryWhen>
+  <rdf:Bag>
+   <rdf:li>2025:05:14 12:02:15+02:00</rdf:li>
+   <rdf:li>2025:05:14 12:09:08+02:00</rdf:li>
+  </rdf:Bag>
+ </XMP-xmpMM:HistoryWhen>
+ <XMP-xmpMM:HistorySoftwareAgent>
+  <rdf:Bag>
+   <rdf:li>Adobe Photoshop Camera Raw 16.5 (Macintosh)</rdf:li>
+   <rdf:li>Adobe Photoshop 25.12 (Macintosh)</rdf:li>
+  </rdf:Bag>
+ </XMP-xmpMM:HistorySoftwareAgent>
+ <XMP-xmpMM:HistoryChanged>
+  <rdf:Bag>
+   <rdf:li>/</rdf:li>
+   <rdf:li>/</rdf:li>
+  </rdf:Bag>
+ </XMP-xmpMM:HistoryChanged>
+ <XMP-xmpMM:OriginalDocumentID>1E042170AEC9F64AC3A2166F12884E52</XMP-xmpMM:OriginalDocumentID>
+ <XMP-xmpMM:DerivedFromDocumentID>1E042170AEC9F64AC3A2166F12884E52</XMP-xmpMM:DerivedFromDocumentID>
+ <XMP-xmpMM:DerivedFromOriginalDocumentID>1E042170AEC9F64AC3A2166F12884E52</XMP-xmpMM:DerivedFromOriginalDocumentID>
+ <XMP-xmpMM:InstanceID>xmp.iid:fac6dffe-49de-402a-98bc-effe98ec6b49</XMP-xmpMM:InstanceID>
+ <XMP-dc:Format>image/tiff</XMP-dc:Format>
+ <XMP-dc:Title>stugan_album_uppslag2</XMP-dc:Title>
+ <XMP-dc:Description>Album om Sahlgrenska sjuksköterskors insamling till en sommarstuga, 1931-1933. Från Medicinhistoriska museets samlingar  i Göteborg, Sverige. Album donerat år 1998 av Gertrud Andersson.  </XMP-dc:Description>
+ <XMP-dc:Subject>
+  <rdf:Bag>
+   <rdf:li>history of medicine</rdf:li>
+   <rdf:li>nurses</rdf:li>
+   <rdf:li>nurses´residences</rdf:li>
+   <rdf:li>photograph albums</rdf:li>
+  </rdf:Bag>
+ </XMP-dc:Subject>
+ <XMP-dc:Creator>Unknown</XMP-dc:Creator>
+ <XMP-crs:Version>16.5</XMP-crs:Version>
+ <XMP-crs:ProcessVersion>15.4</XMP-crs:ProcessVersion>
+ <XMP-crs:WhiteBalance>As Shot</XMP-crs:WhiteBalance>
+ <XMP-crs:ColorTemperature>7300</XMP-crs:ColorTemperature>
+ <XMP-crs:Tint>-6</XMP-crs:Tint>
+ <XMP-crs:Exposure2012>+0.50</XMP-crs:Exposure2012>
+ <XMP-crs:Contrast2012>+7</XMP-crs:Contrast2012>
+ <XMP-crs:Highlights2012>0</XMP-crs:Highlights2012>
+ <XMP-crs:Shadows2012>+8</XMP-crs:Shadows2012>
+ <XMP-crs:Whites2012>0</XMP-crs:Whites2012>
+ <XMP-crs:Blacks2012>0</XMP-crs:Blacks2012>
+ <XMP-crs:Texture>+11</XMP-crs:Texture>
+ <XMP-crs:Clarity2012>0</XMP-crs:Clarity2012>
+ <XMP-crs:Dehaze>0</XMP-crs:Dehaze>
+ <XMP-crs:Vibrance>0</XMP-crs:Vibrance>
+ <XMP-crs:Saturation>-41</XMP-crs:Saturation>
+ <XMP-crs:ParametricShadows>0</XMP-crs:ParametricShadows>
+ <XMP-crs:ParametricDarks>0</XMP-crs:ParametricDarks>
+ <XMP-crs:ParametricLights>0</XMP-crs:ParametricLights>
+ <XMP-crs:ParametricHighlights>0</XMP-crs:ParametricHighlights>
+ <XMP-crs:ParametricShadowSplit>25</XMP-crs:ParametricShadowSplit>
+ <XMP-crs:ParametricMidtoneSplit>50</XMP-crs:ParametricMidtoneSplit>
+ <XMP-crs:ParametricHighlightSplit>75</XMP-crs:ParametricHighlightSplit>
+ <XMP-crs:Sharpness>40</XMP-crs:Sharpness>
+ <XMP-crs:SharpenRadius>+1.0</XMP-crs:SharpenRadius>
+ <XMP-crs:SharpenDetail>25</XMP-crs:SharpenDetail>
+ <XMP-crs:SharpenEdgeMasking>0</XMP-crs:SharpenEdgeMasking>
+ <XMP-crs:LuminanceSmoothing>0</XMP-crs:LuminanceSmoothing>
+ <XMP-crs:ColorNoiseReduction>25</XMP-crs:ColorNoiseReduction>
+ <XMP-crs:ColorNoiseReductionDetail>50</XMP-crs:ColorNoiseReductionDetail>
+ <XMP-crs:ColorNoiseReductionSmoothness>50</XMP-crs:ColorNoiseReductionSmoothness>
+ <XMP-crs:HueAdjustmentRed>0</XMP-crs:HueAdjustmentRed>
+ <XMP-crs:HueAdjustmentOrange>0</XMP-crs:HueAdjustmentOrange>
+ <XMP-crs:HueAdjustmentYellow>0</XMP-crs:HueAdjustmentYellow>
+ <XMP-crs:HueAdjustmentGreen>0</XMP-crs:HueAdjustmentGreen>
+ <XMP-crs:HueAdjustmentAqua>0</XMP-crs:HueAdjustmentAqua>
+ <XMP-crs:HueAdjustmentBlue>0</XMP-crs:HueAdjustmentBlue>
+ <XMP-crs:HueAdjustmentPurple>0</XMP-crs:HueAdjustmentPurple>
+ <XMP-crs:HueAdjustmentMagenta>0</XMP-crs:HueAdjustmentMagenta>
+ <XMP-crs:SaturationAdjustmentRed>0</XMP-crs:SaturationAdjustmentRed>
+ <XMP-crs:SaturationAdjustmentOrange>0</XMP-crs:SaturationAdjustmentOrange>
+ <XMP-crs:SaturationAdjustmentYellow>0</XMP-crs:SaturationAdjustmentYellow>
+ <XMP-crs:SaturationAdjustmentGreen>0</XMP-crs:SaturationAdjustmentGreen>
+ <XMP-crs:SaturationAdjustmentAqua>0</XMP-crs:SaturationAdjustmentAqua>
+ <XMP-crs:SaturationAdjustmentBlue>0</XMP-crs:SaturationAdjustmentBlue>
+ <XMP-crs:SaturationAdjustmentPurple>0</XMP-crs:SaturationAdjustmentPurple>
+ <XMP-crs:SaturationAdjustmentMagenta>0</XMP-crs:SaturationAdjustmentMagenta>
+ <XMP-crs:LuminanceAdjustmentRed>0</XMP-crs:LuminanceAdjustmentRed>
+ <XMP-crs:LuminanceAdjustmentOrange>0</XMP-crs:LuminanceAdjustmentOrange>
+ <XMP-crs:LuminanceAdjustmentYellow>0</XMP-crs:LuminanceAdjustmentYellow>
+ <XMP-crs:LuminanceAdjustmentGreen>0</XMP-crs:LuminanceAdjustmentGreen>
+ <XMP-crs:LuminanceAdjustmentAqua>0</XMP-crs:LuminanceAdjustmentAqua>
+ <XMP-crs:LuminanceAdjustmentBlue>0</XMP-crs:LuminanceAdjustmentBlue>
+ <XMP-crs:LuminanceAdjustmentPurple>0</XMP-crs:LuminanceAdjustmentPurple>
+ <XMP-crs:LuminanceAdjustmentMagenta>0</XMP-crs:LuminanceAdjustmentMagenta>
+ <XMP-crs:SplitToningShadowHue>0</XMP-crs:SplitToningShadowHue>
+ <XMP-crs:SplitToningShadowSaturation>0</XMP-crs:SplitToningShadowSaturation>
+ <XMP-crs:SplitToningHighlightHue>0</XMP-crs:SplitToningHighlightHue>
+ <XMP-crs:SplitToningHighlightSaturation>0</XMP-crs:SplitToningHighlightSaturation>
+ <XMP-crs:SplitToningBalance>0</XMP-crs:SplitToningBalance>
+ <XMP-crs:ColorGradeMidtoneHue>0</XMP-crs:ColorGradeMidtoneHue>
+ <XMP-crs:ColorGradeMidtoneSat>0</XMP-crs:ColorGradeMidtoneSat>
+ <XMP-crs:ColorGradeShadowLum>0</XMP-crs:ColorGradeShadowLum>
+ <XMP-crs:ColorGradeMidtoneLum>0</XMP-crs:ColorGradeMidtoneLum>
+ <XMP-crs:ColorGradeHighlightLum>0</XMP-crs:ColorGradeHighlightLum>
+ <XMP-crs:ColorGradeBlending>50</XMP-crs:ColorGradeBlending>
+ <XMP-crs:ColorGradeGlobalHue>0</XMP-crs:ColorGradeGlobalHue>
+ <XMP-crs:ColorGradeGlobalSat>0</XMP-crs:ColorGradeGlobalSat>
+ <XMP-crs:ColorGradeGlobalLum>0</XMP-crs:ColorGradeGlobalLum>
+ <XMP-crs:AutoLateralCA>0</XMP-crs:AutoLateralCA>
+ <XMP-crs:LensProfileEnable>0</XMP-crs:LensProfileEnable>
+ <XMP-crs:LensManualDistortionAmount>0</XMP-crs:LensManualDistortionAmount>
+ <XMP-crs:VignetteAmount>0</XMP-crs:VignetteAmount>
+ <XMP-crs:DefringePurpleAmount>0</XMP-crs:DefringePurpleAmount>
+ <XMP-crs:DefringePurpleHueLo>30</XMP-crs:DefringePurpleHueLo>
+ <XMP-crs:DefringePurpleHueHi>70</XMP-crs:DefringePurpleHueHi>
+ <XMP-crs:DefringeGreenAmount>0</XMP-crs:DefringeGreenAmount>
+ <XMP-crs:DefringeGreenHueLo>40</XMP-crs:DefringeGreenHueLo>
+ <XMP-crs:DefringeGreenHueHi>60</XMP-crs:DefringeGreenHueHi>
+ <XMP-crs:PerspectiveUpright>Off</XMP-crs:PerspectiveUpright>
+ <XMP-crs:PerspectiveVertical>0</XMP-crs:PerspectiveVertical>
+ <XMP-crs:PerspectiveHorizontal>0</XMP-crs:PerspectiveHorizontal>
+ <XMP-crs:PerspectiveRotate>0.0</XMP-crs:PerspectiveRotate>
+ <XMP-crs:PerspectiveAspect>0</XMP-crs:PerspectiveAspect>
+ <XMP-crs:PerspectiveScale>100</XMP-crs:PerspectiveScale>
+ <XMP-crs:PerspectiveX>0.00</XMP-crs:PerspectiveX>
+ <XMP-crs:PerspectiveY>0.00</XMP-crs:PerspectiveY>
+ <XMP-crs:GrainAmount>0</XMP-crs:GrainAmount>
+ <XMP-crs:PostCropVignetteAmount>0</XMP-crs:PostCropVignetteAmount>
+ <XMP-crs:ShadowTint>0</XMP-crs:ShadowTint>
+ <XMP-crs:RedHue>0</XMP-crs:RedHue>
+ <XMP-crs:RedSaturation>0</XMP-crs:RedSaturation>
+ <XMP-crs:GreenHue>0</XMP-crs:GreenHue>
+ <XMP-crs:GreenSaturation>0</XMP-crs:GreenSaturation>
+ <XMP-crs:BlueHue>0</XMP-crs:BlueHue>
+ <XMP-crs:BlueSaturation>0</XMP-crs:BlueSaturation>
+ <XMP-crs:HDREditMode>0</XMP-crs:HDREditMode>
+ <XMP-crs:OverrideLookVignette>False</XMP-crs:OverrideLookVignette>
+ <XMP-crs:ToneCurveName2012>Linear</XMP-crs:ToneCurveName2012>
+ <XMP-crs:ToneCurvePV2012>
+  <rdf:Bag>
+   <rdf:li>0, 0</rdf:li>
+   <rdf:li>255, 255</rdf:li>
+  </rdf:Bag>
+ </XMP-crs:ToneCurvePV2012>
+ <XMP-crs:ToneCurvePV2012Red>
+  <rdf:Bag>
+   <rdf:li>0, 0</rdf:li>
+   <rdf:li>255, 255</rdf:li>
+  </rdf:Bag>
+ </XMP-crs:ToneCurvePV2012Red>
+ <XMP-crs:ToneCurvePV2012Green>
+  <rdf:Bag>
+   <rdf:li>0, 0</rdf:li>
+   <rdf:li>255, 255</rdf:li>
+  </rdf:Bag>
+ </XMP-crs:ToneCurvePV2012Green>
+ <XMP-crs:ToneCurvePV2012Blue>
+  <rdf:Bag>
+   <rdf:li>0, 0</rdf:li>
+   <rdf:li>255, 255</rdf:li>
+  </rdf:Bag>
+ </XMP-crs:ToneCurvePV2012Blue>
+ <XMP-crs:PointColors>-1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000</XMP-crs:PointColors>
+ <XMP-crs:CameraProfile>Adobe Standard</XMP-crs:CameraProfile>
+ <XMP-crs:CameraProfileDigest>87FB0EDC503E332309FB5DE5C5C65125</XMP-crs:CameraProfileDigest>
+ <XMP-crs:LookName>Adobe Color</XMP-crs:LookName>
+ <XMP-crs:LookAmount>1</XMP-crs:LookAmount>
+ <XMP-crs:LookGroup>Profiles</XMP-crs:LookGroup>
+ <XMP-crs:LookUUID>B952C231111CD8E0ECCF14B86BAA7077</XMP-crs:LookUUID>
+ <XMP-crs:LookSupportsAmount>false</XMP-crs:LookSupportsAmount>
+ <XMP-crs:LookSupportsMonochrome>false</XMP-crs:LookSupportsMonochrome>
+ <XMP-crs:LookSupportsOutputReferred>false</XMP-crs:LookSupportsOutputReferred>
+ <XMP-crs:LookCopyright>© 2018 Adobe Systems, Inc.</XMP-crs:LookCopyright>
+ <XMP-crs:LookParametersVersion>16.5</XMP-crs:LookParametersVersion>
+ <XMP-crs:LookParametersProcessVersion>15.4</XMP-crs:LookParametersProcessVersion>
+ <XMP-crs:LookParametersConvertToGrayscale>False</XMP-crs:LookParametersConvertToGrayscale>
+ <XMP-crs:LookParametersToneCurvePV2012>
+  <rdf:Bag>
+   <rdf:li>0, 0</rdf:li>
+   <rdf:li>22, 16</rdf:li>
+   <rdf:li>40, 35</rdf:li>
+   <rdf:li>127, 127</rdf:li>
+   <rdf:li>224, 230</rdf:li>
+   <rdf:li>240, 246</rdf:li>
+   <rdf:li>255, 255</rdf:li>
+  </rdf:Bag>
+ </XMP-crs:LookParametersToneCurvePV2012>
+ <XMP-crs:LookParametersToneCurvePV2012Red>
+  <rdf:Bag>
+   <rdf:li>0, 0</rdf:li>
+   <rdf:li>255, 255</rdf:li>
+  </rdf:Bag>
+ </XMP-crs:LookParametersToneCurvePV2012Red>
+ <XMP-crs:LookParametersToneCurvePV2012Green>
+  <rdf:Bag>
+   <rdf:li>0, 0</rdf:li>
+   <rdf:li>255, 255</rdf:li>
+  </rdf:Bag>
+ </XMP-crs:LookParametersToneCurvePV2012Green>
+ <XMP-crs:LookParametersToneCurvePV2012Blue>
+  <rdf:Bag>
+   <rdf:li>0, 0</rdf:li>
+   <rdf:li>255, 255</rdf:li>
+  </rdf:Bag>
+ </XMP-crs:LookParametersToneCurvePV2012Blue>
+ <XMP-crs:LookParametersCameraProfile>Adobe Standard</XMP-crs:LookParametersCameraProfile>
+ <XMP-crs:LookParametersLookTable>E1095149FDB39D7A057BAB208837E2E1</XMP-crs:LookParametersLookTable>
+ <XMP-crs:HasSettings>True</XMP-crs:HasSettings>
+ <XMP-crs:HasCrop>False</XMP-crs:HasCrop>
+ <XMP-crs:AlreadyApplied>True</XMP-crs:AlreadyApplied>
+ <XMP-xmpRights:Marked>False</XMP-xmpRights:Marked>
+ <XMP-tiff:Orientation>Horizontal (normal)</XMP-tiff:Orientation>
+ <XMP-tiff:XResolution>300</XMP-tiff:XResolution>
+ <XMP-tiff:YResolution>300</XMP-tiff:YResolution>
+ <XMP-tiff:ResolutionUnit>inches</XMP-tiff:ResolutionUnit>
+ <XMP-tiff:Make>Canon</XMP-tiff:Make>
+ <XMP-tiff:Model>Canon EOS 5D Mark III</XMP-tiff:Model>
+ <XMP-exif:ExifVersion>0230</XMP-exif:ExifVersion>
+ <XMP-exif:ColorSpace>Uncalibrated</XMP-exif:ColorSpace>
+ <XMP-exif:ExifImageWidth>4934</XMP-exif:ExifImageWidth>
+ <XMP-exif:ExifImageHeight>2169</XMP-exif:ExifImageHeight>
+ <XMP-exif:DateTimeOriginal>2025:03:21 12:18:13</XMP-exif:DateTimeOriginal>
+ <XMP-exif:ExposureTime>1/160</XMP-exif:ExposureTime>
+ <XMP-exif:FNumber>3.2</XMP-exif:FNumber>
+ <XMP-exif:ExposureProgram>Manual</XMP-exif:ExposureProgram>
+ <XMP-exif:ISO>800</XMP-exif:ISO>
+ <XMP-exif:ShutterSpeedValue>1/160</XMP-exif:ShutterSpeedValue>
+ <XMP-exif:ApertureValue>3.2</XMP-exif:ApertureValue>
+ <XMP-exif:ExposureCompensation>0</XMP-exif:ExposureCompensation>
+ <XMP-exif:MaxApertureValue>1.4</XMP-exif:MaxApertureValue>
+ <XMP-exif:MeteringMode>Center-weighted average</XMP-exif:MeteringMode>
+ <XMP-exif:FlashFired>False</XMP-exif:FlashFired>
+ <XMP-exif:FlashReturn>No return detection</XMP-exif:FlashReturn>
+ <XMP-exif:FlashMode>Off</XMP-exif:FlashMode>
+ <XMP-exif:FlashFunction>False</XMP-exif:FlashFunction>
+ <XMP-exif:FlashRedEyeMode>False</XMP-exif:FlashRedEyeMode>
+ <XMP-exif:FocalLength>50.0 mm</XMP-exif:FocalLength>
+ <XMP-exif:FocalPlaneXResolution>1600</XMP-exif:FocalPlaneXResolution>
+ <XMP-exif:FocalPlaneYResolution>1600</XMP-exif:FocalPlaneYResolution>
+ <XMP-exif:FocalPlaneResolutionUnit>cm</XMP-exif:FocalPlaneResolutionUnit>
+ <XMP-exif:CustomRendered>Normal</XMP-exif:CustomRendered>
+ <XMP-exif:ExposureMode>Manual</XMP-exif:ExposureMode>
+ <XMP-exif:WhiteBalance>Auto</XMP-exif:WhiteBalance>
+ <XMP-exif:SceneCaptureType>Standard</XMP-exif:SceneCaptureType>
+ <XMP-exif:SubSecTime>14</XMP-exif:SubSecTime>
+ <XMP-exif:SubSecTimeOriginal>14</XMP-exif:SubSecTimeOriginal>
+ <XMP-exif:SubSecTimeDigitized>14</XMP-exif:SubSecTimeDigitized>
+ <XMP-exif:SerialNumber>033023000916</XMP-exif:SerialNumber>
+ <XMP-exif:LensInfo>50</XMP-exif:LensInfo>
+ <XMP-exif:Lens>50mm F1.4 DG HSM | Art 014</XMP-exif:Lens>
+ <XMP-exif:LensSerialNumber>0000000000</XMP-exif:LensSerialNumber>
+ <XMP-exif:SensitivityType>2</XMP-exif:SensitivityType>
+ <XMP-exif:RecommendedExposureIndex>800</XMP-exif:RecommendedExposureIndex>
+ <IPTC:CodedCharacterSet>UTF8</IPTC:CodedCharacterSet>
+ <IPTC:ApplicationRecordVersion>0</IPTC:ApplicationRecordVersion>
+ <IPTC:Caption-Abstract>Album om Sahlgrenska sjuksköterskors insamling till en sommarstuga, 1931-1933. Från Medicinhistoriska museets samlingar  i Göteborg, Sverige. Album donerat år 1998 av Gertrud Andersson.  </IPTC:Caption-Abstract>
+ <IPTC:By-line>Unknown</IPTC:By-line>
+ <IPTC:ObjectName>stugan_album_uppslag2</IPTC:ObjectName>
+ <IPTC:DateCreated>2025:03:21</IPTC:DateCreated>
+ <IPTC:TimeCreated>12:17:38</IPTC:TimeCreated>
+ <IPTC:City>Göteborg</IPTC:City>
+ <IPTC:Country-PrimaryLocationName>Sverige</IPTC:Country-PrimaryLocationName>
+ <IPTC:Keywords>
+  <rdf:Bag>
+   <rdf:li>history of medicine</rdf:li>
+   <rdf:li>nurses</rdf:li>
+   <rdf:li>nurses´residences</rdf:li>
+   <rdf:li>photograph albums</rdf:li>
+  </rdf:Bag>
+ </IPTC:Keywords>
+ <Photoshop:IPTCDigest>407d836738d6bb6a805d79814e475cc0</Photoshop:IPTCDigest>
+ <Photoshop:XResolution>300</Photoshop:XResolution>
+ <Photoshop:DisplayedUnitsX>inches</Photoshop:DisplayedUnitsX>
+ <Photoshop:YResolution>300</Photoshop:YResolution>
+ <Photoshop:DisplayedUnitsY>inches</Photoshop:DisplayedUnitsY>
+ <Photoshop:PrintStyle>Centered</Photoshop:PrintStyle>
+ <Photoshop:PrintPosition>0 0</Photoshop:PrintPosition>
+ <Photoshop:PrintScale>1</Photoshop:PrintScale>
+ <Photoshop:GlobalAngle>30</Photoshop:GlobalAngle>
+ <Photoshop:GlobalAltitude>30</Photoshop:GlobalAltitude>
+ <Photoshop:CopyrightFlag>False</Photoshop:CopyrightFlag>
+ <Photoshop:URL_List>
+  <rdf:Bag>
+  </rdf:Bag>
+ </Photoshop:URL_List>
+ <Photoshop:SlicesGroupName>_J6A0710</Photoshop:SlicesGroupName>
+ <Photoshop:NumSlices>1</Photoshop:NumSlices>
+ <Photoshop:PixelAspectRatio>1</Photoshop:PixelAspectRatio>
+ <Photoshop:PhotoshopThumbnail>(Binary data 4196 bytes, use -b option to extract)</Photoshop:PhotoshopThumbnail>
+ <Photoshop:HasRealMergedData>Yes</Photoshop:HasRealMergedData>
+ <Photoshop:WriterName>Adobe Photoshop</Photoshop:WriterName>
+ <Photoshop:ReaderName>Adobe Photoshop 2024</Photoshop:ReaderName>
+ <ExifIFD:ExposureTime>1/160</ExifIFD:ExposureTime>
+ <ExifIFD:FNumber>3.2</ExifIFD:FNumber>
+ <ExifIFD:ExposureProgram>Manual</ExifIFD:ExposureProgram>
+ <ExifIFD:ISO>800</ExifIFD:ISO>
+ <ExifIFD:SensitivityType>Recommended Exposure Index</ExifIFD:SensitivityType>
+ <ExifIFD:RecommendedExposureIndex>800</ExifIFD:RecommendedExposureIndex>
+ <ExifIFD:ExifVersion>0230</ExifIFD:ExifVersion>
+ <ExifIFD:DateTimeOriginal>2025:03:21 12:18:13</ExifIFD:DateTimeOriginal>
+ <ExifIFD:CreateDate>2025:03:21 12:18:13</ExifIFD:CreateDate>
+ <ExifIFD:ShutterSpeedValue>1/160</ExifIFD:ShutterSpeedValue>
+ <ExifIFD:ApertureValue>3.2</ExifIFD:ApertureValue>
+ <ExifIFD:ExposureCompensation>0</ExifIFD:ExposureCompensation>
+ <ExifIFD:MaxApertureValue>1.4</ExifIFD:MaxApertureValue>
+ <ExifIFD:MeteringMode>Center-weighted average</ExifIFD:MeteringMode>
+ <ExifIFD:Flash>Off, Did not fire</ExifIFD:Flash>
+ <ExifIFD:FocalLength>50.0 mm</ExifIFD:FocalLength>
+ <ExifIFD:SubSecTime>14</ExifIFD:SubSecTime>
+ <ExifIFD:SubSecTimeOriginal>14</ExifIFD:SubSecTimeOriginal>
+ <ExifIFD:SubSecTimeDigitized>14</ExifIFD:SubSecTimeDigitized>
+ <ExifIFD:ColorSpace>Uncalibrated</ExifIFD:ColorSpace>
+ <ExifIFD:ExifImageWidth>4934</ExifIFD:ExifImageWidth>
+ <ExifIFD:ExifImageHeight>2169</ExifIFD:ExifImageHeight>
+ <ExifIFD:FocalPlaneXResolution>1600</ExifIFD:FocalPlaneXResolution>
+ <ExifIFD:FocalPlaneYResolution>1600</ExifIFD:FocalPlaneYResolution>
+ <ExifIFD:FocalPlaneResolutionUnit>cm</ExifIFD:FocalPlaneResolutionUnit>
+ <ExifIFD:CustomRendered>Normal</ExifIFD:CustomRendered>
+ <ExifIFD:ExposureMode>Manual</ExifIFD:ExposureMode>
+ <ExifIFD:WhiteBalance>Auto</ExifIFD:WhiteBalance>
+ <ExifIFD:SceneCaptureType>Standard</ExifIFD:SceneCaptureType>
+ <ExifIFD:SerialNumber>033023000916</ExifIFD:SerialNumber>
+ <ExifIFD:LensInfo>50mm f/?</ExifIFD:LensInfo>
+ <ExifIFD:LensModel>50mm F1.4 DG HSM | Art 014</ExifIFD:LensModel>
+ <ExifIFD:LensSerialNumber>0000000000</ExifIFD:LensSerialNumber>
+ <ICC-header:ProfileCMMType>Adobe Systems Inc.</ICC-header:ProfileCMMType>
+ <ICC-header:ProfileVersion>2.1.0</ICC-header:ProfileVersion>
+ <ICC-header:ProfileClass>Display Device Profile</ICC-header:ProfileClass>
+ <ICC-header:ColorSpaceData>RGB </ICC-header:ColorSpaceData>
+ <ICC-header:ProfileConnectionSpace>XYZ </ICC-header:ProfileConnectionSpace>
+ <ICC-header:ProfileDateTime>1999:06:03 00:00:00</ICC-header:ProfileDateTime>
+ <ICC-header:ProfileFileSignature>acsp</ICC-header:ProfileFileSignature>
+ <ICC-header:PrimaryPlatform>Apple Computer Inc.</ICC-header:PrimaryPlatform>
+ <ICC-header:CMMFlags>Not Embedded, Independent</ICC-header:CMMFlags>
+ <ICC-header:DeviceManufacturer>none</ICC-header:DeviceManufacturer>
+ <ICC-header:DeviceModel></ICC-header:DeviceModel>
+ <ICC-header:DeviceAttributes>Reflective, Glossy, Positive, Color</ICC-header:DeviceAttributes>
+ <ICC-header:RenderingIntent>Media-Relative Colorimetric</ICC-header:RenderingIntent>
+ <ICC-header:ConnectionSpaceIlluminant>0.9642 1 0.82491</ICC-header:ConnectionSpaceIlluminant>
+ <ICC-header:ProfileCreator>Adobe Systems Inc.</ICC-header:ProfileCreator>
+ <ICC-header:ProfileID>0</ICC-header:ProfileID>
+ <ICC_Profile:ProfileCopyright>Copyright 1999 Adobe Systems Incorporated</ICC_Profile:ProfileCopyright>
+ <ICC_Profile:ProfileDescription>Adobe RGB (1998)</ICC_Profile:ProfileDescription>
+ <ICC_Profile:MediaWhitePoint>0.95045 1 1.08905</ICC_Profile:MediaWhitePoint>
+ <ICC_Profile:MediaBlackPoint>0 0 0</ICC_Profile:MediaBlackPoint>
+ <ICC_Profile:RedTRC>(Binary data 14 bytes, use -b option to extract)</ICC_Profile:RedTRC>
+ <ICC_Profile:GreenTRC>(Binary data 14 bytes, use -b option to extract)</ICC_Profile:GreenTRC>
+ <ICC_Profile:BlueTRC>(Binary data 14 bytes, use -b option to extract)</ICC_Profile:BlueTRC>
+ <ICC_Profile:RedMatrixColumn>0.60974 0.31111 0.01947</ICC_Profile:RedMatrixColumn>
+ <ICC_Profile:GreenMatrixColumn>0.20528 0.62567 0.06087</ICC_Profile:GreenMatrixColumn>
+ <ICC_Profile:BlueMatrixColumn>0.14919 0.06322 0.74457</ICC_Profile:BlueMatrixColumn>
+ <Composite:Aperture>3.2</Composite:Aperture>
+ <Composite:ImageSize>4934x2169</Composite:ImageSize>
+ <Composite:Megapixels>10.7</Composite:Megapixels>
+ <Composite:ShutterSpeed>1/160</Composite:ShutterSpeed>
+ <Composite:SubSecCreateDate>2025:03:21 12:18:13.14</Composite:SubSecCreateDate>
+ <Composite:SubSecDateTimeOriginal>2025:03:21 12:18:13.14</Composite:SubSecDateTimeOriginal>
+ <Composite:SubSecModifyDate>2025:05:14 12:09:08.14</Composite:SubSecModifyDate>
+ <Composite:DateTimeCreated>2025:03:21 12:17:38</Composite:DateTimeCreated>
+ <Composite:Flash>Off, Did not fire</Composite:Flash>
+ <Composite:FocalLength35efl>50.0 mm</Composite:FocalLength35efl>
+ <Composite:LightValue>7.7</Composite:LightValue>
+ <Composite:LensID>Sigma 50mm f/1.4 DG HSM | A</Composite:LensID>
+</rdf:Description>
+</rdf:RDF>
+
+            </xenoData>
         </teiHeader>
 
         <facsimile>
@@ -337,6 +1339,488 @@
                     <p></p>
                 </sourceDesc>
             </fileDesc>
+            <xenoData>
+            <rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+
+<rdf:Description rdf:about='/Users/annahyll/Documents/GitHub/Digitaliseringsprojekt/Foton/Tiff/3_stugan_album_uppslag3.tif'
+  xmlns:et='http://ns.exiftool.org/1.0/' et:toolkit='Image::ExifTool 13.25'
+  xmlns:ExifTool='http://ns.exiftool.org/ExifTool/1.0/'
+  xmlns:System='http://ns.exiftool.org/File/System/1.0/'
+  xmlns:File='http://ns.exiftool.org/File/1.0/'
+  xmlns:IFD0='http://ns.exiftool.org/EXIF/IFD0/1.0/'
+  xmlns:XMP-x='http://ns.exiftool.org/XMP/XMP-x/1.0/'
+  xmlns:XMP-xmp='http://ns.exiftool.org/XMP/XMP-xmp/1.0/'
+  xmlns:XMP-aux='http://ns.exiftool.org/XMP/XMP-aux/1.0/'
+  xmlns:XMP-exifEX='http://ns.exiftool.org/XMP/XMP-exifEX/1.0/'
+  xmlns:XMP-photoshop='http://ns.exiftool.org/XMP/XMP-photoshop/1.0/'
+  xmlns:XMP-xmpMM='http://ns.exiftool.org/XMP/XMP-xmpMM/1.0/'
+  xmlns:XMP-dc='http://ns.exiftool.org/XMP/XMP-dc/1.0/'
+  xmlns:XMP-crs='http://ns.exiftool.org/XMP/XMP-crs/1.0/'
+  xmlns:XMP-xmpRights='http://ns.exiftool.org/XMP/XMP-xmpRights/1.0/'
+  xmlns:XMP-tiff='http://ns.exiftool.org/XMP/XMP-tiff/1.0/'
+  xmlns:XMP-exif='http://ns.exiftool.org/XMP/XMP-exif/1.0/'
+  xmlns:IPTC='http://ns.exiftool.org/IPTC/IPTC/1.0/'
+  xmlns:Photoshop='http://ns.exiftool.org/Photoshop/Photoshop/1.0/'
+  xmlns:ExifIFD='http://ns.exiftool.org/EXIF/ExifIFD/1.0/'
+  xmlns:ICC-header='http://ns.exiftool.org/ICC_Profile/ICC-header/1.0/'
+  xmlns:ICC_Profile='http://ns.exiftool.org/ICC_Profile/ICC_Profile/1.0/'
+  xmlns:Composite='http://ns.exiftool.org/Composite/1.0/'>
+ <ExifTool:ExifToolVersion>13.25</ExifTool:ExifToolVersion>
+ <System:FileName>3_stugan_album_uppslag3.tif</System:FileName>
+ <System:Directory>/Users/annahyll/Documents/GitHub/Digitaliseringsprojekt/Foton/Tiff</System:Directory>
+ <System:FileSize>74 MB</System:FileSize>
+ <System:FileModifyDate>2025:05:11 14:06:27+02:00</System:FileModifyDate>
+ <System:FileAccessDate>2025:05:14 13:42:30+02:00</System:FileAccessDate>
+ <System:FileInodeChangeDate>2025:05:11 14:06:38+02:00</System:FileInodeChangeDate>
+ <System:FilePermissions>-rw-r--r--</System:FilePermissions>
+ <File:FileType>TIFF</File:FileType>
+ <File:FileTypeExtension>tif</File:FileTypeExtension>
+ <File:MIMEType>image/tiff</File:MIMEType>
+ <File:ExifByteOrder>Big-endian (Motorola, MM)</File:ExifByteOrder>
+ <File:CurrentIPTCDigest>7b75f73a65611d219e03a71477c6c571</File:CurrentIPTCDigest>
+ <IFD0:SubfileType>Full-resolution image</IFD0:SubfileType>
+ <IFD0:ImageWidth>5421</IFD0:ImageWidth>
+ <IFD0:ImageHeight>2283</IFD0:ImageHeight>
+ <IFD0:BitsPerSample>16 16 16</IFD0:BitsPerSample>
+ <IFD0:Compression>Uncompressed</IFD0:Compression>
+ <IFD0:PhotometricInterpretation>RGB</IFD0:PhotometricInterpretation>
+ <IFD0:ImageDescription rdf:datatype='http://www.w3.org/2001/XMLSchema#base64Binary'>
+QWxidW0gZnKMbiBTanVrc2uadGVyc2tvcnMgaW5zYW1saW5nIGaaciBzb21t
+YXJzdHVnYSwgMTkzMS0xOTMzLiAgRnKMbiBNZWRpY2luaGlzdG9yaXNrYSBt
+dXNlZXQgaSBHmnRlYm9yZywgU3ZlcmlnZS4gQWxidW0gZG9uZXJhdCCMciAx
+OTk4IGF2IEdlcnRydWQgQW5kZXJzc29uLiAg
+</IFD0:ImageDescription>
+ <IFD0:Make>Canon</IFD0:Make>
+ <IFD0:Model>Canon EOS 5D Mark III</IFD0:Model>
+ <IFD0:StripOffsets>37762</IFD0:StripOffsets>
+ <IFD0:Orientation>Horizontal (normal)</IFD0:Orientation>
+ <IFD0:SamplesPerPixel>3</IFD0:SamplesPerPixel>
+ <IFD0:RowsPerStrip>2283</IFD0:RowsPerStrip>
+ <IFD0:StripByteCounts>74256858</IFD0:StripByteCounts>
+ <IFD0:XResolution>300</IFD0:XResolution>
+ <IFD0:YResolution>300</IFD0:YResolution>
+ <IFD0:PlanarConfiguration>Chunky</IFD0:PlanarConfiguration>
+ <IFD0:ResolutionUnit>inches</IFD0:ResolutionUnit>
+ <IFD0:Software>Adobe Photoshop 25.12 (Macintosh)</IFD0:Software>
+ <IFD0:ModifyDate>2025:05:02 13:12:27</IFD0:ModifyDate>
+ <IFD0:Artist>Unknown</IFD0:Artist>
+ <XMP-x:XMPToolkit>Adobe XMP Core 9.1-c002 79.a6a63968a, 2024/03/06-11:52:05        </XMP-x:XMPToolkit>
+ <XMP-xmp:Rating>0</XMP-xmp:Rating>
+ <XMP-xmp:ModifyDate>2025:05:02 13:12:27+02:00</XMP-xmp:ModifyDate>
+ <XMP-xmp:CreateDate>2025:03:21 12:18:39</XMP-xmp:CreateDate>
+ <XMP-xmp:MetadataDate>2025:05:02 13:12:27+02:00</XMP-xmp:MetadataDate>
+ <XMP-xmp:CreatorTool>Adobe Photoshop 25.12 (Macintosh)</XMP-xmp:CreatorTool>
+ <XMP-aux:SerialNumber>033023000916</XMP-aux:SerialNumber>
+ <XMP-aux:LensInfo>50mm f/?</XMP-aux:LensInfo>
+ <XMP-aux:Lens>50mm F1.4 DG HSM | Art 014</XMP-aux:Lens>
+ <XMP-aux:LensID>368</XMP-aux:LensID>
+ <XMP-aux:LensSerialNumber>0000000000</XMP-aux:LensSerialNumber>
+ <XMP-aux:ImageNumber>0</XMP-aux:ImageNumber>
+ <XMP-aux:ApproximateFocusDistance>1</XMP-aux:ApproximateFocusDistance>
+ <XMP-aux:FlashCompensation>0</XMP-aux:FlashCompensation>
+ <XMP-aux:Firmware>1.3.5</XMP-aux:Firmware>
+ <XMP-exifEX:LensModel>50mm F1.4 DG HSM | Art 014</XMP-exifEX:LensModel>
+ <XMP-photoshop:DateCreated>2025:03:21 12:18:39.092</XMP-photoshop:DateCreated>
+ <XMP-photoshop:ColorMode>RGB</XMP-photoshop:ColorMode>
+ <XMP-photoshop:ICCProfileName>Adobe RGB (1998)</XMP-photoshop:ICCProfileName>
+ <XMP-photoshop:Country>Sverige</XMP-photoshop:Country>
+ <XMP-photoshop:City>Göteborg</XMP-photoshop:City>
+ <XMP-xmpMM:DocumentID>adobe:docid:photoshop:bc967d70-4cdb-514a-a644-91da00725d77</XMP-xmpMM:DocumentID>
+ <XMP-xmpMM:OriginalDocumentID>9EE1981368884D513AAF833B6DFCAE6D</XMP-xmpMM:OriginalDocumentID>
+ <XMP-xmpMM:InstanceID>xmp.iid:4b2793a2-bb97-4699-b7b6-e2664be998f6</XMP-xmpMM:InstanceID>
+ <XMP-xmpMM:HistoryAction>
+  <rdf:Bag>
+   <rdf:li>saved</rdf:li>
+   <rdf:li>derived</rdf:li>
+   <rdf:li>saved</rdf:li>
+   <rdf:li>saved</rdf:li>
+  </rdf:Bag>
+ </XMP-xmpMM:HistoryAction>
+ <XMP-xmpMM:HistoryInstanceID>
+  <rdf:Bag>
+   <rdf:li>xmp.iid:4a27b24f-ae97-4384-b51d-74dbadf82c1d</rdf:li>
+   <rdf:li>xmp.iid:d15922be-ede0-494b-b25a-3bc413ac7d77</rdf:li>
+   <rdf:li>xmp.iid:4b2793a2-bb97-4699-b7b6-e2664be998f6</rdf:li>
+  </rdf:Bag>
+ </XMP-xmpMM:HistoryInstanceID>
+ <XMP-xmpMM:HistoryWhen>
+  <rdf:Bag>
+   <rdf:li>2025:04:14 14:04:50+02:00</rdf:li>
+   <rdf:li>2025:04:22 12:31:25+02:00</rdf:li>
+   <rdf:li>2025:05:02 13:12:27+02:00</rdf:li>
+  </rdf:Bag>
+ </XMP-xmpMM:HistoryWhen>
+ <XMP-xmpMM:HistorySoftwareAgent>
+  <rdf:Bag>
+   <rdf:li>Adobe Photoshop Camera Raw 16.5 (Macintosh)</rdf:li>
+   <rdf:li>Adobe Photoshop Camera Raw 16.5 (Macintosh)</rdf:li>
+   <rdf:li>Adobe Photoshop 25.12 (Macintosh)</rdf:li>
+  </rdf:Bag>
+ </XMP-xmpMM:HistorySoftwareAgent>
+ <XMP-xmpMM:HistoryChanged>
+  <rdf:Bag>
+   <rdf:li>/metadata</rdf:li>
+   <rdf:li>/</rdf:li>
+   <rdf:li>/</rdf:li>
+  </rdf:Bag>
+ </XMP-xmpMM:HistoryChanged>
+ <XMP-xmpMM:HistoryParameters>converted from image/x-canon-cr2 to image/tiff</XMP-xmpMM:HistoryParameters>
+ <XMP-xmpMM:DerivedFromInstanceID>xmp.iid:4a27b24f-ae97-4384-b51d-74dbadf82c1d</XMP-xmpMM:DerivedFromInstanceID>
+ <XMP-xmpMM:DerivedFromDocumentID>9EE1981368884D513AAF833B6DFCAE6D</XMP-xmpMM:DerivedFromDocumentID>
+ <XMP-xmpMM:DerivedFromOriginalDocumentID>9EE1981368884D513AAF833B6DFCAE6D</XMP-xmpMM:DerivedFromOriginalDocumentID>
+ <XMP-dc:Format>image/tiff</XMP-dc:Format>
+ <XMP-dc:Title>stugan_album_uppslag3</XMP-dc:Title>
+ <XMP-dc:Description>Album från Sjuksköterskors insamling för sommarstuga, 1931-1933.  Från Medicinhistoriska museet i Göteborg, Sverige. Album donerat år 1998 av Gertrud Andersson.  </XMP-dc:Description>
+ <XMP-dc:Subject>
+  <rdf:Bag>
+   <rdf:li>history of medicine</rdf:li>
+   <rdf:li>nurses</rdf:li>
+   <rdf:li>nurses´residences</rdf:li>
+   <rdf:li>photograph albums</rdf:li>
+  </rdf:Bag>
+ </XMP-dc:Subject>
+ <XMP-dc:Creator>Unknown</XMP-dc:Creator>
+ <XMP-crs:Version>16.5</XMP-crs:Version>
+ <XMP-crs:ProcessVersion>15.4</XMP-crs:ProcessVersion>
+ <XMP-crs:WhiteBalance>Custom</XMP-crs:WhiteBalance>
+ <XMP-crs:ColorTemperature>6600</XMP-crs:ColorTemperature>
+ <XMP-crs:Tint>-5</XMP-crs:Tint>
+ <XMP-crs:Exposure2012>+0.45</XMP-crs:Exposure2012>
+ <XMP-crs:Contrast2012>+3</XMP-crs:Contrast2012>
+ <XMP-crs:Highlights2012>0</XMP-crs:Highlights2012>
+ <XMP-crs:Shadows2012>0</XMP-crs:Shadows2012>
+ <XMP-crs:Whites2012>0</XMP-crs:Whites2012>
+ <XMP-crs:Blacks2012>0</XMP-crs:Blacks2012>
+ <XMP-crs:Texture>+5</XMP-crs:Texture>
+ <XMP-crs:Clarity2012>+4</XMP-crs:Clarity2012>
+ <XMP-crs:Dehaze>0</XMP-crs:Dehaze>
+ <XMP-crs:Vibrance>0</XMP-crs:Vibrance>
+ <XMP-crs:Saturation>-4</XMP-crs:Saturation>
+ <XMP-crs:ParametricShadows>0</XMP-crs:ParametricShadows>
+ <XMP-crs:ParametricDarks>0</XMP-crs:ParametricDarks>
+ <XMP-crs:ParametricLights>0</XMP-crs:ParametricLights>
+ <XMP-crs:ParametricHighlights>0</XMP-crs:ParametricHighlights>
+ <XMP-crs:ParametricShadowSplit>25</XMP-crs:ParametricShadowSplit>
+ <XMP-crs:ParametricMidtoneSplit>50</XMP-crs:ParametricMidtoneSplit>
+ <XMP-crs:ParametricHighlightSplit>75</XMP-crs:ParametricHighlightSplit>
+ <XMP-crs:Sharpness>40</XMP-crs:Sharpness>
+ <XMP-crs:SharpenRadius>+1.0</XMP-crs:SharpenRadius>
+ <XMP-crs:SharpenDetail>25</XMP-crs:SharpenDetail>
+ <XMP-crs:SharpenEdgeMasking>0</XMP-crs:SharpenEdgeMasking>
+ <XMP-crs:LuminanceSmoothing>0</XMP-crs:LuminanceSmoothing>
+ <XMP-crs:ColorNoiseReduction>25</XMP-crs:ColorNoiseReduction>
+ <XMP-crs:ColorNoiseReductionDetail>50</XMP-crs:ColorNoiseReductionDetail>
+ <XMP-crs:ColorNoiseReductionSmoothness>50</XMP-crs:ColorNoiseReductionSmoothness>
+ <XMP-crs:HueAdjustmentRed>0</XMP-crs:HueAdjustmentRed>
+ <XMP-crs:HueAdjustmentOrange>0</XMP-crs:HueAdjustmentOrange>
+ <XMP-crs:HueAdjustmentYellow>0</XMP-crs:HueAdjustmentYellow>
+ <XMP-crs:HueAdjustmentGreen>0</XMP-crs:HueAdjustmentGreen>
+ <XMP-crs:HueAdjustmentAqua>0</XMP-crs:HueAdjustmentAqua>
+ <XMP-crs:HueAdjustmentBlue>0</XMP-crs:HueAdjustmentBlue>
+ <XMP-crs:HueAdjustmentPurple>0</XMP-crs:HueAdjustmentPurple>
+ <XMP-crs:HueAdjustmentMagenta>0</XMP-crs:HueAdjustmentMagenta>
+ <XMP-crs:SaturationAdjustmentRed>0</XMP-crs:SaturationAdjustmentRed>
+ <XMP-crs:SaturationAdjustmentOrange>0</XMP-crs:SaturationAdjustmentOrange>
+ <XMP-crs:SaturationAdjustmentYellow>0</XMP-crs:SaturationAdjustmentYellow>
+ <XMP-crs:SaturationAdjustmentGreen>0</XMP-crs:SaturationAdjustmentGreen>
+ <XMP-crs:SaturationAdjustmentAqua>0</XMP-crs:SaturationAdjustmentAqua>
+ <XMP-crs:SaturationAdjustmentBlue>0</XMP-crs:SaturationAdjustmentBlue>
+ <XMP-crs:SaturationAdjustmentPurple>0</XMP-crs:SaturationAdjustmentPurple>
+ <XMP-crs:SaturationAdjustmentMagenta>0</XMP-crs:SaturationAdjustmentMagenta>
+ <XMP-crs:LuminanceAdjustmentRed>0</XMP-crs:LuminanceAdjustmentRed>
+ <XMP-crs:LuminanceAdjustmentOrange>0</XMP-crs:LuminanceAdjustmentOrange>
+ <XMP-crs:LuminanceAdjustmentYellow>0</XMP-crs:LuminanceAdjustmentYellow>
+ <XMP-crs:LuminanceAdjustmentGreen>0</XMP-crs:LuminanceAdjustmentGreen>
+ <XMP-crs:LuminanceAdjustmentAqua>0</XMP-crs:LuminanceAdjustmentAqua>
+ <XMP-crs:LuminanceAdjustmentBlue>0</XMP-crs:LuminanceAdjustmentBlue>
+ <XMP-crs:LuminanceAdjustmentPurple>0</XMP-crs:LuminanceAdjustmentPurple>
+ <XMP-crs:LuminanceAdjustmentMagenta>0</XMP-crs:LuminanceAdjustmentMagenta>
+ <XMP-crs:SplitToningShadowHue>0</XMP-crs:SplitToningShadowHue>
+ <XMP-crs:SplitToningShadowSaturation>0</XMP-crs:SplitToningShadowSaturation>
+ <XMP-crs:SplitToningHighlightHue>0</XMP-crs:SplitToningHighlightHue>
+ <XMP-crs:SplitToningHighlightSaturation>0</XMP-crs:SplitToningHighlightSaturation>
+ <XMP-crs:SplitToningBalance>0</XMP-crs:SplitToningBalance>
+ <XMP-crs:ColorGradeMidtoneHue>0</XMP-crs:ColorGradeMidtoneHue>
+ <XMP-crs:ColorGradeMidtoneSat>0</XMP-crs:ColorGradeMidtoneSat>
+ <XMP-crs:ColorGradeShadowLum>0</XMP-crs:ColorGradeShadowLum>
+ <XMP-crs:ColorGradeMidtoneLum>0</XMP-crs:ColorGradeMidtoneLum>
+ <XMP-crs:ColorGradeHighlightLum>0</XMP-crs:ColorGradeHighlightLum>
+ <XMP-crs:ColorGradeBlending>50</XMP-crs:ColorGradeBlending>
+ <XMP-crs:ColorGradeGlobalHue>0</XMP-crs:ColorGradeGlobalHue>
+ <XMP-crs:ColorGradeGlobalSat>0</XMP-crs:ColorGradeGlobalSat>
+ <XMP-crs:ColorGradeGlobalLum>0</XMP-crs:ColorGradeGlobalLum>
+ <XMP-crs:AutoLateralCA>0</XMP-crs:AutoLateralCA>
+ <XMP-crs:LensProfileEnable>0</XMP-crs:LensProfileEnable>
+ <XMP-crs:LensManualDistortionAmount>0</XMP-crs:LensManualDistortionAmount>
+ <XMP-crs:VignetteAmount>0</XMP-crs:VignetteAmount>
+ <XMP-crs:DefringePurpleAmount>0</XMP-crs:DefringePurpleAmount>
+ <XMP-crs:DefringePurpleHueLo>30</XMP-crs:DefringePurpleHueLo>
+ <XMP-crs:DefringePurpleHueHi>70</XMP-crs:DefringePurpleHueHi>
+ <XMP-crs:DefringeGreenAmount>0</XMP-crs:DefringeGreenAmount>
+ <XMP-crs:DefringeGreenHueLo>40</XMP-crs:DefringeGreenHueLo>
+ <XMP-crs:DefringeGreenHueHi>60</XMP-crs:DefringeGreenHueHi>
+ <XMP-crs:PerspectiveUpright>Off</XMP-crs:PerspectiveUpright>
+ <XMP-crs:PerspectiveVertical>0</XMP-crs:PerspectiveVertical>
+ <XMP-crs:PerspectiveHorizontal>0</XMP-crs:PerspectiveHorizontal>
+ <XMP-crs:PerspectiveRotate>0.0</XMP-crs:PerspectiveRotate>
+ <XMP-crs:PerspectiveAspect>0</XMP-crs:PerspectiveAspect>
+ <XMP-crs:PerspectiveScale>100</XMP-crs:PerspectiveScale>
+ <XMP-crs:PerspectiveX>0.00</XMP-crs:PerspectiveX>
+ <XMP-crs:PerspectiveY>0.00</XMP-crs:PerspectiveY>
+ <XMP-crs:GrainAmount>0</XMP-crs:GrainAmount>
+ <XMP-crs:PostCropVignetteAmount>0</XMP-crs:PostCropVignetteAmount>
+ <XMP-crs:ShadowTint>0</XMP-crs:ShadowTint>
+ <XMP-crs:RedHue>0</XMP-crs:RedHue>
+ <XMP-crs:RedSaturation>0</XMP-crs:RedSaturation>
+ <XMP-crs:GreenHue>0</XMP-crs:GreenHue>
+ <XMP-crs:GreenSaturation>0</XMP-crs:GreenSaturation>
+ <XMP-crs:BlueHue>0</XMP-crs:BlueHue>
+ <XMP-crs:BlueSaturation>0</XMP-crs:BlueSaturation>
+ <XMP-crs:HDREditMode>0</XMP-crs:HDREditMode>
+ <XMP-crs:OverrideLookVignette>False</XMP-crs:OverrideLookVignette>
+ <XMP-crs:ToneCurveName2012>Linear</XMP-crs:ToneCurveName2012>
+ <XMP-crs:ToneCurvePV2012>
+  <rdf:Bag>
+   <rdf:li>0, 0</rdf:li>
+   <rdf:li>255, 255</rdf:li>
+  </rdf:Bag>
+ </XMP-crs:ToneCurvePV2012>
+ <XMP-crs:ToneCurvePV2012Red>
+  <rdf:Bag>
+   <rdf:li>0, 0</rdf:li>
+   <rdf:li>255, 255</rdf:li>
+  </rdf:Bag>
+ </XMP-crs:ToneCurvePV2012Red>
+ <XMP-crs:ToneCurvePV2012Green>
+  <rdf:Bag>
+   <rdf:li>0, 0</rdf:li>
+   <rdf:li>255, 255</rdf:li>
+  </rdf:Bag>
+ </XMP-crs:ToneCurvePV2012Green>
+ <XMP-crs:ToneCurvePV2012Blue>
+  <rdf:Bag>
+   <rdf:li>0, 0</rdf:li>
+   <rdf:li>255, 255</rdf:li>
+  </rdf:Bag>
+ </XMP-crs:ToneCurvePV2012Blue>
+ <XMP-crs:PointColors>-1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000</XMP-crs:PointColors>
+ <XMP-crs:CameraProfile>Adobe Standard</XMP-crs:CameraProfile>
+ <XMP-crs:CameraProfileDigest>87FB0EDC503E332309FB5DE5C5C65125</XMP-crs:CameraProfileDigest>
+ <XMP-crs:LookName>Adobe Color</XMP-crs:LookName>
+ <XMP-crs:LookAmount>1</XMP-crs:LookAmount>
+ <XMP-crs:LookGroup>Profiles</XMP-crs:LookGroup>
+ <XMP-crs:LookUUID>B952C231111CD8E0ECCF14B86BAA7077</XMP-crs:LookUUID>
+ <XMP-crs:LookSupportsAmount>false</XMP-crs:LookSupportsAmount>
+ <XMP-crs:LookSupportsMonochrome>false</XMP-crs:LookSupportsMonochrome>
+ <XMP-crs:LookSupportsOutputReferred>false</XMP-crs:LookSupportsOutputReferred>
+ <XMP-crs:LookCopyright>© 2018 Adobe Systems, Inc.</XMP-crs:LookCopyright>
+ <XMP-crs:LookParametersVersion>16.5</XMP-crs:LookParametersVersion>
+ <XMP-crs:LookParametersProcessVersion>15.4</XMP-crs:LookParametersProcessVersion>
+ <XMP-crs:LookParametersConvertToGrayscale>False</XMP-crs:LookParametersConvertToGrayscale>
+ <XMP-crs:LookParametersToneCurvePV2012>
+  <rdf:Bag>
+   <rdf:li>0, 0</rdf:li>
+   <rdf:li>22, 16</rdf:li>
+   <rdf:li>40, 35</rdf:li>
+   <rdf:li>127, 127</rdf:li>
+   <rdf:li>224, 230</rdf:li>
+   <rdf:li>240, 246</rdf:li>
+   <rdf:li>255, 255</rdf:li>
+  </rdf:Bag>
+ </XMP-crs:LookParametersToneCurvePV2012>
+ <XMP-crs:LookParametersToneCurvePV2012Red>
+  <rdf:Bag>
+   <rdf:li>0, 0</rdf:li>
+   <rdf:li>255, 255</rdf:li>
+  </rdf:Bag>
+ </XMP-crs:LookParametersToneCurvePV2012Red>
+ <XMP-crs:LookParametersToneCurvePV2012Green>
+  <rdf:Bag>
+   <rdf:li>0, 0</rdf:li>
+   <rdf:li>255, 255</rdf:li>
+  </rdf:Bag>
+ </XMP-crs:LookParametersToneCurvePV2012Green>
+ <XMP-crs:LookParametersToneCurvePV2012Blue>
+  <rdf:Bag>
+   <rdf:li>0, 0</rdf:li>
+   <rdf:li>255, 255</rdf:li>
+  </rdf:Bag>
+ </XMP-crs:LookParametersToneCurvePV2012Blue>
+ <XMP-crs:LookParametersCameraProfile>Adobe Standard</XMP-crs:LookParametersCameraProfile>
+ <XMP-crs:LookParametersLookTable>E1095149FDB39D7A057BAB208837E2E1</XMP-crs:LookParametersLookTable>
+ <XMP-crs:HasSettings>True</XMP-crs:HasSettings>
+ <XMP-crs:HasCrop>False</XMP-crs:HasCrop>
+ <XMP-crs:AlreadyApplied>True</XMP-crs:AlreadyApplied>
+ <XMP-xmpRights:Marked>False</XMP-xmpRights:Marked>
+ <XMP-tiff:ImageWidth>5421</XMP-tiff:ImageWidth>
+ <XMP-tiff:ImageHeight>2283</XMP-tiff:ImageHeight>
+ <XMP-tiff:BitsPerSample>
+  <rdf:Bag>
+   <rdf:li>16</rdf:li>
+   <rdf:li>16</rdf:li>
+   <rdf:li>16</rdf:li>
+  </rdf:Bag>
+ </XMP-tiff:BitsPerSample>
+ <XMP-tiff:Compression>Uncompressed</XMP-tiff:Compression>
+ <XMP-tiff:PhotometricInterpretation>RGB</XMP-tiff:PhotometricInterpretation>
+ <XMP-tiff:Orientation>Horizontal (normal)</XMP-tiff:Orientation>
+ <XMP-tiff:SamplesPerPixel>3</XMP-tiff:SamplesPerPixel>
+ <XMP-tiff:PlanarConfiguration>Chunky</XMP-tiff:PlanarConfiguration>
+ <XMP-tiff:XResolution>300</XMP-tiff:XResolution>
+ <XMP-tiff:YResolution>300</XMP-tiff:YResolution>
+ <XMP-tiff:ResolutionUnit>inches</XMP-tiff:ResolutionUnit>
+ <XMP-tiff:Make>Canon</XMP-tiff:Make>
+ <XMP-tiff:Model>Canon EOS 5D Mark III</XMP-tiff:Model>
+ <XMP-exif:ExifVersion>0230</XMP-exif:ExifVersion>
+ <XMP-exif:ColorSpace>Uncalibrated</XMP-exif:ColorSpace>
+ <XMP-exif:ExifImageWidth>5421</XMP-exif:ExifImageWidth>
+ <XMP-exif:ExifImageHeight>2283</XMP-exif:ExifImageHeight>
+ <XMP-exif:DateTimeOriginal>2025:03:21 12:18:39</XMP-exif:DateTimeOriginal>
+ <XMP-exif:ExposureTime>1/160</XMP-exif:ExposureTime>
+ <XMP-exif:FNumber>3.2</XMP-exif:FNumber>
+ <XMP-exif:ExposureProgram>Manual</XMP-exif:ExposureProgram>
+ <XMP-exif:ISO>800</XMP-exif:ISO>
+ <XMP-exif:ShutterSpeedValue>1/160</XMP-exif:ShutterSpeedValue>
+ <XMP-exif:ApertureValue>3.2</XMP-exif:ApertureValue>
+ <XMP-exif:ExposureCompensation>0</XMP-exif:ExposureCompensation>
+ <XMP-exif:MaxApertureValue>1.4</XMP-exif:MaxApertureValue>
+ <XMP-exif:MeteringMode>Center-weighted average</XMP-exif:MeteringMode>
+ <XMP-exif:FlashFired>False</XMP-exif:FlashFired>
+ <XMP-exif:FlashReturn>No return detection</XMP-exif:FlashReturn>
+ <XMP-exif:FlashMode>Off</XMP-exif:FlashMode>
+ <XMP-exif:FlashFunction>False</XMP-exif:FlashFunction>
+ <XMP-exif:FlashRedEyeMode>False</XMP-exif:FlashRedEyeMode>
+ <XMP-exif:FocalLength>50.0 mm</XMP-exif:FocalLength>
+ <XMP-exif:FocalPlaneXResolution>1600</XMP-exif:FocalPlaneXResolution>
+ <XMP-exif:FocalPlaneYResolution>1600</XMP-exif:FocalPlaneYResolution>
+ <XMP-exif:FocalPlaneResolutionUnit>cm</XMP-exif:FocalPlaneResolutionUnit>
+ <XMP-exif:CustomRendered>Normal</XMP-exif:CustomRendered>
+ <XMP-exif:ExposureMode>Manual</XMP-exif:ExposureMode>
+ <XMP-exif:WhiteBalance>Auto</XMP-exif:WhiteBalance>
+ <XMP-exif:SceneCaptureType>Standard</XMP-exif:SceneCaptureType>
+ <XMP-exif:SubSecTime>92</XMP-exif:SubSecTime>
+ <XMP-exif:SubSecTimeOriginal>92</XMP-exif:SubSecTimeOriginal>
+ <XMP-exif:SubSecTimeDigitized>92</XMP-exif:SubSecTimeDigitized>
+ <XMP-exif:SerialNumber>033023000916</XMP-exif:SerialNumber>
+ <XMP-exif:LensInfo>50</XMP-exif:LensInfo>
+ <XMP-exif:Lens>50mm F1.4 DG HSM | Art 014</XMP-exif:Lens>
+ <XMP-exif:LensSerialNumber>0000000000</XMP-exif:LensSerialNumber>
+ <XMP-exif:SensitivityType>2</XMP-exif:SensitivityType>
+ <XMP-exif:RecommendedExposureIndex>800</XMP-exif:RecommendedExposureIndex>
+ <IPTC:CodedCharacterSet>UTF8</IPTC:CodedCharacterSet>
+ <IPTC:ApplicationRecordVersion>0</IPTC:ApplicationRecordVersion>
+ <IPTC:Caption-Abstract>Album från Sjuksköterskors insamling för sommarstuga, 1931-1933.  Från Medicinhistoriska museet i Göteborg, Sverige. Album donerat år 1998 av Gertrud Andersson.  </IPTC:Caption-Abstract>
+ <IPTC:By-line>Unknown</IPTC:By-line>
+ <IPTC:ObjectName>stugan_album_uppslag3</IPTC:ObjectName>
+ <IPTC:DateCreated>2025:03:21</IPTC:DateCreated>
+ <IPTC:TimeCreated>12:18:39</IPTC:TimeCreated>
+ <IPTC:City>Göteborg</IPTC:City>
+ <IPTC:Country-PrimaryLocationName>Sverige</IPTC:Country-PrimaryLocationName>
+ <IPTC:Keywords>
+  <rdf:Bag>
+   <rdf:li>history of medicine</rdf:li>
+   <rdf:li>nurses</rdf:li>
+   <rdf:li>nurses´residences</rdf:li>
+   <rdf:li>photograph albums</rdf:li>
+  </rdf:Bag>
+ </IPTC:Keywords>
+ <Photoshop:IPTCDigest>7b75f73a65611d219e03a71477c6c571</Photoshop:IPTCDigest>
+ <Photoshop:XResolution>300</Photoshop:XResolution>
+ <Photoshop:DisplayedUnitsX>inches</Photoshop:DisplayedUnitsX>
+ <Photoshop:YResolution>300</Photoshop:YResolution>
+ <Photoshop:DisplayedUnitsY>inches</Photoshop:DisplayedUnitsY>
+ <Photoshop:PrintStyle>Centered</Photoshop:PrintStyle>
+ <Photoshop:PrintPosition>0 0</Photoshop:PrintPosition>
+ <Photoshop:PrintScale>1</Photoshop:PrintScale>
+ <Photoshop:GlobalAngle>30</Photoshop:GlobalAngle>
+ <Photoshop:GlobalAltitude>30</Photoshop:GlobalAltitude>
+ <Photoshop:CopyrightFlag>False</Photoshop:CopyrightFlag>
+ <Photoshop:URL_List>
+  <rdf:Bag>
+  </rdf:Bag>
+ </Photoshop:URL_List>
+ <Photoshop:SlicesGroupName>3</Photoshop:SlicesGroupName>
+ <Photoshop:NumSlices>1</Photoshop:NumSlices>
+ <Photoshop:PixelAspectRatio>1</Photoshop:PixelAspectRatio>
+ <Photoshop:PhotoshopThumbnail>(Binary data 3541 bytes, use -b option to extract)</Photoshop:PhotoshopThumbnail>
+ <Photoshop:HasRealMergedData>Yes</Photoshop:HasRealMergedData>
+ <Photoshop:WriterName>Adobe Photoshop</Photoshop:WriterName>
+ <Photoshop:ReaderName>Adobe Photoshop 2024</Photoshop:ReaderName>
+ <ExifIFD:ExposureTime>1/160</ExifIFD:ExposureTime>
+ <ExifIFD:FNumber>3.2</ExifIFD:FNumber>
+ <ExifIFD:ExposureProgram>Manual</ExifIFD:ExposureProgram>
+ <ExifIFD:ISO>800</ExifIFD:ISO>
+ <ExifIFD:SensitivityType>Recommended Exposure Index</ExifIFD:SensitivityType>
+ <ExifIFD:RecommendedExposureIndex>800</ExifIFD:RecommendedExposureIndex>
+ <ExifIFD:ExifVersion>0230</ExifIFD:ExifVersion>
+ <ExifIFD:DateTimeOriginal>2025:03:21 12:18:39</ExifIFD:DateTimeOriginal>
+ <ExifIFD:CreateDate>2025:03:21 12:18:39</ExifIFD:CreateDate>
+ <ExifIFD:ShutterSpeedValue>1/160</ExifIFD:ShutterSpeedValue>
+ <ExifIFD:ApertureValue>3.2</ExifIFD:ApertureValue>
+ <ExifIFD:ExposureCompensation>0</ExifIFD:ExposureCompensation>
+ <ExifIFD:MaxApertureValue>1.4</ExifIFD:MaxApertureValue>
+ <ExifIFD:MeteringMode>Center-weighted average</ExifIFD:MeteringMode>
+ <ExifIFD:Flash>Off, Did not fire</ExifIFD:Flash>
+ <ExifIFD:FocalLength>50.0 mm</ExifIFD:FocalLength>
+ <ExifIFD:SubSecTime>92</ExifIFD:SubSecTime>
+ <ExifIFD:SubSecTimeOriginal>92</ExifIFD:SubSecTimeOriginal>
+ <ExifIFD:SubSecTimeDigitized>92</ExifIFD:SubSecTimeDigitized>
+ <ExifIFD:ColorSpace>Uncalibrated</ExifIFD:ColorSpace>
+ <ExifIFD:ExifImageWidth>5421</ExifIFD:ExifImageWidth>
+ <ExifIFD:ExifImageHeight>2283</ExifIFD:ExifImageHeight>
+ <ExifIFD:FocalPlaneXResolution>1600</ExifIFD:FocalPlaneXResolution>
+ <ExifIFD:FocalPlaneYResolution>1600</ExifIFD:FocalPlaneYResolution>
+ <ExifIFD:FocalPlaneResolutionUnit>cm</ExifIFD:FocalPlaneResolutionUnit>
+ <ExifIFD:CustomRendered>Normal</ExifIFD:CustomRendered>
+ <ExifIFD:ExposureMode>Manual</ExifIFD:ExposureMode>
+ <ExifIFD:WhiteBalance>Auto</ExifIFD:WhiteBalance>
+ <ExifIFD:SceneCaptureType>Standard</ExifIFD:SceneCaptureType>
+ <ExifIFD:SerialNumber>033023000916</ExifIFD:SerialNumber>
+ <ExifIFD:LensInfo>50mm f/?</ExifIFD:LensInfo>
+ <ExifIFD:LensModel>50mm F1.4 DG HSM | Art 014</ExifIFD:LensModel>
+ <ExifIFD:LensSerialNumber>0000000000</ExifIFD:LensSerialNumber>
+ <ICC-header:ProfileCMMType>Adobe Systems Inc.</ICC-header:ProfileCMMType>
+ <ICC-header:ProfileVersion>2.1.0</ICC-header:ProfileVersion>
+ <ICC-header:ProfileClass>Display Device Profile</ICC-header:ProfileClass>
+ <ICC-header:ColorSpaceData>RGB </ICC-header:ColorSpaceData>
+ <ICC-header:ProfileConnectionSpace>XYZ </ICC-header:ProfileConnectionSpace>
+ <ICC-header:ProfileDateTime>1999:06:03 00:00:00</ICC-header:ProfileDateTime>
+ <ICC-header:ProfileFileSignature>acsp</ICC-header:ProfileFileSignature>
+ <ICC-header:PrimaryPlatform>Apple Computer Inc.</ICC-header:PrimaryPlatform>
+ <ICC-header:CMMFlags>Not Embedded, Independent</ICC-header:CMMFlags>
+ <ICC-header:DeviceManufacturer>none</ICC-header:DeviceManufacturer>
+ <ICC-header:DeviceModel></ICC-header:DeviceModel>
+ <ICC-header:DeviceAttributes>Reflective, Glossy, Positive, Color</ICC-header:DeviceAttributes>
+ <ICC-header:RenderingIntent>Media-Relative Colorimetric</ICC-header:RenderingIntent>
+ <ICC-header:ConnectionSpaceIlluminant>0.9642 1 0.82491</ICC-header:ConnectionSpaceIlluminant>
+ <ICC-header:ProfileCreator>Adobe Systems Inc.</ICC-header:ProfileCreator>
+ <ICC-header:ProfileID>0</ICC-header:ProfileID>
+ <ICC_Profile:ProfileCopyright>Copyright 1999 Adobe Systems Incorporated</ICC_Profile:ProfileCopyright>
+ <ICC_Profile:ProfileDescription>Adobe RGB (1998)</ICC_Profile:ProfileDescription>
+ <ICC_Profile:MediaWhitePoint>0.95045 1 1.08905</ICC_Profile:MediaWhitePoint>
+ <ICC_Profile:MediaBlackPoint>0 0 0</ICC_Profile:MediaBlackPoint>
+ <ICC_Profile:RedTRC>(Binary data 14 bytes, use -b option to extract)</ICC_Profile:RedTRC>
+ <ICC_Profile:GreenTRC>(Binary data 14 bytes, use -b option to extract)</ICC_Profile:GreenTRC>
+ <ICC_Profile:BlueTRC>(Binary data 14 bytes, use -b option to extract)</ICC_Profile:BlueTRC>
+ <ICC_Profile:RedMatrixColumn>0.60974 0.31111 0.01947</ICC_Profile:RedMatrixColumn>
+ <ICC_Profile:GreenMatrixColumn>0.20528 0.62567 0.06087</ICC_Profile:GreenMatrixColumn>
+ <ICC_Profile:BlueMatrixColumn>0.14919 0.06322 0.74457</ICC_Profile:BlueMatrixColumn>
+ <Composite:Aperture>3.2</Composite:Aperture>
+ <Composite:ImageSize>5421x2283</Composite:ImageSize>
+ <Composite:Megapixels>12.4</Composite:Megapixels>
+ <Composite:ShutterSpeed>1/160</Composite:ShutterSpeed>
+ <Composite:SubSecCreateDate>2025:03:21 12:18:39.92</Composite:SubSecCreateDate>
+ <Composite:SubSecDateTimeOriginal>2025:03:21 12:18:39.92</Composite:SubSecDateTimeOriginal>
+ <Composite:SubSecModifyDate>2025:05:02 13:12:27.92</Composite:SubSecModifyDate>
+ <Composite:DateTimeCreated>2025:03:21 12:18:39</Composite:DateTimeCreated>
+ <Composite:Flash>Off, Did not fire</Composite:Flash>
+ <Composite:FocalLength35efl>50.0 mm</Composite:FocalLength35efl>
+ <Composite:LightValue>7.7</Composite:LightValue>
+ <Composite:LensID>Sigma 50mm f/1.4 DG HSM | A</Composite:LensID>
+</rdf:Description>
+</rdf:RDF>
+
+            </xenoData>
         </teiHeader>
 
         <facsimile>
@@ -523,6 +2007,488 @@
                     <p></p>
                 </sourceDesc>
             </fileDesc>
+            <xenoData>
+            <rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+
+<rdf:Description rdf:about='/Users/annahyll/Documents/GitHub/Digitaliseringsprojekt/Foton/Tiff/3_stugan_album_uppslag3.tif'
+  xmlns:et='http://ns.exiftool.org/1.0/' et:toolkit='Image::ExifTool 13.25'
+  xmlns:ExifTool='http://ns.exiftool.org/ExifTool/1.0/'
+  xmlns:System='http://ns.exiftool.org/File/System/1.0/'
+  xmlns:File='http://ns.exiftool.org/File/1.0/'
+  xmlns:IFD0='http://ns.exiftool.org/EXIF/IFD0/1.0/'
+  xmlns:XMP-x='http://ns.exiftool.org/XMP/XMP-x/1.0/'
+  xmlns:XMP-xmp='http://ns.exiftool.org/XMP/XMP-xmp/1.0/'
+  xmlns:XMP-aux='http://ns.exiftool.org/XMP/XMP-aux/1.0/'
+  xmlns:XMP-exifEX='http://ns.exiftool.org/XMP/XMP-exifEX/1.0/'
+  xmlns:XMP-photoshop='http://ns.exiftool.org/XMP/XMP-photoshop/1.0/'
+  xmlns:XMP-xmpMM='http://ns.exiftool.org/XMP/XMP-xmpMM/1.0/'
+  xmlns:XMP-dc='http://ns.exiftool.org/XMP/XMP-dc/1.0/'
+  xmlns:XMP-crs='http://ns.exiftool.org/XMP/XMP-crs/1.0/'
+  xmlns:XMP-xmpRights='http://ns.exiftool.org/XMP/XMP-xmpRights/1.0/'
+  xmlns:XMP-tiff='http://ns.exiftool.org/XMP/XMP-tiff/1.0/'
+  xmlns:XMP-exif='http://ns.exiftool.org/XMP/XMP-exif/1.0/'
+  xmlns:IPTC='http://ns.exiftool.org/IPTC/IPTC/1.0/'
+  xmlns:Photoshop='http://ns.exiftool.org/Photoshop/Photoshop/1.0/'
+  xmlns:ExifIFD='http://ns.exiftool.org/EXIF/ExifIFD/1.0/'
+  xmlns:ICC-header='http://ns.exiftool.org/ICC_Profile/ICC-header/1.0/'
+  xmlns:ICC_Profile='http://ns.exiftool.org/ICC_Profile/ICC_Profile/1.0/'
+  xmlns:Composite='http://ns.exiftool.org/Composite/1.0/'>
+ <ExifTool:ExifToolVersion>13.25</ExifTool:ExifToolVersion>
+ <System:FileName>3_stugan_album_uppslag3.tif</System:FileName>
+ <System:Directory>/Users/annahyll/Documents/GitHub/Digitaliseringsprojekt/Foton/Tiff</System:Directory>
+ <System:FileSize>74 MB</System:FileSize>
+ <System:FileModifyDate>2025:05:11 14:06:27+02:00</System:FileModifyDate>
+ <System:FileAccessDate>2025:05:14 13:42:30+02:00</System:FileAccessDate>
+ <System:FileInodeChangeDate>2025:05:11 14:06:38+02:00</System:FileInodeChangeDate>
+ <System:FilePermissions>-rw-r--r--</System:FilePermissions>
+ <File:FileType>TIFF</File:FileType>
+ <File:FileTypeExtension>tif</File:FileTypeExtension>
+ <File:MIMEType>image/tiff</File:MIMEType>
+ <File:ExifByteOrder>Big-endian (Motorola, MM)</File:ExifByteOrder>
+ <File:CurrentIPTCDigest>7b75f73a65611d219e03a71477c6c571</File:CurrentIPTCDigest>
+ <IFD0:SubfileType>Full-resolution image</IFD0:SubfileType>
+ <IFD0:ImageWidth>5421</IFD0:ImageWidth>
+ <IFD0:ImageHeight>2283</IFD0:ImageHeight>
+ <IFD0:BitsPerSample>16 16 16</IFD0:BitsPerSample>
+ <IFD0:Compression>Uncompressed</IFD0:Compression>
+ <IFD0:PhotometricInterpretation>RGB</IFD0:PhotometricInterpretation>
+ <IFD0:ImageDescription rdf:datatype='http://www.w3.org/2001/XMLSchema#base64Binary'>
+QWxidW0gZnKMbiBTanVrc2uadGVyc2tvcnMgaW5zYW1saW5nIGaaciBzb21t
+YXJzdHVnYSwgMTkzMS0xOTMzLiAgRnKMbiBNZWRpY2luaGlzdG9yaXNrYSBt
+dXNlZXQgaSBHmnRlYm9yZywgU3ZlcmlnZS4gQWxidW0gZG9uZXJhdCCMciAx
+OTk4IGF2IEdlcnRydWQgQW5kZXJzc29uLiAg
+</IFD0:ImageDescription>
+ <IFD0:Make>Canon</IFD0:Make>
+ <IFD0:Model>Canon EOS 5D Mark III</IFD0:Model>
+ <IFD0:StripOffsets>37762</IFD0:StripOffsets>
+ <IFD0:Orientation>Horizontal (normal)</IFD0:Orientation>
+ <IFD0:SamplesPerPixel>3</IFD0:SamplesPerPixel>
+ <IFD0:RowsPerStrip>2283</IFD0:RowsPerStrip>
+ <IFD0:StripByteCounts>74256858</IFD0:StripByteCounts>
+ <IFD0:XResolution>300</IFD0:XResolution>
+ <IFD0:YResolution>300</IFD0:YResolution>
+ <IFD0:PlanarConfiguration>Chunky</IFD0:PlanarConfiguration>
+ <IFD0:ResolutionUnit>inches</IFD0:ResolutionUnit>
+ <IFD0:Software>Adobe Photoshop 25.12 (Macintosh)</IFD0:Software>
+ <IFD0:ModifyDate>2025:05:02 13:12:27</IFD0:ModifyDate>
+ <IFD0:Artist>Unknown</IFD0:Artist>
+ <XMP-x:XMPToolkit>Adobe XMP Core 9.1-c002 79.a6a63968a, 2024/03/06-11:52:05        </XMP-x:XMPToolkit>
+ <XMP-xmp:Rating>0</XMP-xmp:Rating>
+ <XMP-xmp:ModifyDate>2025:05:02 13:12:27+02:00</XMP-xmp:ModifyDate>
+ <XMP-xmp:CreateDate>2025:03:21 12:18:39</XMP-xmp:CreateDate>
+ <XMP-xmp:MetadataDate>2025:05:02 13:12:27+02:00</XMP-xmp:MetadataDate>
+ <XMP-xmp:CreatorTool>Adobe Photoshop 25.12 (Macintosh)</XMP-xmp:CreatorTool>
+ <XMP-aux:SerialNumber>033023000916</XMP-aux:SerialNumber>
+ <XMP-aux:LensInfo>50mm f/?</XMP-aux:LensInfo>
+ <XMP-aux:Lens>50mm F1.4 DG HSM | Art 014</XMP-aux:Lens>
+ <XMP-aux:LensID>368</XMP-aux:LensID>
+ <XMP-aux:LensSerialNumber>0000000000</XMP-aux:LensSerialNumber>
+ <XMP-aux:ImageNumber>0</XMP-aux:ImageNumber>
+ <XMP-aux:ApproximateFocusDistance>1</XMP-aux:ApproximateFocusDistance>
+ <XMP-aux:FlashCompensation>0</XMP-aux:FlashCompensation>
+ <XMP-aux:Firmware>1.3.5</XMP-aux:Firmware>
+ <XMP-exifEX:LensModel>50mm F1.4 DG HSM | Art 014</XMP-exifEX:LensModel>
+ <XMP-photoshop:DateCreated>2025:03:21 12:18:39.092</XMP-photoshop:DateCreated>
+ <XMP-photoshop:ColorMode>RGB</XMP-photoshop:ColorMode>
+ <XMP-photoshop:ICCProfileName>Adobe RGB (1998)</XMP-photoshop:ICCProfileName>
+ <XMP-photoshop:Country>Sverige</XMP-photoshop:Country>
+ <XMP-photoshop:City>Göteborg</XMP-photoshop:City>
+ <XMP-xmpMM:DocumentID>adobe:docid:photoshop:bc967d70-4cdb-514a-a644-91da00725d77</XMP-xmpMM:DocumentID>
+ <XMP-xmpMM:OriginalDocumentID>9EE1981368884D513AAF833B6DFCAE6D</XMP-xmpMM:OriginalDocumentID>
+ <XMP-xmpMM:InstanceID>xmp.iid:4b2793a2-bb97-4699-b7b6-e2664be998f6</XMP-xmpMM:InstanceID>
+ <XMP-xmpMM:HistoryAction>
+  <rdf:Bag>
+   <rdf:li>saved</rdf:li>
+   <rdf:li>derived</rdf:li>
+   <rdf:li>saved</rdf:li>
+   <rdf:li>saved</rdf:li>
+  </rdf:Bag>
+ </XMP-xmpMM:HistoryAction>
+ <XMP-xmpMM:HistoryInstanceID>
+  <rdf:Bag>
+   <rdf:li>xmp.iid:4a27b24f-ae97-4384-b51d-74dbadf82c1d</rdf:li>
+   <rdf:li>xmp.iid:d15922be-ede0-494b-b25a-3bc413ac7d77</rdf:li>
+   <rdf:li>xmp.iid:4b2793a2-bb97-4699-b7b6-e2664be998f6</rdf:li>
+  </rdf:Bag>
+ </XMP-xmpMM:HistoryInstanceID>
+ <XMP-xmpMM:HistoryWhen>
+  <rdf:Bag>
+   <rdf:li>2025:04:14 14:04:50+02:00</rdf:li>
+   <rdf:li>2025:04:22 12:31:25+02:00</rdf:li>
+   <rdf:li>2025:05:02 13:12:27+02:00</rdf:li>
+  </rdf:Bag>
+ </XMP-xmpMM:HistoryWhen>
+ <XMP-xmpMM:HistorySoftwareAgent>
+  <rdf:Bag>
+   <rdf:li>Adobe Photoshop Camera Raw 16.5 (Macintosh)</rdf:li>
+   <rdf:li>Adobe Photoshop Camera Raw 16.5 (Macintosh)</rdf:li>
+   <rdf:li>Adobe Photoshop 25.12 (Macintosh)</rdf:li>
+  </rdf:Bag>
+ </XMP-xmpMM:HistorySoftwareAgent>
+ <XMP-xmpMM:HistoryChanged>
+  <rdf:Bag>
+   <rdf:li>/metadata</rdf:li>
+   <rdf:li>/</rdf:li>
+   <rdf:li>/</rdf:li>
+  </rdf:Bag>
+ </XMP-xmpMM:HistoryChanged>
+ <XMP-xmpMM:HistoryParameters>converted from image/x-canon-cr2 to image/tiff</XMP-xmpMM:HistoryParameters>
+ <XMP-xmpMM:DerivedFromInstanceID>xmp.iid:4a27b24f-ae97-4384-b51d-74dbadf82c1d</XMP-xmpMM:DerivedFromInstanceID>
+ <XMP-xmpMM:DerivedFromDocumentID>9EE1981368884D513AAF833B6DFCAE6D</XMP-xmpMM:DerivedFromDocumentID>
+ <XMP-xmpMM:DerivedFromOriginalDocumentID>9EE1981368884D513AAF833B6DFCAE6D</XMP-xmpMM:DerivedFromOriginalDocumentID>
+ <XMP-dc:Format>image/tiff</XMP-dc:Format>
+ <XMP-dc:Title>stugan_album_uppslag3</XMP-dc:Title>
+ <XMP-dc:Description>Album från Sjuksköterskors insamling för sommarstuga, 1931-1933.  Från Medicinhistoriska museet i Göteborg, Sverige. Album donerat år 1998 av Gertrud Andersson.  </XMP-dc:Description>
+ <XMP-dc:Subject>
+  <rdf:Bag>
+   <rdf:li>history of medicine</rdf:li>
+   <rdf:li>nurses</rdf:li>
+   <rdf:li>nurses´residences</rdf:li>
+   <rdf:li>photograph albums</rdf:li>
+  </rdf:Bag>
+ </XMP-dc:Subject>
+ <XMP-dc:Creator>Unknown</XMP-dc:Creator>
+ <XMP-crs:Version>16.5</XMP-crs:Version>
+ <XMP-crs:ProcessVersion>15.4</XMP-crs:ProcessVersion>
+ <XMP-crs:WhiteBalance>Custom</XMP-crs:WhiteBalance>
+ <XMP-crs:ColorTemperature>6600</XMP-crs:ColorTemperature>
+ <XMP-crs:Tint>-5</XMP-crs:Tint>
+ <XMP-crs:Exposure2012>+0.45</XMP-crs:Exposure2012>
+ <XMP-crs:Contrast2012>+3</XMP-crs:Contrast2012>
+ <XMP-crs:Highlights2012>0</XMP-crs:Highlights2012>
+ <XMP-crs:Shadows2012>0</XMP-crs:Shadows2012>
+ <XMP-crs:Whites2012>0</XMP-crs:Whites2012>
+ <XMP-crs:Blacks2012>0</XMP-crs:Blacks2012>
+ <XMP-crs:Texture>+5</XMP-crs:Texture>
+ <XMP-crs:Clarity2012>+4</XMP-crs:Clarity2012>
+ <XMP-crs:Dehaze>0</XMP-crs:Dehaze>
+ <XMP-crs:Vibrance>0</XMP-crs:Vibrance>
+ <XMP-crs:Saturation>-4</XMP-crs:Saturation>
+ <XMP-crs:ParametricShadows>0</XMP-crs:ParametricShadows>
+ <XMP-crs:ParametricDarks>0</XMP-crs:ParametricDarks>
+ <XMP-crs:ParametricLights>0</XMP-crs:ParametricLights>
+ <XMP-crs:ParametricHighlights>0</XMP-crs:ParametricHighlights>
+ <XMP-crs:ParametricShadowSplit>25</XMP-crs:ParametricShadowSplit>
+ <XMP-crs:ParametricMidtoneSplit>50</XMP-crs:ParametricMidtoneSplit>
+ <XMP-crs:ParametricHighlightSplit>75</XMP-crs:ParametricHighlightSplit>
+ <XMP-crs:Sharpness>40</XMP-crs:Sharpness>
+ <XMP-crs:SharpenRadius>+1.0</XMP-crs:SharpenRadius>
+ <XMP-crs:SharpenDetail>25</XMP-crs:SharpenDetail>
+ <XMP-crs:SharpenEdgeMasking>0</XMP-crs:SharpenEdgeMasking>
+ <XMP-crs:LuminanceSmoothing>0</XMP-crs:LuminanceSmoothing>
+ <XMP-crs:ColorNoiseReduction>25</XMP-crs:ColorNoiseReduction>
+ <XMP-crs:ColorNoiseReductionDetail>50</XMP-crs:ColorNoiseReductionDetail>
+ <XMP-crs:ColorNoiseReductionSmoothness>50</XMP-crs:ColorNoiseReductionSmoothness>
+ <XMP-crs:HueAdjustmentRed>0</XMP-crs:HueAdjustmentRed>
+ <XMP-crs:HueAdjustmentOrange>0</XMP-crs:HueAdjustmentOrange>
+ <XMP-crs:HueAdjustmentYellow>0</XMP-crs:HueAdjustmentYellow>
+ <XMP-crs:HueAdjustmentGreen>0</XMP-crs:HueAdjustmentGreen>
+ <XMP-crs:HueAdjustmentAqua>0</XMP-crs:HueAdjustmentAqua>
+ <XMP-crs:HueAdjustmentBlue>0</XMP-crs:HueAdjustmentBlue>
+ <XMP-crs:HueAdjustmentPurple>0</XMP-crs:HueAdjustmentPurple>
+ <XMP-crs:HueAdjustmentMagenta>0</XMP-crs:HueAdjustmentMagenta>
+ <XMP-crs:SaturationAdjustmentRed>0</XMP-crs:SaturationAdjustmentRed>
+ <XMP-crs:SaturationAdjustmentOrange>0</XMP-crs:SaturationAdjustmentOrange>
+ <XMP-crs:SaturationAdjustmentYellow>0</XMP-crs:SaturationAdjustmentYellow>
+ <XMP-crs:SaturationAdjustmentGreen>0</XMP-crs:SaturationAdjustmentGreen>
+ <XMP-crs:SaturationAdjustmentAqua>0</XMP-crs:SaturationAdjustmentAqua>
+ <XMP-crs:SaturationAdjustmentBlue>0</XMP-crs:SaturationAdjustmentBlue>
+ <XMP-crs:SaturationAdjustmentPurple>0</XMP-crs:SaturationAdjustmentPurple>
+ <XMP-crs:SaturationAdjustmentMagenta>0</XMP-crs:SaturationAdjustmentMagenta>
+ <XMP-crs:LuminanceAdjustmentRed>0</XMP-crs:LuminanceAdjustmentRed>
+ <XMP-crs:LuminanceAdjustmentOrange>0</XMP-crs:LuminanceAdjustmentOrange>
+ <XMP-crs:LuminanceAdjustmentYellow>0</XMP-crs:LuminanceAdjustmentYellow>
+ <XMP-crs:LuminanceAdjustmentGreen>0</XMP-crs:LuminanceAdjustmentGreen>
+ <XMP-crs:LuminanceAdjustmentAqua>0</XMP-crs:LuminanceAdjustmentAqua>
+ <XMP-crs:LuminanceAdjustmentBlue>0</XMP-crs:LuminanceAdjustmentBlue>
+ <XMP-crs:LuminanceAdjustmentPurple>0</XMP-crs:LuminanceAdjustmentPurple>
+ <XMP-crs:LuminanceAdjustmentMagenta>0</XMP-crs:LuminanceAdjustmentMagenta>
+ <XMP-crs:SplitToningShadowHue>0</XMP-crs:SplitToningShadowHue>
+ <XMP-crs:SplitToningShadowSaturation>0</XMP-crs:SplitToningShadowSaturation>
+ <XMP-crs:SplitToningHighlightHue>0</XMP-crs:SplitToningHighlightHue>
+ <XMP-crs:SplitToningHighlightSaturation>0</XMP-crs:SplitToningHighlightSaturation>
+ <XMP-crs:SplitToningBalance>0</XMP-crs:SplitToningBalance>
+ <XMP-crs:ColorGradeMidtoneHue>0</XMP-crs:ColorGradeMidtoneHue>
+ <XMP-crs:ColorGradeMidtoneSat>0</XMP-crs:ColorGradeMidtoneSat>
+ <XMP-crs:ColorGradeShadowLum>0</XMP-crs:ColorGradeShadowLum>
+ <XMP-crs:ColorGradeMidtoneLum>0</XMP-crs:ColorGradeMidtoneLum>
+ <XMP-crs:ColorGradeHighlightLum>0</XMP-crs:ColorGradeHighlightLum>
+ <XMP-crs:ColorGradeBlending>50</XMP-crs:ColorGradeBlending>
+ <XMP-crs:ColorGradeGlobalHue>0</XMP-crs:ColorGradeGlobalHue>
+ <XMP-crs:ColorGradeGlobalSat>0</XMP-crs:ColorGradeGlobalSat>
+ <XMP-crs:ColorGradeGlobalLum>0</XMP-crs:ColorGradeGlobalLum>
+ <XMP-crs:AutoLateralCA>0</XMP-crs:AutoLateralCA>
+ <XMP-crs:LensProfileEnable>0</XMP-crs:LensProfileEnable>
+ <XMP-crs:LensManualDistortionAmount>0</XMP-crs:LensManualDistortionAmount>
+ <XMP-crs:VignetteAmount>0</XMP-crs:VignetteAmount>
+ <XMP-crs:DefringePurpleAmount>0</XMP-crs:DefringePurpleAmount>
+ <XMP-crs:DefringePurpleHueLo>30</XMP-crs:DefringePurpleHueLo>
+ <XMP-crs:DefringePurpleHueHi>70</XMP-crs:DefringePurpleHueHi>
+ <XMP-crs:DefringeGreenAmount>0</XMP-crs:DefringeGreenAmount>
+ <XMP-crs:DefringeGreenHueLo>40</XMP-crs:DefringeGreenHueLo>
+ <XMP-crs:DefringeGreenHueHi>60</XMP-crs:DefringeGreenHueHi>
+ <XMP-crs:PerspectiveUpright>Off</XMP-crs:PerspectiveUpright>
+ <XMP-crs:PerspectiveVertical>0</XMP-crs:PerspectiveVertical>
+ <XMP-crs:PerspectiveHorizontal>0</XMP-crs:PerspectiveHorizontal>
+ <XMP-crs:PerspectiveRotate>0.0</XMP-crs:PerspectiveRotate>
+ <XMP-crs:PerspectiveAspect>0</XMP-crs:PerspectiveAspect>
+ <XMP-crs:PerspectiveScale>100</XMP-crs:PerspectiveScale>
+ <XMP-crs:PerspectiveX>0.00</XMP-crs:PerspectiveX>
+ <XMP-crs:PerspectiveY>0.00</XMP-crs:PerspectiveY>
+ <XMP-crs:GrainAmount>0</XMP-crs:GrainAmount>
+ <XMP-crs:PostCropVignetteAmount>0</XMP-crs:PostCropVignetteAmount>
+ <XMP-crs:ShadowTint>0</XMP-crs:ShadowTint>
+ <XMP-crs:RedHue>0</XMP-crs:RedHue>
+ <XMP-crs:RedSaturation>0</XMP-crs:RedSaturation>
+ <XMP-crs:GreenHue>0</XMP-crs:GreenHue>
+ <XMP-crs:GreenSaturation>0</XMP-crs:GreenSaturation>
+ <XMP-crs:BlueHue>0</XMP-crs:BlueHue>
+ <XMP-crs:BlueSaturation>0</XMP-crs:BlueSaturation>
+ <XMP-crs:HDREditMode>0</XMP-crs:HDREditMode>
+ <XMP-crs:OverrideLookVignette>False</XMP-crs:OverrideLookVignette>
+ <XMP-crs:ToneCurveName2012>Linear</XMP-crs:ToneCurveName2012>
+ <XMP-crs:ToneCurvePV2012>
+  <rdf:Bag>
+   <rdf:li>0, 0</rdf:li>
+   <rdf:li>255, 255</rdf:li>
+  </rdf:Bag>
+ </XMP-crs:ToneCurvePV2012>
+ <XMP-crs:ToneCurvePV2012Red>
+  <rdf:Bag>
+   <rdf:li>0, 0</rdf:li>
+   <rdf:li>255, 255</rdf:li>
+  </rdf:Bag>
+ </XMP-crs:ToneCurvePV2012Red>
+ <XMP-crs:ToneCurvePV2012Green>
+  <rdf:Bag>
+   <rdf:li>0, 0</rdf:li>
+   <rdf:li>255, 255</rdf:li>
+  </rdf:Bag>
+ </XMP-crs:ToneCurvePV2012Green>
+ <XMP-crs:ToneCurvePV2012Blue>
+  <rdf:Bag>
+   <rdf:li>0, 0</rdf:li>
+   <rdf:li>255, 255</rdf:li>
+  </rdf:Bag>
+ </XMP-crs:ToneCurvePV2012Blue>
+ <XMP-crs:PointColors>-1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000</XMP-crs:PointColors>
+ <XMP-crs:CameraProfile>Adobe Standard</XMP-crs:CameraProfile>
+ <XMP-crs:CameraProfileDigest>87FB0EDC503E332309FB5DE5C5C65125</XMP-crs:CameraProfileDigest>
+ <XMP-crs:LookName>Adobe Color</XMP-crs:LookName>
+ <XMP-crs:LookAmount>1</XMP-crs:LookAmount>
+ <XMP-crs:LookGroup>Profiles</XMP-crs:LookGroup>
+ <XMP-crs:LookUUID>B952C231111CD8E0ECCF14B86BAA7077</XMP-crs:LookUUID>
+ <XMP-crs:LookSupportsAmount>false</XMP-crs:LookSupportsAmount>
+ <XMP-crs:LookSupportsMonochrome>false</XMP-crs:LookSupportsMonochrome>
+ <XMP-crs:LookSupportsOutputReferred>false</XMP-crs:LookSupportsOutputReferred>
+ <XMP-crs:LookCopyright>© 2018 Adobe Systems, Inc.</XMP-crs:LookCopyright>
+ <XMP-crs:LookParametersVersion>16.5</XMP-crs:LookParametersVersion>
+ <XMP-crs:LookParametersProcessVersion>15.4</XMP-crs:LookParametersProcessVersion>
+ <XMP-crs:LookParametersConvertToGrayscale>False</XMP-crs:LookParametersConvertToGrayscale>
+ <XMP-crs:LookParametersToneCurvePV2012>
+  <rdf:Bag>
+   <rdf:li>0, 0</rdf:li>
+   <rdf:li>22, 16</rdf:li>
+   <rdf:li>40, 35</rdf:li>
+   <rdf:li>127, 127</rdf:li>
+   <rdf:li>224, 230</rdf:li>
+   <rdf:li>240, 246</rdf:li>
+   <rdf:li>255, 255</rdf:li>
+  </rdf:Bag>
+ </XMP-crs:LookParametersToneCurvePV2012>
+ <XMP-crs:LookParametersToneCurvePV2012Red>
+  <rdf:Bag>
+   <rdf:li>0, 0</rdf:li>
+   <rdf:li>255, 255</rdf:li>
+  </rdf:Bag>
+ </XMP-crs:LookParametersToneCurvePV2012Red>
+ <XMP-crs:LookParametersToneCurvePV2012Green>
+  <rdf:Bag>
+   <rdf:li>0, 0</rdf:li>
+   <rdf:li>255, 255</rdf:li>
+  </rdf:Bag>
+ </XMP-crs:LookParametersToneCurvePV2012Green>
+ <XMP-crs:LookParametersToneCurvePV2012Blue>
+  <rdf:Bag>
+   <rdf:li>0, 0</rdf:li>
+   <rdf:li>255, 255</rdf:li>
+  </rdf:Bag>
+ </XMP-crs:LookParametersToneCurvePV2012Blue>
+ <XMP-crs:LookParametersCameraProfile>Adobe Standard</XMP-crs:LookParametersCameraProfile>
+ <XMP-crs:LookParametersLookTable>E1095149FDB39D7A057BAB208837E2E1</XMP-crs:LookParametersLookTable>
+ <XMP-crs:HasSettings>True</XMP-crs:HasSettings>
+ <XMP-crs:HasCrop>False</XMP-crs:HasCrop>
+ <XMP-crs:AlreadyApplied>True</XMP-crs:AlreadyApplied>
+ <XMP-xmpRights:Marked>False</XMP-xmpRights:Marked>
+ <XMP-tiff:ImageWidth>5421</XMP-tiff:ImageWidth>
+ <XMP-tiff:ImageHeight>2283</XMP-tiff:ImageHeight>
+ <XMP-tiff:BitsPerSample>
+  <rdf:Bag>
+   <rdf:li>16</rdf:li>
+   <rdf:li>16</rdf:li>
+   <rdf:li>16</rdf:li>
+  </rdf:Bag>
+ </XMP-tiff:BitsPerSample>
+ <XMP-tiff:Compression>Uncompressed</XMP-tiff:Compression>
+ <XMP-tiff:PhotometricInterpretation>RGB</XMP-tiff:PhotometricInterpretation>
+ <XMP-tiff:Orientation>Horizontal (normal)</XMP-tiff:Orientation>
+ <XMP-tiff:SamplesPerPixel>3</XMP-tiff:SamplesPerPixel>
+ <XMP-tiff:PlanarConfiguration>Chunky</XMP-tiff:PlanarConfiguration>
+ <XMP-tiff:XResolution>300</XMP-tiff:XResolution>
+ <XMP-tiff:YResolution>300</XMP-tiff:YResolution>
+ <XMP-tiff:ResolutionUnit>inches</XMP-tiff:ResolutionUnit>
+ <XMP-tiff:Make>Canon</XMP-tiff:Make>
+ <XMP-tiff:Model>Canon EOS 5D Mark III</XMP-tiff:Model>
+ <XMP-exif:ExifVersion>0230</XMP-exif:ExifVersion>
+ <XMP-exif:ColorSpace>Uncalibrated</XMP-exif:ColorSpace>
+ <XMP-exif:ExifImageWidth>5421</XMP-exif:ExifImageWidth>
+ <XMP-exif:ExifImageHeight>2283</XMP-exif:ExifImageHeight>
+ <XMP-exif:DateTimeOriginal>2025:03:21 12:18:39</XMP-exif:DateTimeOriginal>
+ <XMP-exif:ExposureTime>1/160</XMP-exif:ExposureTime>
+ <XMP-exif:FNumber>3.2</XMP-exif:FNumber>
+ <XMP-exif:ExposureProgram>Manual</XMP-exif:ExposureProgram>
+ <XMP-exif:ISO>800</XMP-exif:ISO>
+ <XMP-exif:ShutterSpeedValue>1/160</XMP-exif:ShutterSpeedValue>
+ <XMP-exif:ApertureValue>3.2</XMP-exif:ApertureValue>
+ <XMP-exif:ExposureCompensation>0</XMP-exif:ExposureCompensation>
+ <XMP-exif:MaxApertureValue>1.4</XMP-exif:MaxApertureValue>
+ <XMP-exif:MeteringMode>Center-weighted average</XMP-exif:MeteringMode>
+ <XMP-exif:FlashFired>False</XMP-exif:FlashFired>
+ <XMP-exif:FlashReturn>No return detection</XMP-exif:FlashReturn>
+ <XMP-exif:FlashMode>Off</XMP-exif:FlashMode>
+ <XMP-exif:FlashFunction>False</XMP-exif:FlashFunction>
+ <XMP-exif:FlashRedEyeMode>False</XMP-exif:FlashRedEyeMode>
+ <XMP-exif:FocalLength>50.0 mm</XMP-exif:FocalLength>
+ <XMP-exif:FocalPlaneXResolution>1600</XMP-exif:FocalPlaneXResolution>
+ <XMP-exif:FocalPlaneYResolution>1600</XMP-exif:FocalPlaneYResolution>
+ <XMP-exif:FocalPlaneResolutionUnit>cm</XMP-exif:FocalPlaneResolutionUnit>
+ <XMP-exif:CustomRendered>Normal</XMP-exif:CustomRendered>
+ <XMP-exif:ExposureMode>Manual</XMP-exif:ExposureMode>
+ <XMP-exif:WhiteBalance>Auto</XMP-exif:WhiteBalance>
+ <XMP-exif:SceneCaptureType>Standard</XMP-exif:SceneCaptureType>
+ <XMP-exif:SubSecTime>92</XMP-exif:SubSecTime>
+ <XMP-exif:SubSecTimeOriginal>92</XMP-exif:SubSecTimeOriginal>
+ <XMP-exif:SubSecTimeDigitized>92</XMP-exif:SubSecTimeDigitized>
+ <XMP-exif:SerialNumber>033023000916</XMP-exif:SerialNumber>
+ <XMP-exif:LensInfo>50</XMP-exif:LensInfo>
+ <XMP-exif:Lens>50mm F1.4 DG HSM | Art 014</XMP-exif:Lens>
+ <XMP-exif:LensSerialNumber>0000000000</XMP-exif:LensSerialNumber>
+ <XMP-exif:SensitivityType>2</XMP-exif:SensitivityType>
+ <XMP-exif:RecommendedExposureIndex>800</XMP-exif:RecommendedExposureIndex>
+ <IPTC:CodedCharacterSet>UTF8</IPTC:CodedCharacterSet>
+ <IPTC:ApplicationRecordVersion>0</IPTC:ApplicationRecordVersion>
+ <IPTC:Caption-Abstract>Album från Sjuksköterskors insamling för sommarstuga, 1931-1933.  Från Medicinhistoriska museet i Göteborg, Sverige. Album donerat år 1998 av Gertrud Andersson.  </IPTC:Caption-Abstract>
+ <IPTC:By-line>Unknown</IPTC:By-line>
+ <IPTC:ObjectName>stugan_album_uppslag3</IPTC:ObjectName>
+ <IPTC:DateCreated>2025:03:21</IPTC:DateCreated>
+ <IPTC:TimeCreated>12:18:39</IPTC:TimeCreated>
+ <IPTC:City>Göteborg</IPTC:City>
+ <IPTC:Country-PrimaryLocationName>Sverige</IPTC:Country-PrimaryLocationName>
+ <IPTC:Keywords>
+  <rdf:Bag>
+   <rdf:li>history of medicine</rdf:li>
+   <rdf:li>nurses</rdf:li>
+   <rdf:li>nurses´residences</rdf:li>
+   <rdf:li>photograph albums</rdf:li>
+  </rdf:Bag>
+ </IPTC:Keywords>
+ <Photoshop:IPTCDigest>7b75f73a65611d219e03a71477c6c571</Photoshop:IPTCDigest>
+ <Photoshop:XResolution>300</Photoshop:XResolution>
+ <Photoshop:DisplayedUnitsX>inches</Photoshop:DisplayedUnitsX>
+ <Photoshop:YResolution>300</Photoshop:YResolution>
+ <Photoshop:DisplayedUnitsY>inches</Photoshop:DisplayedUnitsY>
+ <Photoshop:PrintStyle>Centered</Photoshop:PrintStyle>
+ <Photoshop:PrintPosition>0 0</Photoshop:PrintPosition>
+ <Photoshop:PrintScale>1</Photoshop:PrintScale>
+ <Photoshop:GlobalAngle>30</Photoshop:GlobalAngle>
+ <Photoshop:GlobalAltitude>30</Photoshop:GlobalAltitude>
+ <Photoshop:CopyrightFlag>False</Photoshop:CopyrightFlag>
+ <Photoshop:URL_List>
+  <rdf:Bag>
+  </rdf:Bag>
+ </Photoshop:URL_List>
+ <Photoshop:SlicesGroupName>3</Photoshop:SlicesGroupName>
+ <Photoshop:NumSlices>1</Photoshop:NumSlices>
+ <Photoshop:PixelAspectRatio>1</Photoshop:PixelAspectRatio>
+ <Photoshop:PhotoshopThumbnail>(Binary data 3541 bytes, use -b option to extract)</Photoshop:PhotoshopThumbnail>
+ <Photoshop:HasRealMergedData>Yes</Photoshop:HasRealMergedData>
+ <Photoshop:WriterName>Adobe Photoshop</Photoshop:WriterName>
+ <Photoshop:ReaderName>Adobe Photoshop 2024</Photoshop:ReaderName>
+ <ExifIFD:ExposureTime>1/160</ExifIFD:ExposureTime>
+ <ExifIFD:FNumber>3.2</ExifIFD:FNumber>
+ <ExifIFD:ExposureProgram>Manual</ExifIFD:ExposureProgram>
+ <ExifIFD:ISO>800</ExifIFD:ISO>
+ <ExifIFD:SensitivityType>Recommended Exposure Index</ExifIFD:SensitivityType>
+ <ExifIFD:RecommendedExposureIndex>800</ExifIFD:RecommendedExposureIndex>
+ <ExifIFD:ExifVersion>0230</ExifIFD:ExifVersion>
+ <ExifIFD:DateTimeOriginal>2025:03:21 12:18:39</ExifIFD:DateTimeOriginal>
+ <ExifIFD:CreateDate>2025:03:21 12:18:39</ExifIFD:CreateDate>
+ <ExifIFD:ShutterSpeedValue>1/160</ExifIFD:ShutterSpeedValue>
+ <ExifIFD:ApertureValue>3.2</ExifIFD:ApertureValue>
+ <ExifIFD:ExposureCompensation>0</ExifIFD:ExposureCompensation>
+ <ExifIFD:MaxApertureValue>1.4</ExifIFD:MaxApertureValue>
+ <ExifIFD:MeteringMode>Center-weighted average</ExifIFD:MeteringMode>
+ <ExifIFD:Flash>Off, Did not fire</ExifIFD:Flash>
+ <ExifIFD:FocalLength>50.0 mm</ExifIFD:FocalLength>
+ <ExifIFD:SubSecTime>92</ExifIFD:SubSecTime>
+ <ExifIFD:SubSecTimeOriginal>92</ExifIFD:SubSecTimeOriginal>
+ <ExifIFD:SubSecTimeDigitized>92</ExifIFD:SubSecTimeDigitized>
+ <ExifIFD:ColorSpace>Uncalibrated</ExifIFD:ColorSpace>
+ <ExifIFD:ExifImageWidth>5421</ExifIFD:ExifImageWidth>
+ <ExifIFD:ExifImageHeight>2283</ExifIFD:ExifImageHeight>
+ <ExifIFD:FocalPlaneXResolution>1600</ExifIFD:FocalPlaneXResolution>
+ <ExifIFD:FocalPlaneYResolution>1600</ExifIFD:FocalPlaneYResolution>
+ <ExifIFD:FocalPlaneResolutionUnit>cm</ExifIFD:FocalPlaneResolutionUnit>
+ <ExifIFD:CustomRendered>Normal</ExifIFD:CustomRendered>
+ <ExifIFD:ExposureMode>Manual</ExifIFD:ExposureMode>
+ <ExifIFD:WhiteBalance>Auto</ExifIFD:WhiteBalance>
+ <ExifIFD:SceneCaptureType>Standard</ExifIFD:SceneCaptureType>
+ <ExifIFD:SerialNumber>033023000916</ExifIFD:SerialNumber>
+ <ExifIFD:LensInfo>50mm f/?</ExifIFD:LensInfo>
+ <ExifIFD:LensModel>50mm F1.4 DG HSM | Art 014</ExifIFD:LensModel>
+ <ExifIFD:LensSerialNumber>0000000000</ExifIFD:LensSerialNumber>
+ <ICC-header:ProfileCMMType>Adobe Systems Inc.</ICC-header:ProfileCMMType>
+ <ICC-header:ProfileVersion>2.1.0</ICC-header:ProfileVersion>
+ <ICC-header:ProfileClass>Display Device Profile</ICC-header:ProfileClass>
+ <ICC-header:ColorSpaceData>RGB </ICC-header:ColorSpaceData>
+ <ICC-header:ProfileConnectionSpace>XYZ </ICC-header:ProfileConnectionSpace>
+ <ICC-header:ProfileDateTime>1999:06:03 00:00:00</ICC-header:ProfileDateTime>
+ <ICC-header:ProfileFileSignature>acsp</ICC-header:ProfileFileSignature>
+ <ICC-header:PrimaryPlatform>Apple Computer Inc.</ICC-header:PrimaryPlatform>
+ <ICC-header:CMMFlags>Not Embedded, Independent</ICC-header:CMMFlags>
+ <ICC-header:DeviceManufacturer>none</ICC-header:DeviceManufacturer>
+ <ICC-header:DeviceModel></ICC-header:DeviceModel>
+ <ICC-header:DeviceAttributes>Reflective, Glossy, Positive, Color</ICC-header:DeviceAttributes>
+ <ICC-header:RenderingIntent>Media-Relative Colorimetric</ICC-header:RenderingIntent>
+ <ICC-header:ConnectionSpaceIlluminant>0.9642 1 0.82491</ICC-header:ConnectionSpaceIlluminant>
+ <ICC-header:ProfileCreator>Adobe Systems Inc.</ICC-header:ProfileCreator>
+ <ICC-header:ProfileID>0</ICC-header:ProfileID>
+ <ICC_Profile:ProfileCopyright>Copyright 1999 Adobe Systems Incorporated</ICC_Profile:ProfileCopyright>
+ <ICC_Profile:ProfileDescription>Adobe RGB (1998)</ICC_Profile:ProfileDescription>
+ <ICC_Profile:MediaWhitePoint>0.95045 1 1.08905</ICC_Profile:MediaWhitePoint>
+ <ICC_Profile:MediaBlackPoint>0 0 0</ICC_Profile:MediaBlackPoint>
+ <ICC_Profile:RedTRC>(Binary data 14 bytes, use -b option to extract)</ICC_Profile:RedTRC>
+ <ICC_Profile:GreenTRC>(Binary data 14 bytes, use -b option to extract)</ICC_Profile:GreenTRC>
+ <ICC_Profile:BlueTRC>(Binary data 14 bytes, use -b option to extract)</ICC_Profile:BlueTRC>
+ <ICC_Profile:RedMatrixColumn>0.60974 0.31111 0.01947</ICC_Profile:RedMatrixColumn>
+ <ICC_Profile:GreenMatrixColumn>0.20528 0.62567 0.06087</ICC_Profile:GreenMatrixColumn>
+ <ICC_Profile:BlueMatrixColumn>0.14919 0.06322 0.74457</ICC_Profile:BlueMatrixColumn>
+ <Composite:Aperture>3.2</Composite:Aperture>
+ <Composite:ImageSize>5421x2283</Composite:ImageSize>
+ <Composite:Megapixels>12.4</Composite:Megapixels>
+ <Composite:ShutterSpeed>1/160</Composite:ShutterSpeed>
+ <Composite:SubSecCreateDate>2025:03:21 12:18:39.92</Composite:SubSecCreateDate>
+ <Composite:SubSecDateTimeOriginal>2025:03:21 12:18:39.92</Composite:SubSecDateTimeOriginal>
+ <Composite:SubSecModifyDate>2025:05:02 13:12:27.92</Composite:SubSecModifyDate>
+ <Composite:DateTimeCreated>2025:03:21 12:18:39</Composite:DateTimeCreated>
+ <Composite:Flash>Off, Did not fire</Composite:Flash>
+ <Composite:FocalLength35efl>50.0 mm</Composite:FocalLength35efl>
+ <Composite:LightValue>7.7</Composite:LightValue>
+ <Composite:LensID>Sigma 50mm f/1.4 DG HSM | A</Composite:LensID>
+</rdf:Description>
+</rdf:RDF>
+
+            </xenoData>
         </teiHeader>
 
         <facsimile>
@@ -644,6 +2610,481 @@
                     <p></p>
                 </sourceDesc>
             </fileDesc>
+            <xenoData>
+            <rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+
+<rdf:Description rdf:about='10_stugan_album_uppslag10.tif'
+  xmlns:et='http://ns.exiftool.org/1.0/' et:toolkit='Image::ExifTool 13.25'
+  xmlns:ExifTool='http://ns.exiftool.org/ExifTool/1.0/'
+  xmlns:System='http://ns.exiftool.org/File/System/1.0/'
+  xmlns:File='http://ns.exiftool.org/File/1.0/'
+  xmlns:IFD0='http://ns.exiftool.org/EXIF/IFD0/1.0/'
+  xmlns:XMP-x='http://ns.exiftool.org/XMP/XMP-x/1.0/'
+  xmlns:XMP-xmp='http://ns.exiftool.org/XMP/XMP-xmp/1.0/'
+  xmlns:XMP-aux='http://ns.exiftool.org/XMP/XMP-aux/1.0/'
+  xmlns:XMP-exifEX='http://ns.exiftool.org/XMP/XMP-exifEX/1.0/'
+  xmlns:XMP-photoshop='http://ns.exiftool.org/XMP/XMP-photoshop/1.0/'
+  xmlns:XMP-xmpMM='http://ns.exiftool.org/XMP/XMP-xmpMM/1.0/'
+  xmlns:XMP-dc='http://ns.exiftool.org/XMP/XMP-dc/1.0/'
+  xmlns:XMP-crs='http://ns.exiftool.org/XMP/XMP-crs/1.0/'
+  xmlns:XMP-xmpRights='http://ns.exiftool.org/XMP/XMP-xmpRights/1.0/'
+  xmlns:XMP-tiff='http://ns.exiftool.org/XMP/XMP-tiff/1.0/'
+  xmlns:XMP-exif='http://ns.exiftool.org/XMP/XMP-exif/1.0/'
+  xmlns:IPTC='http://ns.exiftool.org/IPTC/IPTC/1.0/'
+  xmlns:Photoshop='http://ns.exiftool.org/Photoshop/Photoshop/1.0/'
+  xmlns:ExifIFD='http://ns.exiftool.org/EXIF/ExifIFD/1.0/'
+  xmlns:ICC-header='http://ns.exiftool.org/ICC_Profile/ICC-header/1.0/'
+  xmlns:ICC_Profile='http://ns.exiftool.org/ICC_Profile/ICC_Profile/1.0/'
+  xmlns:Composite='http://ns.exiftool.org/Composite/1.0/'>
+ <ExifTool:ExifToolVersion>13.25</ExifTool:ExifToolVersion>
+ <System:FileName>10_stugan_album_uppslag10.tif</System:FileName>
+ <System:FileSize>78 MB</System:FileSize>
+ <System:FileModifyDate>2025:05:11 14:06:01+02:00</System:FileModifyDate>
+ <System:FileAccessDate>2025:05:14 14:01:47+02:00</System:FileAccessDate>
+ <System:FileInodeChangeDate>2025:05:11 14:06:01+02:00</System:FileInodeChangeDate>
+ <System:FilePermissions>-rw-r--r--</System:FilePermissions>
+ <File:FileType>TIFF</File:FileType>
+ <File:FileTypeExtension>tif</File:FileTypeExtension>
+ <File:MIMEType>image/tiff</File:MIMEType>
+ <File:ExifByteOrder>Big-endian (Motorola, MM)</File:ExifByteOrder>
+ <File:CurrentIPTCDigest>db1c3160ca89d61751b4c0b73f202a79</File:CurrentIPTCDigest>
+ <IFD0:SubfileType>Full-resolution image</IFD0:SubfileType>
+ <IFD0:ImageWidth>5467</IFD0:ImageWidth>
+ <IFD0:ImageHeight>2381</IFD0:ImageHeight>
+ <IFD0:BitsPerSample>16 16 16</IFD0:BitsPerSample>
+ <IFD0:Compression>Uncompressed</IFD0:Compression>
+ <IFD0:PhotometricInterpretation>RGB</IFD0:PhotometricInterpretation>
+ <IFD0:ImageDescription rdf:datatype='http://www.w3.org/2001/XMLSchema#base64Binary'>
+QWxidW0gZnKMbiBTanVrc2uadGVyc2tvcnMgaW5zYW1saW5nIGaaciBzb21t
+YXJzdHVnYSwgMTkzMS0xOTMzLiAgRnKMbiBNZWRpY2luaGlzdG9yaXNrYSBt
+dXNlZXQgaSBHmnRlYm9yZywgU3ZlcmlnZS4gQWxidW0gZG9uZXJhdCCMciAx
+OTk4IGF2IEdlcnRydWQgQW5kZXJzc29uLiAg
+</IFD0:ImageDescription>
+ <IFD0:Make>Canon</IFD0:Make>
+ <IFD0:Model>Canon EOS 5D Mark III</IFD0:Model>
+ <IFD0:StripOffsets>37244</IFD0:StripOffsets>
+ <IFD0:Orientation>Horizontal (normal)</IFD0:Orientation>
+ <IFD0:SamplesPerPixel>3</IFD0:SamplesPerPixel>
+ <IFD0:RowsPerStrip>2381</IFD0:RowsPerStrip>
+ <IFD0:StripByteCounts>78101562</IFD0:StripByteCounts>
+ <IFD0:XResolution>300</IFD0:XResolution>
+ <IFD0:YResolution>300</IFD0:YResolution>
+ <IFD0:PlanarConfiguration>Chunky</IFD0:PlanarConfiguration>
+ <IFD0:ResolutionUnit>inches</IFD0:ResolutionUnit>
+ <IFD0:Software>Adobe Photoshop 25.12 (Macintosh)</IFD0:Software>
+ <IFD0:ModifyDate>2025:05:02 13:17:16</IFD0:ModifyDate>
+ <IFD0:Artist>Unknown</IFD0:Artist>
+ <XMP-x:XMPToolkit>Adobe XMP Core 9.1-c002 79.a6a63968a, 2024/03/06-11:52:05        </XMP-x:XMPToolkit>
+ <XMP-xmp:Rating>0</XMP-xmp:Rating>
+ <XMP-xmp:ModifyDate>2025:05:02 13:17:16+02:00</XMP-xmp:ModifyDate>
+ <XMP-xmp:CreateDate>2025:03:21 12:19:57</XMP-xmp:CreateDate>
+ <XMP-xmp:MetadataDate>2025:05:02 13:17:16+02:00</XMP-xmp:MetadataDate>
+ <XMP-xmp:CreatorTool>Adobe Photoshop 25.12 (Macintosh)</XMP-xmp:CreatorTool>
+ <XMP-aux:SerialNumber>033023000916</XMP-aux:SerialNumber>
+ <XMP-aux:LensInfo>50mm f/?</XMP-aux:LensInfo>
+ <XMP-aux:Lens>50mm F1.4 DG HSM | Art 014</XMP-aux:Lens>
+ <XMP-aux:LensID>368</XMP-aux:LensID>
+ <XMP-aux:LensSerialNumber>0000000000</XMP-aux:LensSerialNumber>
+ <XMP-aux:ImageNumber>0</XMP-aux:ImageNumber>
+ <XMP-aux:ApproximateFocusDistance>1</XMP-aux:ApproximateFocusDistance>
+ <XMP-aux:FlashCompensation>0</XMP-aux:FlashCompensation>
+ <XMP-aux:Firmware>1.3.5</XMP-aux:Firmware>
+ <XMP-exifEX:LensModel>50mm F1.4 DG HSM | Art 014</XMP-exifEX:LensModel>
+ <XMP-photoshop:DateCreated>2025:03:21 12:19:57.033</XMP-photoshop:DateCreated>
+ <XMP-photoshop:ColorMode>RGB</XMP-photoshop:ColorMode>
+ <XMP-photoshop:ICCProfileName>Adobe RGB (1998)</XMP-photoshop:ICCProfileName>
+ <XMP-photoshop:Country>Sverige</XMP-photoshop:Country>
+ <XMP-photoshop:City>Göteborg</XMP-photoshop:City>
+ <XMP-xmpMM:DocumentID>adobe:docid:photoshop:a2a5538e-7e74-0c49-858a-86218869a31b</XMP-xmpMM:DocumentID>
+ <XMP-xmpMM:HistoryAction>
+  <rdf:Bag>
+   <rdf:li>derived</rdf:li>
+   <rdf:li>saved</rdf:li>
+   <rdf:li>saved</rdf:li>
+  </rdf:Bag>
+ </XMP-xmpMM:HistoryAction>
+ <XMP-xmpMM:HistoryParameters>converted from image/x-canon-cr2 to image/tiff</XMP-xmpMM:HistoryParameters>
+ <XMP-xmpMM:HistoryInstanceID>
+  <rdf:Bag>
+   <rdf:li>xmp.iid:d9f9c829-d0e2-4aeb-8f91-0fdf4f5c58cc</rdf:li>
+   <rdf:li>xmp.iid:7b639013-f9ec-40e0-94a3-7ede1d8fa787</rdf:li>
+  </rdf:Bag>
+ </XMP-xmpMM:HistoryInstanceID>
+ <XMP-xmpMM:HistoryWhen>
+  <rdf:Bag>
+   <rdf:li>2025:04:22 12:47:59+02:00</rdf:li>
+   <rdf:li>2025:05:02 13:17:16+02:00</rdf:li>
+  </rdf:Bag>
+ </XMP-xmpMM:HistoryWhen>
+ <XMP-xmpMM:HistorySoftwareAgent>
+  <rdf:Bag>
+   <rdf:li>Adobe Photoshop Camera Raw 16.5 (Macintosh)</rdf:li>
+   <rdf:li>Adobe Photoshop 25.12 (Macintosh)</rdf:li>
+  </rdf:Bag>
+ </XMP-xmpMM:HistorySoftwareAgent>
+ <XMP-xmpMM:HistoryChanged>
+  <rdf:Bag>
+   <rdf:li>/</rdf:li>
+   <rdf:li>/</rdf:li>
+  </rdf:Bag>
+ </XMP-xmpMM:HistoryChanged>
+ <XMP-xmpMM:OriginalDocumentID>32F754D3EFAFDF4C68593E2275940DC4</XMP-xmpMM:OriginalDocumentID>
+ <XMP-xmpMM:DerivedFromDocumentID>32F754D3EFAFDF4C68593E2275940DC4</XMP-xmpMM:DerivedFromDocumentID>
+ <XMP-xmpMM:DerivedFromOriginalDocumentID>32F754D3EFAFDF4C68593E2275940DC4</XMP-xmpMM:DerivedFromOriginalDocumentID>
+ <XMP-xmpMM:InstanceID>xmp.iid:7b639013-f9ec-40e0-94a3-7ede1d8fa787</XMP-xmpMM:InstanceID>
+ <XMP-dc:Format>image/tiff</XMP-dc:Format>
+ <XMP-dc:Title>stugan_album_uppslag10</XMP-dc:Title>
+ <XMP-dc:Description>Album från Sjuksköterskors insamling för sommarstuga, 1931-1933.  Från Medicinhistoriska museet i Göteborg, Sverige. Album donerat år 1998 av Gertrud Andersson.  </XMP-dc:Description>
+ <XMP-dc:Subject>
+  <rdf:Bag>
+   <rdf:li>history of medicine</rdf:li>
+   <rdf:li>nurses</rdf:li>
+   <rdf:li>nurses´residences</rdf:li>
+   <rdf:li>photograph albums</rdf:li>
+  </rdf:Bag>
+ </XMP-dc:Subject>
+ <XMP-dc:Creator>Unknown</XMP-dc:Creator>
+ <XMP-crs:Version>16.5</XMP-crs:Version>
+ <XMP-crs:ProcessVersion>15.4</XMP-crs:ProcessVersion>
+ <XMP-crs:WhiteBalance>Custom</XMP-crs:WhiteBalance>
+ <XMP-crs:ColorTemperature>6850</XMP-crs:ColorTemperature>
+ <XMP-crs:Tint>-5</XMP-crs:Tint>
+ <XMP-crs:Exposure2012>+0.30</XMP-crs:Exposure2012>
+ <XMP-crs:Contrast2012>+5</XMP-crs:Contrast2012>
+ <XMP-crs:Highlights2012>0</XMP-crs:Highlights2012>
+ <XMP-crs:Shadows2012>0</XMP-crs:Shadows2012>
+ <XMP-crs:Whites2012>0</XMP-crs:Whites2012>
+ <XMP-crs:Blacks2012>0</XMP-crs:Blacks2012>
+ <XMP-crs:Texture>+6</XMP-crs:Texture>
+ <XMP-crs:Clarity2012>+7</XMP-crs:Clarity2012>
+ <XMP-crs:Dehaze>0</XMP-crs:Dehaze>
+ <XMP-crs:Vibrance>0</XMP-crs:Vibrance>
+ <XMP-crs:Saturation>-11</XMP-crs:Saturation>
+ <XMP-crs:ParametricShadows>0</XMP-crs:ParametricShadows>
+ <XMP-crs:ParametricDarks>0</XMP-crs:ParametricDarks>
+ <XMP-crs:ParametricLights>0</XMP-crs:ParametricLights>
+ <XMP-crs:ParametricHighlights>0</XMP-crs:ParametricHighlights>
+ <XMP-crs:ParametricShadowSplit>25</XMP-crs:ParametricShadowSplit>
+ <XMP-crs:ParametricMidtoneSplit>50</XMP-crs:ParametricMidtoneSplit>
+ <XMP-crs:ParametricHighlightSplit>75</XMP-crs:ParametricHighlightSplit>
+ <XMP-crs:Sharpness>40</XMP-crs:Sharpness>
+ <XMP-crs:SharpenRadius>+1.0</XMP-crs:SharpenRadius>
+ <XMP-crs:SharpenDetail>25</XMP-crs:SharpenDetail>
+ <XMP-crs:SharpenEdgeMasking>0</XMP-crs:SharpenEdgeMasking>
+ <XMP-crs:LuminanceSmoothing>0</XMP-crs:LuminanceSmoothing>
+ <XMP-crs:ColorNoiseReduction>25</XMP-crs:ColorNoiseReduction>
+ <XMP-crs:ColorNoiseReductionDetail>50</XMP-crs:ColorNoiseReductionDetail>
+ <XMP-crs:ColorNoiseReductionSmoothness>50</XMP-crs:ColorNoiseReductionSmoothness>
+ <XMP-crs:HueAdjustmentRed>0</XMP-crs:HueAdjustmentRed>
+ <XMP-crs:HueAdjustmentOrange>0</XMP-crs:HueAdjustmentOrange>
+ <XMP-crs:HueAdjustmentYellow>0</XMP-crs:HueAdjustmentYellow>
+ <XMP-crs:HueAdjustmentGreen>0</XMP-crs:HueAdjustmentGreen>
+ <XMP-crs:HueAdjustmentAqua>0</XMP-crs:HueAdjustmentAqua>
+ <XMP-crs:HueAdjustmentBlue>0</XMP-crs:HueAdjustmentBlue>
+ <XMP-crs:HueAdjustmentPurple>0</XMP-crs:HueAdjustmentPurple>
+ <XMP-crs:HueAdjustmentMagenta>0</XMP-crs:HueAdjustmentMagenta>
+ <XMP-crs:SaturationAdjustmentRed>0</XMP-crs:SaturationAdjustmentRed>
+ <XMP-crs:SaturationAdjustmentOrange>0</XMP-crs:SaturationAdjustmentOrange>
+ <XMP-crs:SaturationAdjustmentYellow>0</XMP-crs:SaturationAdjustmentYellow>
+ <XMP-crs:SaturationAdjustmentGreen>0</XMP-crs:SaturationAdjustmentGreen>
+ <XMP-crs:SaturationAdjustmentAqua>0</XMP-crs:SaturationAdjustmentAqua>
+ <XMP-crs:SaturationAdjustmentBlue>0</XMP-crs:SaturationAdjustmentBlue>
+ <XMP-crs:SaturationAdjustmentPurple>0</XMP-crs:SaturationAdjustmentPurple>
+ <XMP-crs:SaturationAdjustmentMagenta>0</XMP-crs:SaturationAdjustmentMagenta>
+ <XMP-crs:LuminanceAdjustmentRed>0</XMP-crs:LuminanceAdjustmentRed>
+ <XMP-crs:LuminanceAdjustmentOrange>0</XMP-crs:LuminanceAdjustmentOrange>
+ <XMP-crs:LuminanceAdjustmentYellow>0</XMP-crs:LuminanceAdjustmentYellow>
+ <XMP-crs:LuminanceAdjustmentGreen>0</XMP-crs:LuminanceAdjustmentGreen>
+ <XMP-crs:LuminanceAdjustmentAqua>0</XMP-crs:LuminanceAdjustmentAqua>
+ <XMP-crs:LuminanceAdjustmentBlue>0</XMP-crs:LuminanceAdjustmentBlue>
+ <XMP-crs:LuminanceAdjustmentPurple>0</XMP-crs:LuminanceAdjustmentPurple>
+ <XMP-crs:LuminanceAdjustmentMagenta>0</XMP-crs:LuminanceAdjustmentMagenta>
+ <XMP-crs:SplitToningShadowHue>0</XMP-crs:SplitToningShadowHue>
+ <XMP-crs:SplitToningShadowSaturation>0</XMP-crs:SplitToningShadowSaturation>
+ <XMP-crs:SplitToningHighlightHue>0</XMP-crs:SplitToningHighlightHue>
+ <XMP-crs:SplitToningHighlightSaturation>0</XMP-crs:SplitToningHighlightSaturation>
+ <XMP-crs:SplitToningBalance>0</XMP-crs:SplitToningBalance>
+ <XMP-crs:ColorGradeMidtoneHue>0</XMP-crs:ColorGradeMidtoneHue>
+ <XMP-crs:ColorGradeMidtoneSat>0</XMP-crs:ColorGradeMidtoneSat>
+ <XMP-crs:ColorGradeShadowLum>0</XMP-crs:ColorGradeShadowLum>
+ <XMP-crs:ColorGradeMidtoneLum>0</XMP-crs:ColorGradeMidtoneLum>
+ <XMP-crs:ColorGradeHighlightLum>0</XMP-crs:ColorGradeHighlightLum>
+ <XMP-crs:ColorGradeBlending>50</XMP-crs:ColorGradeBlending>
+ <XMP-crs:ColorGradeGlobalHue>0</XMP-crs:ColorGradeGlobalHue>
+ <XMP-crs:ColorGradeGlobalSat>0</XMP-crs:ColorGradeGlobalSat>
+ <XMP-crs:ColorGradeGlobalLum>0</XMP-crs:ColorGradeGlobalLum>
+ <XMP-crs:AutoLateralCA>0</XMP-crs:AutoLateralCA>
+ <XMP-crs:LensProfileEnable>0</XMP-crs:LensProfileEnable>
+ <XMP-crs:LensManualDistortionAmount>0</XMP-crs:LensManualDistortionAmount>
+ <XMP-crs:VignetteAmount>0</XMP-crs:VignetteAmount>
+ <XMP-crs:DefringePurpleAmount>0</XMP-crs:DefringePurpleAmount>
+ <XMP-crs:DefringePurpleHueLo>30</XMP-crs:DefringePurpleHueLo>
+ <XMP-crs:DefringePurpleHueHi>70</XMP-crs:DefringePurpleHueHi>
+ <XMP-crs:DefringeGreenAmount>0</XMP-crs:DefringeGreenAmount>
+ <XMP-crs:DefringeGreenHueLo>40</XMP-crs:DefringeGreenHueLo>
+ <XMP-crs:DefringeGreenHueHi>60</XMP-crs:DefringeGreenHueHi>
+ <XMP-crs:PerspectiveUpright>Off</XMP-crs:PerspectiveUpright>
+ <XMP-crs:PerspectiveVertical>0</XMP-crs:PerspectiveVertical>
+ <XMP-crs:PerspectiveHorizontal>0</XMP-crs:PerspectiveHorizontal>
+ <XMP-crs:PerspectiveRotate>0.0</XMP-crs:PerspectiveRotate>
+ <XMP-crs:PerspectiveAspect>0</XMP-crs:PerspectiveAspect>
+ <XMP-crs:PerspectiveScale>100</XMP-crs:PerspectiveScale>
+ <XMP-crs:PerspectiveX>0.00</XMP-crs:PerspectiveX>
+ <XMP-crs:PerspectiveY>0.00</XMP-crs:PerspectiveY>
+ <XMP-crs:GrainAmount>0</XMP-crs:GrainAmount>
+ <XMP-crs:PostCropVignetteAmount>0</XMP-crs:PostCropVignetteAmount>
+ <XMP-crs:ShadowTint>0</XMP-crs:ShadowTint>
+ <XMP-crs:RedHue>0</XMP-crs:RedHue>
+ <XMP-crs:RedSaturation>0</XMP-crs:RedSaturation>
+ <XMP-crs:GreenHue>0</XMP-crs:GreenHue>
+ <XMP-crs:GreenSaturation>0</XMP-crs:GreenSaturation>
+ <XMP-crs:BlueHue>0</XMP-crs:BlueHue>
+ <XMP-crs:BlueSaturation>0</XMP-crs:BlueSaturation>
+ <XMP-crs:HDREditMode>0</XMP-crs:HDREditMode>
+ <XMP-crs:OverrideLookVignette>False</XMP-crs:OverrideLookVignette>
+ <XMP-crs:ToneCurveName2012>Linear</XMP-crs:ToneCurveName2012>
+ <XMP-crs:ToneCurvePV2012>
+  <rdf:Bag>
+   <rdf:li>0, 0</rdf:li>
+   <rdf:li>255, 255</rdf:li>
+  </rdf:Bag>
+ </XMP-crs:ToneCurvePV2012>
+ <XMP-crs:ToneCurvePV2012Red>
+  <rdf:Bag>
+   <rdf:li>0, 0</rdf:li>
+   <rdf:li>255, 255</rdf:li>
+  </rdf:Bag>
+ </XMP-crs:ToneCurvePV2012Red>
+ <XMP-crs:ToneCurvePV2012Green>
+  <rdf:Bag>
+   <rdf:li>0, 0</rdf:li>
+   <rdf:li>255, 255</rdf:li>
+  </rdf:Bag>
+ </XMP-crs:ToneCurvePV2012Green>
+ <XMP-crs:ToneCurvePV2012Blue>
+  <rdf:Bag>
+   <rdf:li>0, 0</rdf:li>
+   <rdf:li>255, 255</rdf:li>
+  </rdf:Bag>
+ </XMP-crs:ToneCurvePV2012Blue>
+ <XMP-crs:PointColors>-1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000</XMP-crs:PointColors>
+ <XMP-crs:CameraProfile>Adobe Standard</XMP-crs:CameraProfile>
+ <XMP-crs:CameraProfileDigest>87FB0EDC503E332309FB5DE5C5C65125</XMP-crs:CameraProfileDigest>
+ <XMP-crs:LookName>Adobe Color</XMP-crs:LookName>
+ <XMP-crs:LookAmount>1</XMP-crs:LookAmount>
+ <XMP-crs:LookGroup>Profiles</XMP-crs:LookGroup>
+ <XMP-crs:LookUUID>B952C231111CD8E0ECCF14B86BAA7077</XMP-crs:LookUUID>
+ <XMP-crs:LookSupportsAmount>false</XMP-crs:LookSupportsAmount>
+ <XMP-crs:LookSupportsMonochrome>false</XMP-crs:LookSupportsMonochrome>
+ <XMP-crs:LookSupportsOutputReferred>false</XMP-crs:LookSupportsOutputReferred>
+ <XMP-crs:LookCopyright>© 2018 Adobe Systems, Inc.</XMP-crs:LookCopyright>
+ <XMP-crs:LookParametersVersion>16.5</XMP-crs:LookParametersVersion>
+ <XMP-crs:LookParametersProcessVersion>15.4</XMP-crs:LookParametersProcessVersion>
+ <XMP-crs:LookParametersConvertToGrayscale>False</XMP-crs:LookParametersConvertToGrayscale>
+ <XMP-crs:LookParametersToneCurvePV2012>
+  <rdf:Bag>
+   <rdf:li>0, 0</rdf:li>
+   <rdf:li>22, 16</rdf:li>
+   <rdf:li>40, 35</rdf:li>
+   <rdf:li>127, 127</rdf:li>
+   <rdf:li>224, 230</rdf:li>
+   <rdf:li>240, 246</rdf:li>
+   <rdf:li>255, 255</rdf:li>
+  </rdf:Bag>
+ </XMP-crs:LookParametersToneCurvePV2012>
+ <XMP-crs:LookParametersToneCurvePV2012Red>
+  <rdf:Bag>
+   <rdf:li>0, 0</rdf:li>
+   <rdf:li>255, 255</rdf:li>
+  </rdf:Bag>
+ </XMP-crs:LookParametersToneCurvePV2012Red>
+ <XMP-crs:LookParametersToneCurvePV2012Green>
+  <rdf:Bag>
+   <rdf:li>0, 0</rdf:li>
+   <rdf:li>255, 255</rdf:li>
+  </rdf:Bag>
+ </XMP-crs:LookParametersToneCurvePV2012Green>
+ <XMP-crs:LookParametersToneCurvePV2012Blue>
+  <rdf:Bag>
+   <rdf:li>0, 0</rdf:li>
+   <rdf:li>255, 255</rdf:li>
+  </rdf:Bag>
+ </XMP-crs:LookParametersToneCurvePV2012Blue>
+ <XMP-crs:LookParametersCameraProfile>Adobe Standard</XMP-crs:LookParametersCameraProfile>
+ <XMP-crs:LookParametersLookTable>E1095149FDB39D7A057BAB208837E2E1</XMP-crs:LookParametersLookTable>
+ <XMP-crs:HasSettings>True</XMP-crs:HasSettings>
+ <XMP-crs:HasCrop>False</XMP-crs:HasCrop>
+ <XMP-crs:AlreadyApplied>True</XMP-crs:AlreadyApplied>
+ <XMP-xmpRights:Marked>False</XMP-xmpRights:Marked>
+ <XMP-tiff:ImageWidth>5467</XMP-tiff:ImageWidth>
+ <XMP-tiff:ImageHeight>2381</XMP-tiff:ImageHeight>
+ <XMP-tiff:BitsPerSample>
+  <rdf:Bag>
+   <rdf:li>16</rdf:li>
+   <rdf:li>16</rdf:li>
+   <rdf:li>16</rdf:li>
+  </rdf:Bag>
+ </XMP-tiff:BitsPerSample>
+ <XMP-tiff:Compression>Uncompressed</XMP-tiff:Compression>
+ <XMP-tiff:PhotometricInterpretation>RGB</XMP-tiff:PhotometricInterpretation>
+ <XMP-tiff:Orientation>Horizontal (normal)</XMP-tiff:Orientation>
+ <XMP-tiff:SamplesPerPixel>3</XMP-tiff:SamplesPerPixel>
+ <XMP-tiff:PlanarConfiguration>Chunky</XMP-tiff:PlanarConfiguration>
+ <XMP-tiff:XResolution>300</XMP-tiff:XResolution>
+ <XMP-tiff:YResolution>300</XMP-tiff:YResolution>
+ <XMP-tiff:ResolutionUnit>inches</XMP-tiff:ResolutionUnit>
+ <XMP-tiff:Make>Canon</XMP-tiff:Make>
+ <XMP-tiff:Model>Canon EOS 5D Mark III</XMP-tiff:Model>
+ <XMP-exif:ExifVersion>0230</XMP-exif:ExifVersion>
+ <XMP-exif:ColorSpace>Uncalibrated</XMP-exif:ColorSpace>
+ <XMP-exif:ExifImageWidth>5467</XMP-exif:ExifImageWidth>
+ <XMP-exif:ExifImageHeight>2381</XMP-exif:ExifImageHeight>
+ <XMP-exif:DateTimeOriginal>2025:03:21 12:19:57</XMP-exif:DateTimeOriginal>
+ <XMP-exif:ExposureTime>1/160</XMP-exif:ExposureTime>
+ <XMP-exif:FNumber>3.2</XMP-exif:FNumber>
+ <XMP-exif:ExposureProgram>Manual</XMP-exif:ExposureProgram>
+ <XMP-exif:ISO>800</XMP-exif:ISO>
+ <XMP-exif:ShutterSpeedValue>1/160</XMP-exif:ShutterSpeedValue>
+ <XMP-exif:ApertureValue>3.2</XMP-exif:ApertureValue>
+ <XMP-exif:ExposureCompensation>0</XMP-exif:ExposureCompensation>
+ <XMP-exif:MaxApertureValue>1.4</XMP-exif:MaxApertureValue>
+ <XMP-exif:MeteringMode>Center-weighted average</XMP-exif:MeteringMode>
+ <XMP-exif:FlashFired>False</XMP-exif:FlashFired>
+ <XMP-exif:FlashReturn>No return detection</XMP-exif:FlashReturn>
+ <XMP-exif:FlashMode>Off</XMP-exif:FlashMode>
+ <XMP-exif:FlashFunction>False</XMP-exif:FlashFunction>
+ <XMP-exif:FlashRedEyeMode>False</XMP-exif:FlashRedEyeMode>
+ <XMP-exif:FocalLength>50.0 mm</XMP-exif:FocalLength>
+ <XMP-exif:FocalPlaneXResolution>1600</XMP-exif:FocalPlaneXResolution>
+ <XMP-exif:FocalPlaneYResolution>1600</XMP-exif:FocalPlaneYResolution>
+ <XMP-exif:FocalPlaneResolutionUnit>cm</XMP-exif:FocalPlaneResolutionUnit>
+ <XMP-exif:CustomRendered>Normal</XMP-exif:CustomRendered>
+ <XMP-exif:ExposureMode>Manual</XMP-exif:ExposureMode>
+ <XMP-exif:WhiteBalance>Auto</XMP-exif:WhiteBalance>
+ <XMP-exif:SceneCaptureType>Standard</XMP-exif:SceneCaptureType>
+ <XMP-exif:SubSecTime>33</XMP-exif:SubSecTime>
+ <XMP-exif:SubSecTimeOriginal>33</XMP-exif:SubSecTimeOriginal>
+ <XMP-exif:SubSecTimeDigitized>33</XMP-exif:SubSecTimeDigitized>
+ <XMP-exif:SerialNumber>033023000916</XMP-exif:SerialNumber>
+ <XMP-exif:LensInfo>50</XMP-exif:LensInfo>
+ <XMP-exif:Lens>50mm F1.4 DG HSM | Art 014</XMP-exif:Lens>
+ <XMP-exif:LensSerialNumber>0000000000</XMP-exif:LensSerialNumber>
+ <XMP-exif:SensitivityType>2</XMP-exif:SensitivityType>
+ <XMP-exif:RecommendedExposureIndex>800</XMP-exif:RecommendedExposureIndex>
+ <IPTC:CodedCharacterSet>UTF8</IPTC:CodedCharacterSet>
+ <IPTC:ApplicationRecordVersion>0</IPTC:ApplicationRecordVersion>
+ <IPTC:Caption-Abstract>Album från Sjuksköterskors insamling för sommarstuga, 1931-1933.  Från Medicinhistoriska museet i Göteborg, Sverige. Album donerat år 1998 av Gertrud Andersson.  </IPTC:Caption-Abstract>
+ <IPTC:By-line>Unknown</IPTC:By-line>
+ <IPTC:ObjectName>stugan_album_uppslag10</IPTC:ObjectName>
+ <IPTC:DateCreated>2025:03:21</IPTC:DateCreated>
+ <IPTC:TimeCreated>12:19:57</IPTC:TimeCreated>
+ <IPTC:City>Göteborg</IPTC:City>
+ <IPTC:Country-PrimaryLocationName>Sverige</IPTC:Country-PrimaryLocationName>
+ <IPTC:Keywords>
+  <rdf:Bag>
+   <rdf:li>history of medicine</rdf:li>
+   <rdf:li>nurses</rdf:li>
+   <rdf:li>nurses´residences</rdf:li>
+   <rdf:li>photograph albums</rdf:li>
+  </rdf:Bag>
+ </IPTC:Keywords>
+ <Photoshop:IPTCDigest>db1c3160ca89d61751b4c0b73f202a79</Photoshop:IPTCDigest>
+ <Photoshop:XResolution>300</Photoshop:XResolution>
+ <Photoshop:DisplayedUnitsX>inches</Photoshop:DisplayedUnitsX>
+ <Photoshop:YResolution>300</Photoshop:YResolution>
+ <Photoshop:DisplayedUnitsY>inches</Photoshop:DisplayedUnitsY>
+ <Photoshop:PrintStyle>Centered</Photoshop:PrintStyle>
+ <Photoshop:PrintPosition>0 0</Photoshop:PrintPosition>
+ <Photoshop:PrintScale>1</Photoshop:PrintScale>
+ <Photoshop:GlobalAngle>30</Photoshop:GlobalAngle>
+ <Photoshop:GlobalAltitude>30</Photoshop:GlobalAltitude>
+ <Photoshop:CopyrightFlag>False</Photoshop:CopyrightFlag>
+ <Photoshop:URL_List>
+  <rdf:Bag>
+  </rdf:Bag>
+ </Photoshop:URL_List>
+ <Photoshop:SlicesGroupName>10</Photoshop:SlicesGroupName>
+ <Photoshop:NumSlices>1</Photoshop:NumSlices>
+ <Photoshop:PixelAspectRatio>1</Photoshop:PixelAspectRatio>
+ <Photoshop:PhotoshopThumbnail>(Binary data 3572 bytes, use -b option to extract)</Photoshop:PhotoshopThumbnail>
+ <Photoshop:HasRealMergedData>Yes</Photoshop:HasRealMergedData>
+ <Photoshop:WriterName>Adobe Photoshop</Photoshop:WriterName>
+ <Photoshop:ReaderName>Adobe Photoshop 2024</Photoshop:ReaderName>
+ <ExifIFD:ExposureTime>1/160</ExifIFD:ExposureTime>
+ <ExifIFD:FNumber>3.2</ExifIFD:FNumber>
+ <ExifIFD:ExposureProgram>Manual</ExifIFD:ExposureProgram>
+ <ExifIFD:ISO>800</ExifIFD:ISO>
+ <ExifIFD:SensitivityType>Recommended Exposure Index</ExifIFD:SensitivityType>
+ <ExifIFD:RecommendedExposureIndex>800</ExifIFD:RecommendedExposureIndex>
+ <ExifIFD:ExifVersion>0230</ExifIFD:ExifVersion>
+ <ExifIFD:DateTimeOriginal>2025:03:21 12:19:57</ExifIFD:DateTimeOriginal>
+ <ExifIFD:CreateDate>2025:03:21 12:19:57</ExifIFD:CreateDate>
+ <ExifIFD:ShutterSpeedValue>1/160</ExifIFD:ShutterSpeedValue>
+ <ExifIFD:ApertureValue>3.2</ExifIFD:ApertureValue>
+ <ExifIFD:ExposureCompensation>0</ExifIFD:ExposureCompensation>
+ <ExifIFD:MaxApertureValue>1.4</ExifIFD:MaxApertureValue>
+ <ExifIFD:MeteringMode>Center-weighted average</ExifIFD:MeteringMode>
+ <ExifIFD:Flash>Off, Did not fire</ExifIFD:Flash>
+ <ExifIFD:FocalLength>50.0 mm</ExifIFD:FocalLength>
+ <ExifIFD:SubSecTime>33</ExifIFD:SubSecTime>
+ <ExifIFD:SubSecTimeOriginal>33</ExifIFD:SubSecTimeOriginal>
+ <ExifIFD:SubSecTimeDigitized>33</ExifIFD:SubSecTimeDigitized>
+ <ExifIFD:ColorSpace>Uncalibrated</ExifIFD:ColorSpace>
+ <ExifIFD:ExifImageWidth>5467</ExifIFD:ExifImageWidth>
+ <ExifIFD:ExifImageHeight>2381</ExifIFD:ExifImageHeight>
+ <ExifIFD:FocalPlaneXResolution>1600</ExifIFD:FocalPlaneXResolution>
+ <ExifIFD:FocalPlaneYResolution>1600</ExifIFD:FocalPlaneYResolution>
+ <ExifIFD:FocalPlaneResolutionUnit>cm</ExifIFD:FocalPlaneResolutionUnit>
+ <ExifIFD:CustomRendered>Normal</ExifIFD:CustomRendered>
+ <ExifIFD:ExposureMode>Manual</ExifIFD:ExposureMode>
+ <ExifIFD:WhiteBalance>Auto</ExifIFD:WhiteBalance>
+ <ExifIFD:SceneCaptureType>Standard</ExifIFD:SceneCaptureType>
+ <ExifIFD:SerialNumber>033023000916</ExifIFD:SerialNumber>
+ <ExifIFD:LensInfo>50mm f/?</ExifIFD:LensInfo>
+ <ExifIFD:LensModel>50mm F1.4 DG HSM | Art 014</ExifIFD:LensModel>
+ <ExifIFD:LensSerialNumber>0000000000</ExifIFD:LensSerialNumber>
+ <ICC-header:ProfileCMMType>Adobe Systems Inc.</ICC-header:ProfileCMMType>
+ <ICC-header:ProfileVersion>2.1.0</ICC-header:ProfileVersion>
+ <ICC-header:ProfileClass>Display Device Profile</ICC-header:ProfileClass>
+ <ICC-header:ColorSpaceData>RGB </ICC-header:ColorSpaceData>
+ <ICC-header:ProfileConnectionSpace>XYZ </ICC-header:ProfileConnectionSpace>
+ <ICC-header:ProfileDateTime>1999:06:03 00:00:00</ICC-header:ProfileDateTime>
+ <ICC-header:ProfileFileSignature>acsp</ICC-header:ProfileFileSignature>
+ <ICC-header:PrimaryPlatform>Apple Computer Inc.</ICC-header:PrimaryPlatform>
+ <ICC-header:CMMFlags>Not Embedded, Independent</ICC-header:CMMFlags>
+ <ICC-header:DeviceManufacturer>none</ICC-header:DeviceManufacturer>
+ <ICC-header:DeviceModel></ICC-header:DeviceModel>
+ <ICC-header:DeviceAttributes>Reflective, Glossy, Positive, Color</ICC-header:DeviceAttributes>
+ <ICC-header:RenderingIntent>Media-Relative Colorimetric</ICC-header:RenderingIntent>
+ <ICC-header:ConnectionSpaceIlluminant>0.9642 1 0.82491</ICC-header:ConnectionSpaceIlluminant>
+ <ICC-header:ProfileCreator>Adobe Systems Inc.</ICC-header:ProfileCreator>
+ <ICC-header:ProfileID>0</ICC-header:ProfileID>
+ <ICC_Profile:ProfileCopyright>Copyright 1999 Adobe Systems Incorporated</ICC_Profile:ProfileCopyright>
+ <ICC_Profile:ProfileDescription>Adobe RGB (1998)</ICC_Profile:ProfileDescription>
+ <ICC_Profile:MediaWhitePoint>0.95045 1 1.08905</ICC_Profile:MediaWhitePoint>
+ <ICC_Profile:MediaBlackPoint>0 0 0</ICC_Profile:MediaBlackPoint>
+ <ICC_Profile:RedTRC>(Binary data 14 bytes, use -b option to extract)</ICC_Profile:RedTRC>
+ <ICC_Profile:GreenTRC>(Binary data 14 bytes, use -b option to extract)</ICC_Profile:GreenTRC>
+ <ICC_Profile:BlueTRC>(Binary data 14 bytes, use -b option to extract)</ICC_Profile:BlueTRC>
+ <ICC_Profile:RedMatrixColumn>0.60974 0.31111 0.01947</ICC_Profile:RedMatrixColumn>
+ <ICC_Profile:GreenMatrixColumn>0.20528 0.62567 0.06087</ICC_Profile:GreenMatrixColumn>
+ <ICC_Profile:BlueMatrixColumn>0.14919 0.06322 0.74457</ICC_Profile:BlueMatrixColumn>
+ <Composite:Aperture>3.2</Composite:Aperture>
+ <Composite:ImageSize>5467x2381</Composite:ImageSize>
+ <Composite:Megapixels>13.0</Composite:Megapixels>
+ <Composite:ShutterSpeed>1/160</Composite:ShutterSpeed>
+ <Composite:SubSecCreateDate>2025:03:21 12:19:57.33</Composite:SubSecCreateDate>
+ <Composite:SubSecDateTimeOriginal>2025:03:21 12:19:57.33</Composite:SubSecDateTimeOriginal>
+ <Composite:SubSecModifyDate>2025:05:02 13:17:16.33</Composite:SubSecModifyDate>
+ <Composite:DateTimeCreated>2025:03:21 12:19:57</Composite:DateTimeCreated>
+ <Composite:Flash>Off, Did not fire</Composite:Flash>
+ <Composite:FocalLength35efl>50.0 mm</Composite:FocalLength35efl>
+ <Composite:LightValue>7.7</Composite:LightValue>
+ <Composite:LensID>Sigma 50mm f/1.4 DG HSM | A</Composite:LensID>
+</rdf:Description>
+</rdf:RDF>
+
+            </xenoData>
         </teiHeader>
 
         <facsimile>
@@ -812,6 +3253,483 @@
                     <p></p>
                 </sourceDesc>
             </fileDesc>
+            <xenoData>
+            <rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+
+<rdf:Description rdf:about='/Users/annahyll/Documents/GitHub/Digitaliseringsprojekt/Foton/Tiff/14_stugan_album_uppslag14.tif'
+  xmlns:et='http://ns.exiftool.org/1.0/' et:toolkit='Image::ExifTool 13.25'
+  xmlns:ExifTool='http://ns.exiftool.org/ExifTool/1.0/'
+  xmlns:System='http://ns.exiftool.org/File/System/1.0/'
+  xmlns:File='http://ns.exiftool.org/File/1.0/'
+  xmlns:IFD0='http://ns.exiftool.org/EXIF/IFD0/1.0/'
+  xmlns:XMP-x='http://ns.exiftool.org/XMP/XMP-x/1.0/'
+  xmlns:XMP-xmp='http://ns.exiftool.org/XMP/XMP-xmp/1.0/'
+  xmlns:XMP-aux='http://ns.exiftool.org/XMP/XMP-aux/1.0/'
+  xmlns:XMP-exifEX='http://ns.exiftool.org/XMP/XMP-exifEX/1.0/'
+  xmlns:XMP-photoshop='http://ns.exiftool.org/XMP/XMP-photoshop/1.0/'
+  xmlns:XMP-xmpMM='http://ns.exiftool.org/XMP/XMP-xmpMM/1.0/'
+  xmlns:XMP-dc='http://ns.exiftool.org/XMP/XMP-dc/1.0/'
+  xmlns:XMP-crs='http://ns.exiftool.org/XMP/XMP-crs/1.0/'
+  xmlns:XMP-xmpRights='http://ns.exiftool.org/XMP/XMP-xmpRights/1.0/'
+  xmlns:XMP-tiff='http://ns.exiftool.org/XMP/XMP-tiff/1.0/'
+  xmlns:XMP-exif='http://ns.exiftool.org/XMP/XMP-exif/1.0/'
+  xmlns:IPTC='http://ns.exiftool.org/IPTC/IPTC/1.0/'
+  xmlns:Photoshop='http://ns.exiftool.org/Photoshop/Photoshop/1.0/'
+  xmlns:ExifIFD='http://ns.exiftool.org/EXIF/ExifIFD/1.0/'
+  xmlns:ICC-header='http://ns.exiftool.org/ICC_Profile/ICC-header/1.0/'
+  xmlns:ICC_Profile='http://ns.exiftool.org/ICC_Profile/ICC_Profile/1.0/'
+  xmlns:Composite='http://ns.exiftool.org/Composite/1.0/'>
+ <ExifTool:ExifToolVersion>13.25</ExifTool:ExifToolVersion>
+ <System:FileName>14_stugan_album_uppslag14.tif</System:FileName>
+ <System:Directory>/Users/annahyll/Documents/GitHub/Digitaliseringsprojekt/Foton/Tiff</System:Directory>
+ <System:FileSize>83 MB</System:FileSize>
+ <System:FileModifyDate>2025:05:11 14:06:10+02:00</System:FileModifyDate>
+ <System:FileAccessDate>2025:05:14 14:05:06+02:00</System:FileAccessDate>
+ <System:FileInodeChangeDate>2025:05:11 14:06:38+02:00</System:FileInodeChangeDate>
+ <System:FilePermissions>-rw-r--r--</System:FilePermissions>
+ <File:FileType>TIFF</File:FileType>
+ <File:FileTypeExtension>tif</File:FileTypeExtension>
+ <File:MIMEType>image/tiff</File:MIMEType>
+ <File:ExifByteOrder>Big-endian (Motorola, MM)</File:ExifByteOrder>
+ <File:CurrentIPTCDigest>ce3a0413add3ce7c58689a5a1bff4bf3</File:CurrentIPTCDigest>
+ <IFD0:SubfileType>Full-resolution image</IFD0:SubfileType>
+ <IFD0:ImageWidth>5669</IFD0:ImageWidth>
+ <IFD0:ImageHeight>2430</IFD0:ImageHeight>
+ <IFD0:BitsPerSample>16 16 16</IFD0:BitsPerSample>
+ <IFD0:Compression>Uncompressed</IFD0:Compression>
+ <IFD0:PhotometricInterpretation>RGB</IFD0:PhotometricInterpretation>
+ <IFD0:ImageDescription rdf:datatype='http://www.w3.org/2001/XMLSchema#base64Binary'>
+QWxidW0gZnKMbiBTanVrc2uadGVyc2tvcnMgaW5zYW1saW5nIGaaciBzb21t
+YXJzdHVnYSwgMTkzMS0xOTMzLiAgRnKMbiBNZWRpY2luaGlzdG9yaXNrYSBt
+dXNlZXQgaSBHmnRlYm9yZywgU3ZlcmlnZS4gQWxidW0gZG9uZXJhdCCMciAx
+OTk4IGF2IEdlcnRydWQgQW5kZXJzc29uLiAg
+</IFD0:ImageDescription>
+ <IFD0:Make>Canon</IFD0:Make>
+ <IFD0:Model>Canon EOS 5D Mark III</IFD0:Model>
+ <IFD0:StripOffsets>37348</IFD0:StripOffsets>
+ <IFD0:Orientation>Horizontal (normal)</IFD0:Orientation>
+ <IFD0:SamplesPerPixel>3</IFD0:SamplesPerPixel>
+ <IFD0:RowsPerStrip>2430</IFD0:RowsPerStrip>
+ <IFD0:StripByteCounts>82654020</IFD0:StripByteCounts>
+ <IFD0:XResolution>300</IFD0:XResolution>
+ <IFD0:YResolution>300</IFD0:YResolution>
+ <IFD0:PlanarConfiguration>Chunky</IFD0:PlanarConfiguration>
+ <IFD0:ResolutionUnit>inches</IFD0:ResolutionUnit>
+ <IFD0:Software>Adobe Photoshop 25.12 (Macintosh)</IFD0:Software>
+ <IFD0:ModifyDate>2025:05:02 13:20:58</IFD0:ModifyDate>
+ <IFD0:Artist>Unknown</IFD0:Artist>
+ <XMP-x:XMPToolkit>Adobe XMP Core 9.1-c002 79.a6a63968a, 2024/03/06-11:52:05        </XMP-x:XMPToolkit>
+ <XMP-xmp:Rating>0</XMP-xmp:Rating>
+ <XMP-xmp:ModifyDate>2025:05:02 13:20:58+02:00</XMP-xmp:ModifyDate>
+ <XMP-xmp:CreateDate>2025:03:21 12:20:48</XMP-xmp:CreateDate>
+ <XMP-xmp:MetadataDate>2025:05:02 13:20:58+02:00</XMP-xmp:MetadataDate>
+ <XMP-xmp:CreatorTool>Adobe Photoshop 25.12 (Macintosh)</XMP-xmp:CreatorTool>
+ <XMP-aux:SerialNumber>033023000916</XMP-aux:SerialNumber>
+ <XMP-aux:LensInfo>50mm f/?</XMP-aux:LensInfo>
+ <XMP-aux:Lens>50mm F1.4 DG HSM | Art 014</XMP-aux:Lens>
+ <XMP-aux:LensID>368</XMP-aux:LensID>
+ <XMP-aux:LensSerialNumber>0000000000</XMP-aux:LensSerialNumber>
+ <XMP-aux:ImageNumber>0</XMP-aux:ImageNumber>
+ <XMP-aux:ApproximateFocusDistance>1</XMP-aux:ApproximateFocusDistance>
+ <XMP-aux:FlashCompensation>0</XMP-aux:FlashCompensation>
+ <XMP-aux:Firmware>1.3.5</XMP-aux:Firmware>
+ <XMP-exifEX:LensModel>50mm F1.4 DG HSM | Art 014</XMP-exifEX:LensModel>
+ <XMP-photoshop:DateCreated>2025:03:21 12:20:48.016</XMP-photoshop:DateCreated>
+ <XMP-photoshop:ColorMode>RGB</XMP-photoshop:ColorMode>
+ <XMP-photoshop:ICCProfileName>Adobe RGB (1998)</XMP-photoshop:ICCProfileName>
+ <XMP-photoshop:Country>Sverige</XMP-photoshop:Country>
+ <XMP-photoshop:City>Göteborg</XMP-photoshop:City>
+ <XMP-xmpMM:DocumentID>adobe:docid:photoshop:94c71326-3be5-0c41-bfcf-73af7a4afb0e</XMP-xmpMM:DocumentID>
+ <XMP-xmpMM:HistoryAction>
+  <rdf:Bag>
+   <rdf:li>derived</rdf:li>
+   <rdf:li>saved</rdf:li>
+   <rdf:li>saved</rdf:li>
+  </rdf:Bag>
+ </XMP-xmpMM:HistoryAction>
+ <XMP-xmpMM:HistoryParameters>converted from image/x-canon-cr2 to image/tiff</XMP-xmpMM:HistoryParameters>
+ <XMP-xmpMM:HistoryInstanceID>
+  <rdf:Bag>
+   <rdf:li>xmp.iid:cd7328ea-fc04-4132-9198-57b43f4ef74c</rdf:li>
+   <rdf:li>xmp.iid:bb5dff09-b2d9-43f6-8533-866a9b453180</rdf:li>
+  </rdf:Bag>
+ </XMP-xmpMM:HistoryInstanceID>
+ <XMP-xmpMM:HistoryWhen>
+  <rdf:Bag>
+   <rdf:li>2025:04:22 12:54:32+02:00</rdf:li>
+   <rdf:li>2025:05:02 13:20:58+02:00</rdf:li>
+  </rdf:Bag>
+ </XMP-xmpMM:HistoryWhen>
+ <XMP-xmpMM:HistorySoftwareAgent>
+  <rdf:Bag>
+   <rdf:li>Adobe Photoshop Camera Raw 16.5 (Macintosh)</rdf:li>
+   <rdf:li>Adobe Photoshop 25.12 (Macintosh)</rdf:li>
+  </rdf:Bag>
+ </XMP-xmpMM:HistorySoftwareAgent>
+ <XMP-xmpMM:HistoryChanged>
+  <rdf:Bag>
+   <rdf:li>/</rdf:li>
+   <rdf:li>/</rdf:li>
+  </rdf:Bag>
+ </XMP-xmpMM:HistoryChanged>
+ <XMP-xmpMM:OriginalDocumentID>992D828D106894BCD96DEE5EC0CFD875</XMP-xmpMM:OriginalDocumentID>
+ <XMP-xmpMM:DerivedFromDocumentID>992D828D106894BCD96DEE5EC0CFD875</XMP-xmpMM:DerivedFromDocumentID>
+ <XMP-xmpMM:DerivedFromOriginalDocumentID>992D828D106894BCD96DEE5EC0CFD875</XMP-xmpMM:DerivedFromOriginalDocumentID>
+ <XMP-xmpMM:InstanceID>xmp.iid:bb5dff09-b2d9-43f6-8533-866a9b453180</XMP-xmpMM:InstanceID>
+ <XMP-dc:Format>image/tiff</XMP-dc:Format>
+ <XMP-dc:Title>stugan_album_uppslag14</XMP-dc:Title>
+ <XMP-dc:Description>Album från Sjuksköterskors insamling för sommarstuga, 1931-1933.  Från Medicinhistoriska museet i Göteborg, Sverige. Album donerat år 1998 av Gertrud Andersson.  </XMP-dc:Description>
+ <XMP-dc:Subject>
+  <rdf:Bag>
+   <rdf:li>history of medicine</rdf:li>
+   <rdf:li>nurses</rdf:li>
+   <rdf:li>nurses´residences</rdf:li>
+   <rdf:li>photograph albums</rdf:li>
+  </rdf:Bag>
+ </XMP-dc:Subject>
+ <XMP-dc:Creator>Unknown</XMP-dc:Creator>
+ <XMP-crs:Version>16.5</XMP-crs:Version>
+ <XMP-crs:ProcessVersion>15.4</XMP-crs:ProcessVersion>
+ <XMP-crs:WhiteBalance>Custom</XMP-crs:WhiteBalance>
+ <XMP-crs:ColorTemperature>7000</XMP-crs:ColorTemperature>
+ <XMP-crs:Tint>-6</XMP-crs:Tint>
+ <XMP-crs:Exposure2012>+0.50</XMP-crs:Exposure2012>
+ <XMP-crs:Contrast2012>+4</XMP-crs:Contrast2012>
+ <XMP-crs:Highlights2012>0</XMP-crs:Highlights2012>
+ <XMP-crs:Shadows2012>0</XMP-crs:Shadows2012>
+ <XMP-crs:Whites2012>0</XMP-crs:Whites2012>
+ <XMP-crs:Blacks2012>0</XMP-crs:Blacks2012>
+ <XMP-crs:Texture>+11</XMP-crs:Texture>
+ <XMP-crs:Clarity2012>+5</XMP-crs:Clarity2012>
+ <XMP-crs:Dehaze>0</XMP-crs:Dehaze>
+ <XMP-crs:Vibrance>0</XMP-crs:Vibrance>
+ <XMP-crs:Saturation>-18</XMP-crs:Saturation>
+ <XMP-crs:ParametricShadows>0</XMP-crs:ParametricShadows>
+ <XMP-crs:ParametricDarks>0</XMP-crs:ParametricDarks>
+ <XMP-crs:ParametricLights>0</XMP-crs:ParametricLights>
+ <XMP-crs:ParametricHighlights>0</XMP-crs:ParametricHighlights>
+ <XMP-crs:ParametricShadowSplit>25</XMP-crs:ParametricShadowSplit>
+ <XMP-crs:ParametricMidtoneSplit>50</XMP-crs:ParametricMidtoneSplit>
+ <XMP-crs:ParametricHighlightSplit>75</XMP-crs:ParametricHighlightSplit>
+ <XMP-crs:Sharpness>40</XMP-crs:Sharpness>
+ <XMP-crs:SharpenRadius>+1.0</XMP-crs:SharpenRadius>
+ <XMP-crs:SharpenDetail>25</XMP-crs:SharpenDetail>
+ <XMP-crs:SharpenEdgeMasking>0</XMP-crs:SharpenEdgeMasking>
+ <XMP-crs:LuminanceSmoothing>0</XMP-crs:LuminanceSmoothing>
+ <XMP-crs:ColorNoiseReduction>25</XMP-crs:ColorNoiseReduction>
+ <XMP-crs:ColorNoiseReductionDetail>50</XMP-crs:ColorNoiseReductionDetail>
+ <XMP-crs:ColorNoiseReductionSmoothness>50</XMP-crs:ColorNoiseReductionSmoothness>
+ <XMP-crs:HueAdjustmentRed>0</XMP-crs:HueAdjustmentRed>
+ <XMP-crs:HueAdjustmentOrange>0</XMP-crs:HueAdjustmentOrange>
+ <XMP-crs:HueAdjustmentYellow>0</XMP-crs:HueAdjustmentYellow>
+ <XMP-crs:HueAdjustmentGreen>0</XMP-crs:HueAdjustmentGreen>
+ <XMP-crs:HueAdjustmentAqua>0</XMP-crs:HueAdjustmentAqua>
+ <XMP-crs:HueAdjustmentBlue>0</XMP-crs:HueAdjustmentBlue>
+ <XMP-crs:HueAdjustmentPurple>0</XMP-crs:HueAdjustmentPurple>
+ <XMP-crs:HueAdjustmentMagenta>0</XMP-crs:HueAdjustmentMagenta>
+ <XMP-crs:SaturationAdjustmentRed>0</XMP-crs:SaturationAdjustmentRed>
+ <XMP-crs:SaturationAdjustmentOrange>0</XMP-crs:SaturationAdjustmentOrange>
+ <XMP-crs:SaturationAdjustmentYellow>0</XMP-crs:SaturationAdjustmentYellow>
+ <XMP-crs:SaturationAdjustmentGreen>0</XMP-crs:SaturationAdjustmentGreen>
+ <XMP-crs:SaturationAdjustmentAqua>0</XMP-crs:SaturationAdjustmentAqua>
+ <XMP-crs:SaturationAdjustmentBlue>0</XMP-crs:SaturationAdjustmentBlue>
+ <XMP-crs:SaturationAdjustmentPurple>0</XMP-crs:SaturationAdjustmentPurple>
+ <XMP-crs:SaturationAdjustmentMagenta>0</XMP-crs:SaturationAdjustmentMagenta>
+ <XMP-crs:LuminanceAdjustmentRed>0</XMP-crs:LuminanceAdjustmentRed>
+ <XMP-crs:LuminanceAdjustmentOrange>0</XMP-crs:LuminanceAdjustmentOrange>
+ <XMP-crs:LuminanceAdjustmentYellow>0</XMP-crs:LuminanceAdjustmentYellow>
+ <XMP-crs:LuminanceAdjustmentGreen>0</XMP-crs:LuminanceAdjustmentGreen>
+ <XMP-crs:LuminanceAdjustmentAqua>0</XMP-crs:LuminanceAdjustmentAqua>
+ <XMP-crs:LuminanceAdjustmentBlue>0</XMP-crs:LuminanceAdjustmentBlue>
+ <XMP-crs:LuminanceAdjustmentPurple>0</XMP-crs:LuminanceAdjustmentPurple>
+ <XMP-crs:LuminanceAdjustmentMagenta>0</XMP-crs:LuminanceAdjustmentMagenta>
+ <XMP-crs:SplitToningShadowHue>0</XMP-crs:SplitToningShadowHue>
+ <XMP-crs:SplitToningShadowSaturation>0</XMP-crs:SplitToningShadowSaturation>
+ <XMP-crs:SplitToningHighlightHue>0</XMP-crs:SplitToningHighlightHue>
+ <XMP-crs:SplitToningHighlightSaturation>0</XMP-crs:SplitToningHighlightSaturation>
+ <XMP-crs:SplitToningBalance>0</XMP-crs:SplitToningBalance>
+ <XMP-crs:ColorGradeMidtoneHue>0</XMP-crs:ColorGradeMidtoneHue>
+ <XMP-crs:ColorGradeMidtoneSat>0</XMP-crs:ColorGradeMidtoneSat>
+ <XMP-crs:ColorGradeShadowLum>0</XMP-crs:ColorGradeShadowLum>
+ <XMP-crs:ColorGradeMidtoneLum>0</XMP-crs:ColorGradeMidtoneLum>
+ <XMP-crs:ColorGradeHighlightLum>0</XMP-crs:ColorGradeHighlightLum>
+ <XMP-crs:ColorGradeBlending>50</XMP-crs:ColorGradeBlending>
+ <XMP-crs:ColorGradeGlobalHue>0</XMP-crs:ColorGradeGlobalHue>
+ <XMP-crs:ColorGradeGlobalSat>0</XMP-crs:ColorGradeGlobalSat>
+ <XMP-crs:ColorGradeGlobalLum>0</XMP-crs:ColorGradeGlobalLum>
+ <XMP-crs:AutoLateralCA>0</XMP-crs:AutoLateralCA>
+ <XMP-crs:LensProfileEnable>0</XMP-crs:LensProfileEnable>
+ <XMP-crs:LensManualDistortionAmount>0</XMP-crs:LensManualDistortionAmount>
+ <XMP-crs:VignetteAmount>0</XMP-crs:VignetteAmount>
+ <XMP-crs:DefringePurpleAmount>0</XMP-crs:DefringePurpleAmount>
+ <XMP-crs:DefringePurpleHueLo>30</XMP-crs:DefringePurpleHueLo>
+ <XMP-crs:DefringePurpleHueHi>70</XMP-crs:DefringePurpleHueHi>
+ <XMP-crs:DefringeGreenAmount>0</XMP-crs:DefringeGreenAmount>
+ <XMP-crs:DefringeGreenHueLo>40</XMP-crs:DefringeGreenHueLo>
+ <XMP-crs:DefringeGreenHueHi>60</XMP-crs:DefringeGreenHueHi>
+ <XMP-crs:PerspectiveUpright>Off</XMP-crs:PerspectiveUpright>
+ <XMP-crs:PerspectiveVertical>0</XMP-crs:PerspectiveVertical>
+ <XMP-crs:PerspectiveHorizontal>0</XMP-crs:PerspectiveHorizontal>
+ <XMP-crs:PerspectiveRotate>0.0</XMP-crs:PerspectiveRotate>
+ <XMP-crs:PerspectiveAspect>0</XMP-crs:PerspectiveAspect>
+ <XMP-crs:PerspectiveScale>100</XMP-crs:PerspectiveScale>
+ <XMP-crs:PerspectiveX>0.00</XMP-crs:PerspectiveX>
+ <XMP-crs:PerspectiveY>0.00</XMP-crs:PerspectiveY>
+ <XMP-crs:GrainAmount>0</XMP-crs:GrainAmount>
+ <XMP-crs:PostCropVignetteAmount>0</XMP-crs:PostCropVignetteAmount>
+ <XMP-crs:ShadowTint>0</XMP-crs:ShadowTint>
+ <XMP-crs:RedHue>0</XMP-crs:RedHue>
+ <XMP-crs:RedSaturation>0</XMP-crs:RedSaturation>
+ <XMP-crs:GreenHue>0</XMP-crs:GreenHue>
+ <XMP-crs:GreenSaturation>0</XMP-crs:GreenSaturation>
+ <XMP-crs:BlueHue>0</XMP-crs:BlueHue>
+ <XMP-crs:BlueSaturation>0</XMP-crs:BlueSaturation>
+ <XMP-crs:HDREditMode>0</XMP-crs:HDREditMode>
+ <XMP-crs:OverrideLookVignette>False</XMP-crs:OverrideLookVignette>
+ <XMP-crs:ToneCurveName2012>Linear</XMP-crs:ToneCurveName2012>
+ <XMP-crs:ToneCurvePV2012>
+  <rdf:Bag>
+   <rdf:li>0, 0</rdf:li>
+   <rdf:li>255, 255</rdf:li>
+  </rdf:Bag>
+ </XMP-crs:ToneCurvePV2012>
+ <XMP-crs:ToneCurvePV2012Red>
+  <rdf:Bag>
+   <rdf:li>0, 0</rdf:li>
+   <rdf:li>255, 255</rdf:li>
+  </rdf:Bag>
+ </XMP-crs:ToneCurvePV2012Red>
+ <XMP-crs:ToneCurvePV2012Green>
+  <rdf:Bag>
+   <rdf:li>0, 0</rdf:li>
+   <rdf:li>255, 255</rdf:li>
+  </rdf:Bag>
+ </XMP-crs:ToneCurvePV2012Green>
+ <XMP-crs:ToneCurvePV2012Blue>
+  <rdf:Bag>
+   <rdf:li>0, 0</rdf:li>
+   <rdf:li>255, 255</rdf:li>
+  </rdf:Bag>
+ </XMP-crs:ToneCurvePV2012Blue>
+ <XMP-crs:PointColors>-1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000</XMP-crs:PointColors>
+ <XMP-crs:CameraProfile>Adobe Standard</XMP-crs:CameraProfile>
+ <XMP-crs:CameraProfileDigest>87FB0EDC503E332309FB5DE5C5C65125</XMP-crs:CameraProfileDigest>
+ <XMP-crs:LookName>Adobe Color</XMP-crs:LookName>
+ <XMP-crs:LookAmount>1</XMP-crs:LookAmount>
+ <XMP-crs:LookGroup>Profiles</XMP-crs:LookGroup>
+ <XMP-crs:LookUUID>B952C231111CD8E0ECCF14B86BAA7077</XMP-crs:LookUUID>
+ <XMP-crs:LookSupportsAmount>false</XMP-crs:LookSupportsAmount>
+ <XMP-crs:LookSupportsMonochrome>false</XMP-crs:LookSupportsMonochrome>
+ <XMP-crs:LookSupportsOutputReferred>false</XMP-crs:LookSupportsOutputReferred>
+ <XMP-crs:LookCopyright>© 2018 Adobe Systems, Inc.</XMP-crs:LookCopyright>
+ <XMP-crs:LookParametersVersion>16.5</XMP-crs:LookParametersVersion>
+ <XMP-crs:LookParametersProcessVersion>15.4</XMP-crs:LookParametersProcessVersion>
+ <XMP-crs:LookParametersConvertToGrayscale>False</XMP-crs:LookParametersConvertToGrayscale>
+ <XMP-crs:LookParametersToneCurvePV2012>
+  <rdf:Bag>
+   <rdf:li>0, 0</rdf:li>
+   <rdf:li>22, 16</rdf:li>
+   <rdf:li>40, 35</rdf:li>
+   <rdf:li>127, 127</rdf:li>
+   <rdf:li>224, 230</rdf:li>
+   <rdf:li>240, 246</rdf:li>
+   <rdf:li>255, 255</rdf:li>
+  </rdf:Bag>
+ </XMP-crs:LookParametersToneCurvePV2012>
+ <XMP-crs:LookParametersToneCurvePV2012Red>
+  <rdf:Bag>
+   <rdf:li>0, 0</rdf:li>
+   <rdf:li>255, 255</rdf:li>
+  </rdf:Bag>
+ </XMP-crs:LookParametersToneCurvePV2012Red>
+ <XMP-crs:LookParametersToneCurvePV2012Green>
+  <rdf:Bag>
+   <rdf:li>0, 0</rdf:li>
+   <rdf:li>255, 255</rdf:li>
+  </rdf:Bag>
+ </XMP-crs:LookParametersToneCurvePV2012Green>
+ <XMP-crs:LookParametersToneCurvePV2012Blue>
+  <rdf:Bag>
+   <rdf:li>0, 0</rdf:li>
+   <rdf:li>255, 255</rdf:li>
+  </rdf:Bag>
+ </XMP-crs:LookParametersToneCurvePV2012Blue>
+ <XMP-crs:LookParametersCameraProfile>Adobe Standard</XMP-crs:LookParametersCameraProfile>
+ <XMP-crs:LookParametersLookTable>E1095149FDB39D7A057BAB208837E2E1</XMP-crs:LookParametersLookTable>
+ <XMP-crs:HasSettings>True</XMP-crs:HasSettings>
+ <XMP-crs:HasCrop>False</XMP-crs:HasCrop>
+ <XMP-crs:AlreadyApplied>True</XMP-crs:AlreadyApplied>
+ <XMP-xmpRights:Marked>False</XMP-xmpRights:Marked>
+ <XMP-tiff:ImageWidth>5669</XMP-tiff:ImageWidth>
+ <XMP-tiff:ImageHeight>2430</XMP-tiff:ImageHeight>
+ <XMP-tiff:BitsPerSample>
+  <rdf:Bag>
+   <rdf:li>16</rdf:li>
+   <rdf:li>16</rdf:li>
+   <rdf:li>16</rdf:li>
+  </rdf:Bag>
+ </XMP-tiff:BitsPerSample>
+ <XMP-tiff:Compression>Uncompressed</XMP-tiff:Compression>
+ <XMP-tiff:PhotometricInterpretation>RGB</XMP-tiff:PhotometricInterpretation>
+ <XMP-tiff:Orientation>Horizontal (normal)</XMP-tiff:Orientation>
+ <XMP-tiff:SamplesPerPixel>3</XMP-tiff:SamplesPerPixel>
+ <XMP-tiff:PlanarConfiguration>Chunky</XMP-tiff:PlanarConfiguration>
+ <XMP-tiff:XResolution>300</XMP-tiff:XResolution>
+ <XMP-tiff:YResolution>300</XMP-tiff:YResolution>
+ <XMP-tiff:ResolutionUnit>inches</XMP-tiff:ResolutionUnit>
+ <XMP-tiff:Make>Canon</XMP-tiff:Make>
+ <XMP-tiff:Model>Canon EOS 5D Mark III</XMP-tiff:Model>
+ <XMP-exif:ExifVersion>0230</XMP-exif:ExifVersion>
+ <XMP-exif:ColorSpace>Uncalibrated</XMP-exif:ColorSpace>
+ <XMP-exif:ExifImageWidth>5669</XMP-exif:ExifImageWidth>
+ <XMP-exif:ExifImageHeight>2430</XMP-exif:ExifImageHeight>
+ <XMP-exif:DateTimeOriginal>2025:03:21 12:20:48</XMP-exif:DateTimeOriginal>
+ <XMP-exif:ExposureTime>1/160</XMP-exif:ExposureTime>
+ <XMP-exif:FNumber>3.2</XMP-exif:FNumber>
+ <XMP-exif:ExposureProgram>Manual</XMP-exif:ExposureProgram>
+ <XMP-exif:ISO>800</XMP-exif:ISO>
+ <XMP-exif:ShutterSpeedValue>1/160</XMP-exif:ShutterSpeedValue>
+ <XMP-exif:ApertureValue>3.2</XMP-exif:ApertureValue>
+ <XMP-exif:ExposureCompensation>0</XMP-exif:ExposureCompensation>
+ <XMP-exif:MaxApertureValue>1.4</XMP-exif:MaxApertureValue>
+ <XMP-exif:MeteringMode>Center-weighted average</XMP-exif:MeteringMode>
+ <XMP-exif:FlashFired>False</XMP-exif:FlashFired>
+ <XMP-exif:FlashReturn>No return detection</XMP-exif:FlashReturn>
+ <XMP-exif:FlashMode>Off</XMP-exif:FlashMode>
+ <XMP-exif:FlashFunction>False</XMP-exif:FlashFunction>
+ <XMP-exif:FlashRedEyeMode>False</XMP-exif:FlashRedEyeMode>
+ <XMP-exif:FocalLength>50.0 mm</XMP-exif:FocalLength>
+ <XMP-exif:FocalPlaneXResolution>1600</XMP-exif:FocalPlaneXResolution>
+ <XMP-exif:FocalPlaneYResolution>1600</XMP-exif:FocalPlaneYResolution>
+ <XMP-exif:FocalPlaneResolutionUnit>cm</XMP-exif:FocalPlaneResolutionUnit>
+ <XMP-exif:CustomRendered>Normal</XMP-exif:CustomRendered>
+ <XMP-exif:ExposureMode>Manual</XMP-exif:ExposureMode>
+ <XMP-exif:WhiteBalance>Auto</XMP-exif:WhiteBalance>
+ <XMP-exif:SceneCaptureType>Standard</XMP-exif:SceneCaptureType>
+ <XMP-exif:SubSecTime>16</XMP-exif:SubSecTime>
+ <XMP-exif:SubSecTimeOriginal>16</XMP-exif:SubSecTimeOriginal>
+ <XMP-exif:SubSecTimeDigitized>16</XMP-exif:SubSecTimeDigitized>
+ <XMP-exif:SerialNumber>033023000916</XMP-exif:SerialNumber>
+ <XMP-exif:LensInfo>50</XMP-exif:LensInfo>
+ <XMP-exif:Lens>50mm F1.4 DG HSM | Art 014</XMP-exif:Lens>
+ <XMP-exif:LensSerialNumber>0000000000</XMP-exif:LensSerialNumber>
+ <XMP-exif:SensitivityType>2</XMP-exif:SensitivityType>
+ <XMP-exif:RecommendedExposureIndex>800</XMP-exif:RecommendedExposureIndex>
+ <IPTC:CodedCharacterSet>UTF8</IPTC:CodedCharacterSet>
+ <IPTC:ApplicationRecordVersion>0</IPTC:ApplicationRecordVersion>
+ <IPTC:Caption-Abstract>Album från Sjuksköterskors insamling för sommarstuga, 1931-1933.  Från Medicinhistoriska museet i Göteborg, Sverige. Album donerat år 1998 av Gertrud Andersson.  </IPTC:Caption-Abstract>
+ <IPTC:By-line>Unknown</IPTC:By-line>
+ <IPTC:ObjectName>stugan_album_uppslag14</IPTC:ObjectName>
+ <IPTC:DateCreated>2025:03:21</IPTC:DateCreated>
+ <IPTC:TimeCreated>12:20:48</IPTC:TimeCreated>
+ <IPTC:City>Göteborg</IPTC:City>
+ <IPTC:Country-PrimaryLocationName>Sverige</IPTC:Country-PrimaryLocationName>
+ <IPTC:Keywords>
+  <rdf:Bag>
+   <rdf:li>history of medicine</rdf:li>
+   <rdf:li>nurses</rdf:li>
+   <rdf:li>nurses´residences</rdf:li>
+   <rdf:li>photograph albums</rdf:li>
+  </rdf:Bag>
+ </IPTC:Keywords>
+ <Photoshop:IPTCDigest>ce3a0413add3ce7c58689a5a1bff4bf3</Photoshop:IPTCDigest>
+ <Photoshop:XResolution>300</Photoshop:XResolution>
+ <Photoshop:DisplayedUnitsX>inches</Photoshop:DisplayedUnitsX>
+ <Photoshop:YResolution>300</Photoshop:YResolution>
+ <Photoshop:DisplayedUnitsY>inches</Photoshop:DisplayedUnitsY>
+ <Photoshop:PrintStyle>Centered</Photoshop:PrintStyle>
+ <Photoshop:PrintPosition>0 0</Photoshop:PrintPosition>
+ <Photoshop:PrintScale>1</Photoshop:PrintScale>
+ <Photoshop:GlobalAngle>120</Photoshop:GlobalAngle>
+ <Photoshop:GlobalAltitude>30</Photoshop:GlobalAltitude>
+ <Photoshop:CopyrightFlag>False</Photoshop:CopyrightFlag>
+ <Photoshop:URL_List>
+  <rdf:Bag>
+  </rdf:Bag>
+ </Photoshop:URL_List>
+ <Photoshop:SlicesGroupName>14</Photoshop:SlicesGroupName>
+ <Photoshop:NumSlices>1</Photoshop:NumSlices>
+ <Photoshop:PixelAspectRatio>1</Photoshop:PixelAspectRatio>
+ <Photoshop:PhotoshopThumbnail>(Binary data 3676 bytes, use -b option to extract)</Photoshop:PhotoshopThumbnail>
+ <Photoshop:HasRealMergedData>Yes</Photoshop:HasRealMergedData>
+ <Photoshop:WriterName>Adobe Photoshop</Photoshop:WriterName>
+ <Photoshop:ReaderName>Adobe Photoshop 2024</Photoshop:ReaderName>
+ <ExifIFD:ExposureTime>1/160</ExifIFD:ExposureTime>
+ <ExifIFD:FNumber>3.2</ExifIFD:FNumber>
+ <ExifIFD:ExposureProgram>Manual</ExifIFD:ExposureProgram>
+ <ExifIFD:ISO>800</ExifIFD:ISO>
+ <ExifIFD:SensitivityType>Recommended Exposure Index</ExifIFD:SensitivityType>
+ <ExifIFD:RecommendedExposureIndex>800</ExifIFD:RecommendedExposureIndex>
+ <ExifIFD:ExifVersion>0230</ExifIFD:ExifVersion>
+ <ExifIFD:DateTimeOriginal>2025:03:21 12:20:48</ExifIFD:DateTimeOriginal>
+ <ExifIFD:CreateDate>2025:03:21 12:20:48</ExifIFD:CreateDate>
+ <ExifIFD:ShutterSpeedValue>1/160</ExifIFD:ShutterSpeedValue>
+ <ExifIFD:ApertureValue>3.2</ExifIFD:ApertureValue>
+ <ExifIFD:ExposureCompensation>0</ExifIFD:ExposureCompensation>
+ <ExifIFD:MaxApertureValue>1.4</ExifIFD:MaxApertureValue>
+ <ExifIFD:MeteringMode>Center-weighted average</ExifIFD:MeteringMode>
+ <ExifIFD:Flash>Off, Did not fire</ExifIFD:Flash>
+ <ExifIFD:FocalLength>50.0 mm</ExifIFD:FocalLength>
+ <ExifIFD:SubSecTime>16</ExifIFD:SubSecTime>
+ <ExifIFD:SubSecTimeOriginal>16</ExifIFD:SubSecTimeOriginal>
+ <ExifIFD:SubSecTimeDigitized>16</ExifIFD:SubSecTimeDigitized>
+ <ExifIFD:ColorSpace>Uncalibrated</ExifIFD:ColorSpace>
+ <ExifIFD:ExifImageWidth>5669</ExifIFD:ExifImageWidth>
+ <ExifIFD:ExifImageHeight>2430</ExifIFD:ExifImageHeight>
+ <ExifIFD:FocalPlaneXResolution>1600</ExifIFD:FocalPlaneXResolution>
+ <ExifIFD:FocalPlaneYResolution>1600</ExifIFD:FocalPlaneYResolution>
+ <ExifIFD:FocalPlaneResolutionUnit>cm</ExifIFD:FocalPlaneResolutionUnit>
+ <ExifIFD:CustomRendered>Normal</ExifIFD:CustomRendered>
+ <ExifIFD:ExposureMode>Manual</ExifIFD:ExposureMode>
+ <ExifIFD:WhiteBalance>Auto</ExifIFD:WhiteBalance>
+ <ExifIFD:SceneCaptureType>Standard</ExifIFD:SceneCaptureType>
+ <ExifIFD:SerialNumber>033023000916</ExifIFD:SerialNumber>
+ <ExifIFD:LensInfo>50mm f/?</ExifIFD:LensInfo>
+ <ExifIFD:LensModel>50mm F1.4 DG HSM | Art 014</ExifIFD:LensModel>
+ <ExifIFD:LensSerialNumber>0000000000</ExifIFD:LensSerialNumber>
+ <ICC-header:ProfileCMMType>Adobe Systems Inc.</ICC-header:ProfileCMMType>
+ <ICC-header:ProfileVersion>2.1.0</ICC-header:ProfileVersion>
+ <ICC-header:ProfileClass>Display Device Profile</ICC-header:ProfileClass>
+ <ICC-header:ColorSpaceData>RGB </ICC-header:ColorSpaceData>
+ <ICC-header:ProfileConnectionSpace>XYZ </ICC-header:ProfileConnectionSpace>
+ <ICC-header:ProfileDateTime>1999:06:03 00:00:00</ICC-header:ProfileDateTime>
+ <ICC-header:ProfileFileSignature>acsp</ICC-header:ProfileFileSignature>
+ <ICC-header:PrimaryPlatform>Apple Computer Inc.</ICC-header:PrimaryPlatform>
+ <ICC-header:CMMFlags>Not Embedded, Independent</ICC-header:CMMFlags>
+ <ICC-header:DeviceManufacturer>none</ICC-header:DeviceManufacturer>
+ <ICC-header:DeviceModel></ICC-header:DeviceModel>
+ <ICC-header:DeviceAttributes>Reflective, Glossy, Positive, Color</ICC-header:DeviceAttributes>
+ <ICC-header:RenderingIntent>Media-Relative Colorimetric</ICC-header:RenderingIntent>
+ <ICC-header:ConnectionSpaceIlluminant>0.9642 1 0.82491</ICC-header:ConnectionSpaceIlluminant>
+ <ICC-header:ProfileCreator>Adobe Systems Inc.</ICC-header:ProfileCreator>
+ <ICC-header:ProfileID>0</ICC-header:ProfileID>
+ <ICC_Profile:ProfileCopyright>Copyright 1999 Adobe Systems Incorporated</ICC_Profile:ProfileCopyright>
+ <ICC_Profile:ProfileDescription>Adobe RGB (1998)</ICC_Profile:ProfileDescription>
+ <ICC_Profile:MediaWhitePoint>0.95045 1 1.08905</ICC_Profile:MediaWhitePoint>
+ <ICC_Profile:MediaBlackPoint>0 0 0</ICC_Profile:MediaBlackPoint>
+ <ICC_Profile:RedTRC>(Binary data 14 bytes, use -b option to extract)</ICC_Profile:RedTRC>
+ <ICC_Profile:GreenTRC>(Binary data 14 bytes, use -b option to extract)</ICC_Profile:GreenTRC>
+ <ICC_Profile:BlueTRC>(Binary data 14 bytes, use -b option to extract)</ICC_Profile:BlueTRC>
+ <ICC_Profile:RedMatrixColumn>0.60974 0.31111 0.01947</ICC_Profile:RedMatrixColumn>
+ <ICC_Profile:GreenMatrixColumn>0.20528 0.62567 0.06087</ICC_Profile:GreenMatrixColumn>
+ <ICC_Profile:BlueMatrixColumn>0.14919 0.06322 0.74457</ICC_Profile:BlueMatrixColumn>
+ <Composite:Aperture>3.2</Composite:Aperture>
+ <Composite:ImageSize>5669x2430</Composite:ImageSize>
+ <Composite:Megapixels>13.8</Composite:Megapixels>
+ <Composite:ShutterSpeed>1/160</Composite:ShutterSpeed>
+ <Composite:SubSecCreateDate>2025:03:21 12:20:48.16</Composite:SubSecCreateDate>
+ <Composite:SubSecDateTimeOriginal>2025:03:21 12:20:48.16</Composite:SubSecDateTimeOriginal>
+ <Composite:SubSecModifyDate>2025:05:02 13:20:58.16</Composite:SubSecModifyDate>
+ <Composite:DateTimeCreated>2025:03:21 12:20:48</Composite:DateTimeCreated>
+ <Composite:Flash>Off, Did not fire</Composite:Flash>
+ <Composite:FocalLength35efl>50.0 mm</Composite:FocalLength35efl>
+ <Composite:LightValue>7.7</Composite:LightValue>
+ <Composite:LensID>Sigma 50mm f/1.4 DG HSM | A</Composite:LensID>
+</rdf:Description>
+</rdf:RDF>
+
+
+            </xenoData>
         </teiHeader>
 
         <facsimile>
