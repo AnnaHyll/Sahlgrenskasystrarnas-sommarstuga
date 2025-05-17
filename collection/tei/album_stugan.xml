@@ -3103,12 +3103,30 @@ OTk4IGF2IEdlcnRydWQgQW5kZXJzc29uLiAg
                     <graphic xml:id="stugan_album_s19_pub" url="assets/img/documents/stugan_album_s19.jpg"/>
                 </figure>
             </surface>
+             <surface xml:id="stugan_album_s19_foto">
+                <figure>
+                    <label>Ett fotografi</label>
+                    <figDesc> Ett fotografi ur ett skannat tidningsurklipp so föreställer Sahlgrenskasystrarnas sommarstuga. Fotograferat av <name role="architect" type="person">W. Mattsson</name>
+                    </figDesc>
+                    <graphic xml:id="stugan_album_s19_foto_pub" url="assets/img/documents/stugan_album_s19_foto.jpg"/>
+                    <head>Sahlgrenssystrarnas sommarhem på Näset.</head>
+                </figure>
+            </surface>
             <surface xml:id="stugan_album_s20">
                 <figure>
-                    <label>Albumets nittonde sida</label>
-                    <figDesc> Ett skannat fotografi av albumets tjugo sida med ett tidningsurklipp.
+                    <label>Albumets tjugonde sida</label>
+                    <figDesc> Ett skannat fotografi av albumets tjugonde sida med ett tidningsurklipp.
                     </figDesc>
                     <graphic xml:id="stugan_album_s20_pub" url="assets/img/documents/stugan_album_s20.jpg"/>
+                </figure>
+            </surface>
+            <surface xml:id="stugan_album_s20_foto">
+                <figure>
+                    <label>Ett fotografi</label>
+                    <figDesc> Ett fotografi ur ett skannat tidningsurklipp som föreställer utsikten över Göteborgs skärgård från Sahlgrenskasystrarnas sommarstuga. Fotograferat av <name role="architect" type="person">W. Mattsson</name>
+                    </figDesc>
+                    <graphic xml:id="stugan_album_s20_foto_pub" url="assets/img/documents/stugan_album_s20_foto.jpg"/>
+                    <head>"Vacker utsikt utåt viken, och så långt man skönja kan, berg och holmar om varann..."</head>
                 </figure>
             </surface>
         </surfaceGrp>
@@ -3119,8 +3137,9 @@ OTk4IGF2IEdlcnRydWQgQW5kZXJzc29uLiAg
                 <div>
                     <head>”STUGAN” på Näset</head>
                     <head>Hur Sahlgrensystrarna ordnat för sig</head>
-                    <p>
+                    
                            <cb n="1"/>
+                           <p>
                             Sahlgrenska sjukhuset är stort! <lb/>                       
                             Sjuksystrarna där äro många! Om- <lb/>               
                             kring 300 sköterskor och elever! <lb/>
@@ -3139,55 +3158,76 @@ OTk4IGF2IEdlcnRydWQgQW5kZXJzc29uLiAg
                             gan” 1931 och ett par basarer, där <lb/>
                             man sålde Sahlgrensystrarnas hand- <lb/>
                             arbeten, fick man ihop till grund. Och <lb/>
-                            det huvudsakligaste för ett bygga. <lb/>
+                            det huvudsakligaste för ett bygga. 
+                            </p>
+                            <p>*</p>
+                            <p>
                             En styrelse har haft att ordna om <lb/>
                             Så att ”Stugan” skulle bli verklighet. <lb/>
                             Där fanns fröken Henning samt syst- <lb/>
                             rarna Britta Källström, Karin Olsson, <lb/>
                             Ann-Sofi Manne, Anna Forsén och <lb/>
-                            Ebba Andersson. <lb/>
+                            Ebba Andersson.
+                            </p>
+                            <p>*</p>
+                            <p>
                             Och så satt man igång. Fick tag i <lb/>
                             plats vid Hammar, ute på Näset. Arki- <lb/>
                             tekt Wilhelm Mattson utförde rit- <lb/>
                             ningarna. Byggmästare Tellander stod <lb/>
-                            för uppförandet. <lb/>  
+                            för uppförandet.
+                            </p> 
+                            <p>*</p>
+                            <p> 
                             Nu är stugan färdig. Sahlgrens- <lb/> 
                             systrarnas sommarhem står vackert på <lb/>
                             en bergknalle ute vid havet. Om- <lb/>
                             rådet är stort. C:a 17, 000 kvm. Sten- <lb/>
                             mark broderad med ljung. <lb/>
-                            ”Stugan” invigdes i tisdags förra <lb/>
+                            ”Stugan” invigdes i tisdags förra 
+                            
                             <cb n="2"/>
+                            
                             veckan. Hundratals Sahlgrenssystrar i <lb/>
                             sina ljusa sköterskedräkter hade <lb/>
                             samlats där ute. Överläkarna, d:r Sven <lb/>
                             Johansson och d:r Gotthard Söder- <lb/>
                             bergh hade också passat på för att <lb/> 
                             se hur deras personal ordnat åt sig för <lb/>
-                            sommaren. Tidningsmän och andra <lb/>
+                            sommaren. Tidningsmän och andra 
+                            
                             <cb n="3"/>
+                            
                             inbjudna. Det var en väldig samling <lb/>
                             som syster Britta och fröken Inga <lb/>
                             Hemming hade att hälsa välkommen ut <lb/>
                             till landet, ut till havet, ut till fåglar- <lb/>
                             ne. Solen sken så särskilt vackert. <lb/>
                             Sahlgrenssystrarna sökte också tävla <lb/>
-                            med solen. Att de voro glada över, <lb/>
+                            med solen. Att de voro glada över, 
+                            
                             <cb n="4"/>
+                            
                             att ha landställe på egen grund, var <lb/>
-                            tydligt. <lb/>
+                            tydligt. 
+                            </p>
+                            <p>
                             Så visades allt! Och vi som hade att <lb/>
                             göra husesyn fann det allt vara gott <lb/>
                             och bra. Den rymliga storstugan, där <lb/>
                             det bjöds på kaffe och dopp, var fun- <lb/>
-                            kis. I alla händelser fullt modern och <lb/>
+                            kis. I alla händelser fullt modern och 
+                            
+                            <cb n="5"/>
+                            
                             enkel. Vackert målad och hemtrev- <lb/>
                             ligt med tak i plywood. Överallt lyste <lb/> 
                             det i vackra färger: rostrött, gult och <lb/>
                             grönt. Ett stort präktigt kök. Sär- <lb/>
                             skilt rum med skåp för badgrejor. En <lb/>
                             stor källare, nedsprängd i berget, för <lb/>
-                            förvaring av matvaror o.d. I övre <lb/>
+                            förvaring av matvaror o.d. I övre
+                            <cb n="6"/>
                             våningen sovrum med sovkojer. Be- <lb/>
                             kvämt och praktiskt ordnat för att <lb/>
                             samtidigt kunna härbergera 18 natt- <lb/>
@@ -3196,7 +3236,10 @@ OTk4IGF2IEdlcnRydWQgQW5kZXJzc29uLiAg
                             omväxlande. Men behövs det, så är <lb/>
                             det en enkel sak att ordna med fler <lb/>
                             sängplatser, så stora utrymmen som <lb/>
-                            finns. <lb/>
+                            finns. 
+                            </p>
+                            <p>*</p>
+                            <p>
                             I sitt hälsnings- och invigningstal <lb/>
                             frambar föreståndarinnan, fröken <lb/>
                             Henning, ett tack, främst till sjuk- <lb/>
@@ -3206,7 +3249,10 @@ OTk4IGF2IEdlcnRydWQgQW5kZXJzc29uLiAg
                             till alla som bidragit till att finansiera <lb/>
                             sommarhemmet. Som man hoppas- <lb/>
                             genom en ny basar- skall vara helt- <lb/>
-                            betalt. <lb/>
+                            betalt. 
+                            </p>
+                            <p>*</p>
+                            <p>
                             Men nu vänder vi blicken utåt. En <lb/>
                             bedårande utsikt, vare sig man place- <lb/>
                             rat sig i storstugan, å verandan eller <lb/>
@@ -3220,20 +3266,23 @@ OTk4IGF2IEdlcnRydWQgQW5kZXJzc29uLiAg
                             liv. Och en bit från ”Stugan”, nedan- <lb/>
                             för bergbranten har Sahlgrenssytrar- <lb/>
                             na sina egna badställen på omkring <lb/>
-                            200 meters strandvidd. <lb/>
+                            200 meters strandvidd. 
+                            </p>
+                            <p>
                             Vad kan man mera begära! Vi <lb/>
                             lyckönska dem till förvärvet! De be- <lb/>
                             höva så väl den solbestrålning, det <lb/>
                             lugn och det salta havsstänk, som här <lb/>
                             bjudes. Som omväxling med långa <lb/>
-                            dagar och nätter vid de sjukas bäddar. <lb/>
+                            dagar och nätter vid de sjukas bäddar. 
+                            </p>
+                            <p>*</p>
+                            <p>
                             När sund och vik här stranden spegla, <lb/>
                             Med pris åt dem vi villigt är tillfreds <lb/>
                             Men när tvärs stiltjen kårar segla <lb/>
                             Med solguld i, då är vi rätt tillfreds.
-                            
-
-                    </p>
+                            </p>
                 </div>
             </body>
         </text>

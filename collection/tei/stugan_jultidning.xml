@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Jultidning såld av Sahlgrenskasystrarna 1930 för att finansiera inköp av sommarstuga</title>
+                <author></author>
+                <principal>Anna Hyll, Beata Carlberg, Sabina Stjernman</principal>
+            </titleStmt>
+            
+            <publicationStmt>
+                <publisher>University of Borås</publisher>
+                <date>May 2025</date>
+                <authority>Anna Hyll, Beata Carlberg, Sabina Stjernman</authority>
+                <date when="2025-05">Maj 2025</date>
+                <availability>
+
+                    <p> Vid publicering skall Medicinhistoriskas namn alltid utsättas vid bilden
+                        eller anges i bildförteckningen. </p>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+                        <p>
+                     Transcription distributed under a CC-BY-SA 4.0 license.
+                        </p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Tidningen finns i Medicinhistoriskas samlingar.</p>
+
+
+            </sourceDesc>
+            
+        </fileDesc>
+        <profileDesc>
+            
+            <textDesc>
+                
+                <channel></channel>
+                <constitution ></constitution>
+                <derivation></derivation>
+                <domain></domain>
+                <factuality></factuality>
+                <interaction></interaction>
+                <preparedness></preparedness>
+                <purpose></purpose>
+            </textDesc>
+            
+            <creation> 
+            </creation>
+            <textClass>
+               
+                <keywords scheme="https://www.getty.edu/research/tools/vocabularies/aat/">
+                    <list>
+                        <item>
+                            <ref target="http://vocab.getty.edu/page/aat/300156142">sjuksköterskor</ref>
+                        </item>
+                        <item>
+                            <ref target="http://vocab.getty.edu/page/aat/300005673">sjuksköterskebostäder</ref>
+                        </item>
+                        <item>
+                            <ref target="http://vocab.getty.edu/page/aat/300247283">medicinhistoria</ref>
+                        </item>
+                        <item>
+                            <ref target="http://vocab.getty.edu/page/aat/300026695">fotoalbum</ref>
+                        </item>
+
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+
+    <TEI xml:id="omslag">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Stugan, jultidning omslag</title>
+                    <author></author>
+                </titleStmt>
+                <publicationStmt>
+                    <p></p>
+                </publicationStmt>
+                <sourceDesc>
+                    <p></p>
+                </sourceDesc>
+            </fileDesc>
+             
+        </teiHeader>
+
+        <facsimile>
+        <surface xml:id="stugan_jultidning_omslag">
+                <figure>
+                    <label>Tidningens omslag</label>
+                    <figDesc> Ett skannat fotografi av omslaget till Sahlgrenskasystrarnas jultidning.
+                    </figDesc>
+                    <graphic xml:id="stugan_jultidning_omslag_pub" url="assets/img/documents/stugan_jultidning_omslag_mindre.jpg"/>
+                </figure>
+            </surface>
+             </facsimile>
+        <text>
+            <body>
+                <div>
+                    <p>
+                           
+                    </p>
+                </div>
+            </body>
+        </text>
+
+    </TEI>
+
+    <TEI xml:id="S2">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Tidningens omslag</title>
+                    <author></author>
+                </titleStmt>
+                <publicationStmt>
+                    <p></p>
+                </publicationStmt>
+                <sourceDesc>
+                    <p></p>
+                </sourceDesc>
+            </fileDesc>
+             
+        </teiHeader>
+
+        <facsimile>
+        <surface xml:id="stugan_jultidning_s2">
+                <figure>
+                    <label>Tidningens andra sida</label>
+                    <figDesc> Ett skannat fotografi av den adra sidan i Sahlgrenskasystrarnas jultidning.
+                    </figDesc>
+                    <graphic xml:id="stugan_jultidning_s2_pub" url="assets/img/documents/stugan_jultidning_s2_mindre.jpg"/>
+                </figure>
+            </surface>
+            </facsimile>
+        <text>
+            <body>
+                <div>
+                    <p>
+                           
+                    </p>
+                </div>
+            </body>
+        </text>
+
+    </TEI>
+
+    <TEI xml:id="S23">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Tidningens tjugotredje sida</title>
+                    <author></author>
+                </titleStmt>
+                <publicationStmt>
+                    <p></p>
+                </publicationStmt>
+                <sourceDesc>
+                    <p></p>
+                </sourceDesc>
+            </fileDesc>
+             
+        </teiHeader>
+
+        <facsimile>
+        <surface xml:id="stugan_jultidning_s23">
+                <figure>
+                    <label>Tidningens tjugotredje sida</label>
+                    <figDesc> Ett skannat fotografi av den tjugotredje sidan i Sahlgrenskasystrarnas jultidning.
+                    </figDesc>
+                    <graphic xml:id="stugan_jultidning_s23_pub" url="assets/img/documents/stugan_jultidning_s23_mindre.jpg"/>
+                </figure>
+            </surface>
+            </facsimile>
+        <text>
+            <body>
+                <div>
+                    <p>
+                           
+                    </p>
+                </div>
+            </body>
+        </text>
+
+    </TEI>
+
+      <TEI xml:id="S24">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Tidningens tjugotredje sida</title>
+                    <author></author>
+                </titleStmt>
+                <publicationStmt>
+                    <p></p>
+                </publicationStmt>
+                <sourceDesc>
+                    <p></p>
+                </sourceDesc>
+            </fileDesc>
+             
+        </teiHeader>
+
+        <facsimile>
+        <surface xml:id="stugan_jultidning_s24">
+                <figure>
+                    <label>Tidningens tjugofjärde sida</label>
+                    <figDesc> Ett skannat fotografi av den tjugofjärde sidan i Sahlgrenskasystrarnas jultidning.
+                    </figDesc>
+                    <graphic xml:id="stugan_jultidning_s24_pub" url="assets/img/documents/stugan_jultidning_s24_mindre.jpg"/>
+                </figure>
+            </surface>
+            </facsimile>
+        <text>
+            <body>
+                <div>
+                    <p>
+                           
+                    </p>
+                </div>
+            </body>
+        </text>
+
+    </TEI>
+      
+
+</teiCorpus>
