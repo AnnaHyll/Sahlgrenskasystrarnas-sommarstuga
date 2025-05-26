@@ -9,7 +9,12 @@
                 <author></author>
                 <principal>Anna Hyll, Beata Carlberg, Sabina Stjernman</principal>
             </titleStmt>
-            
+            <extent>48 sidor<dimensions unit="cm">
+                <height>32</height>
+                <width>23,8</width>
+                <depth>0.3</depth>
+            </dimensions>
+            </extent>
             <publicationStmt>
                 <publisher>University of Borås</publisher>
                 <date>May 2025</date>
@@ -18,17 +23,15 @@
                 <availability>
 
                     <p>Materialet är tillgängligt under public domain och är fritt att använda utan restriktioner.</p>
-                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/">
+                    <licence target="https://creativecommons.org/publicdomain/mark/1.0/">
                         <p>
-                     Transcription distributed under a CC0 1.0 Universal license.
+                     Transcription distributed under a Public Domain Mark 1.0 Universal.
                         </p>
                     </licence>
                 </availability>
             </publicationStmt>
             <sourceDesc>
                 <p>Tidningen finns i Medicinhistoriskas samlingar.</p>
-
-
             </sourceDesc>
             
         </fileDesc>
@@ -92,7 +95,7 @@
         <surface xml:id="stugan_jultidning_omslag">
                 <figure>
                     <label>Tidningens omslag</label>
-                    <figDesc> Ett skannat fotografi av omslaget till Sahlgrenskasystrarnas jultidning.
+                    <figDesc> Ett skannat fotografi av omslaget till Sahlgrenskasystrarnas jultidning, illustrerat av <name role="illustratör"><persName>Gustaf A. Wärnlöf</persName><addName type="alias">Gaw</addName></name>
                     </figDesc>
                     <graphic xml:id="stugan_jultidning_omslag_pub" url="assets/img/documents/stugan_jultidning_omslag_mindre.jpg"/>
                 </figure>

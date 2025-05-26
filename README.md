@@ -1,9 +1,12 @@
 [![DOI](https://zenodo.org/badge/471756787.svg)](https://zenodo.org/badge/latestdoi/471756787)
 
-# DCHM-template
+# Sahlgrenskasystrarnas sommarstuga
 
-This is a template that was specifically designed to help students of the Digitising Cultural Heritage Materials (DCHM) course at the University of Borås publish their digitisation projects online with GitHub Pages. 
-But it can be used by anyone who wants to try GitHub Pages to publishing a simple HTML-based website.
+ Denna sida är en del av ett större projekt i digitalisering av kulturarv som har gjorts inom ramen för kursen <span style="font-style:italic">Digitalisering för bevarande och tillgänglighet</span> under vårterminen 2025 i Masterprogrammmet i Biblioteks- och informationsvetenskap vid Borås högskola. Deltagande i gruppen har varit Anna Hyll, Beata Carlberg och Sabina Stjernman.
+                   
+Arbetet har skett i samråd med [Medicinhistoriska museet](https://medicinhistoriska.sahlgrenska.se/) som har tillhandahållit material. Materialet består av ett fotoalbum om Sahlgrenskasystrarnas inköp av sommarstuga på 1930-talet donerat av Gertrud Andersson och en jultidning som sålts av systrarna för att få inkomst till köpet.
+
+    Tack till Anna Stow på medicinhistoriska och Mikael Gunnarson vid Borås högskola för råd och stöd i digitaliseringsarbetet.Projektet har utgått ifrån Wout Dillens stilmall[DCHM-template](https://github.com/SSLIS/DCHM-template)
 
 🚀[Visit the Website](https://sslis.github.io/DCHM-template/) if you want to see what the published version of this repository looks like.
 
