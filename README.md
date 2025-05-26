@@ -6,7 +6,7 @@ Detta repositorium är en del av ett projekt i digitalisering av kulturarv som h
                    
 Arbetet har skett i samråd med [Medicinhistoriska museet](https://medicinhistoriska.sahlgrenska.se/) som har tillhandahållit material. Materialet består av ett fotoalbum om Sahlgrenskasystrarnas inköp av sommarstuga på 1930-talet donerat av Gertrud Andersson och en jultidning som sålts av systrarna för att få inkomst till köpet.
 
-Tack till Anna Stow på medicinhistoriska och Mikael Gunnarson vid Borås högskola för råd och stöd i digitaliseringsarbetet. Detta repositorium har utgått ifrån Wout Dillens stilmall[DCHM-template](https://github.com/SSLIS/DCHM-template).
+Tack till Anna Stow på medicinhistoriska och Mikael Gunnarson vid Borås högskola för råd och stöd i digitaliseringsarbetet. Detta repositorium har utgått ifrån Wout Dillens stilmall [DCHM-template](https://github.com/SSLIS/DCHM-template).
 
 [Besök hemsidan](https://annahyll.github.io/Sahlgrenskasystrarnas-sommarstuga/) här som är kopplat till detta repositorium.
 
