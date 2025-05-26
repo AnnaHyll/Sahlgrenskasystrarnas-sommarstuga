@@ -1,5 +1,3 @@
-[![DOI](https://zenodo.org/badge/471756787.svg)](https://zenodo.org/badge/latestdoi/471756787)
-
 # Sahlgrenskasystrarnas sommarstuga
 
 Detta repositorium är en del av ett projekt i digitalisering av kulturarv som har gjorts inom ramen för kursen Digitalisering för bevarande och tillgänglighet under vårterminen 2025 i Masterprogrammmet i Biblioteks- och informationsvetenskap vid [Borås högskola](https://www.hb.se/). Deltagande i gruppen har varit Anna Hyll, Beata Carlberg och Sabina Stjernman.
