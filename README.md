@@ -6,7 +6,7 @@ Arbetet har skett i samråd med [Medicinhistoriska museet](https://medicinhistor
 
 Tack till Anna Stow på medicinhistoriska och Mikael Gunnarson vid Borås högskola för råd och stöd i digitaliseringsarbetet. Detta repositorium har utgått ifrån Wout Dillens stilmall [DCHM-template](https://github.com/SSLIS/DCHM-template).
 
-[Besök hemsidan](https://annahyll.github.io/Sahlgrenskasystrarnas-sommarstuga/) här som är kopplat till detta repositorium.
+[Besök hemsidan](https://annahyll.github.io/Sahlgrenskasystrarnas-sommarstuga/) som är kopplat till detta repositorium.
 
 
 
