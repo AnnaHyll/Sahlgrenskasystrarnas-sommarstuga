@@ -510,6 +510,51 @@
             </body>
         </text>
     </TEI>
+    <TEI xml:id="S7-8">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Album, stugan fjärde uppslaget</title>
+                    <author></author>
+                </titleStmt>
+                <publicationStmt>
+                    <p></p>
+                </publicationStmt>
+                <sourceDesc>
+                    <p></p>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+
+      <facsimile>
+        <surfaceGrp xml:id="stugan_album_uppslag4">
+                <figure>
+                    <label>Albumets fjärde uppslag</label>
+                    <figDesc> Ett fotografi av sida sju och åtta i albumet.
+                    </figDesc>
+                    <graphic xml:id="stugan_album_uppslag4_pub" url="assets/img/documents/4_stugan_album_uppslag4_mindre.jpg"/>
+                </figure>
+  <text type="note" facs="#stugan_album_s7_artkl">
+            <body>
+                <div>
+                    <p>
+                         Succés för systrarna.
+                    </p>
+                </div>
+            </body>
+        </text>       
+          <text type="note" facs="#stugan_album_s8_artkl">
+            <body>
+                <div>
+                    <p>
+                         Försäljning till förmån för En Sommarstuga för Systrarna Anordnas
+                         å Sahlgrenska Sjukhuset Onsdagen 2a december 1931 med början kl.
+                         12 midd. Servering av Kaffe, The m.m. Gåvor mottages med tacksamhet.
+                    </p>
+                </div>
+            </body>
+        </text>  
+
 
     <TEI xml:id="S15-16">
         <teiHeader>
