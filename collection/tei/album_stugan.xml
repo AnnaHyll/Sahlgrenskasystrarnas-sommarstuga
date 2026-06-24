@@ -555,6 +555,256 @@
             </body>
         </text>  
 
+    <TEI xml:id="S9-10">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Album, stugan femte uppslaget</title>
+                    <author></author>
+                </titleStmt>
+                <publicationStmt>
+                    <p></p>
+                </publicationStmt>
+                <sourceDesc>
+                    <p></p>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+
+         <facsimile>
+        <surfaceGrp xml:id="stugan_album_uppslag5">
+                <figure>
+                    <label>Albumets femte uppslag</label>
+                    <figDesc> Ett fotografi av sida nio och tio i albumet.
+                    </figDesc>
+                    <graphic xml:id="stugan_album_uppslag5_pub" url="assets/img/documents/5_stugan_album_uppslag5_mindre.jpg"/>
+                </figure>
+  <text type="note" facs="#stugan_album_s9_artkl">
+            <body>
+                <div>
+                    <p>
+                         Till Sahlgrenska i morgon! Sjuksköterskekårens försäljning börjar kl. 12. 
+                         Våra bilder äro tagna från de ivriga förberedelserna uppe på sahlgrenska 
+                         inför försäljningen, som börjar imorgon klockan 12 middagen och pågår hela dagen. 
+                         Som förut omtalats är försäljningen till förmån för en systrarnas sommarstuga ute vid havet. 
+                         En mängd lämpliga julklappar bortlottas och försäljas. Så blir det fiskdamm, 
+                         servering och mycket annat trevligt. Avi åt spårvägsstyrelsen: 
+                         Glöm för all del inte att sätta in extravagnar på Ängårdslinjen i morgon!
+                    </p>
+                </div>
+            </body>
+        </text>       
+          <text type="note" facs="#stugan_album_s10_artkl">
+            <body>
+                <div>
+                    <p>
+                         TILL SAHLGRENSKA!
+                    </p>
+                </div>
+            </body>
+        </text>  
+
+            <TEI xml:id="S11-12">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Album, stugan sjätte uppslaget</title>
+                    <author></author>
+                </titleStmt>
+                <publicationStmt>
+                    <p></p>
+                </publicationStmt>
+                <sourceDesc>
+                    <p></p>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+
+          <facsimile>
+        <surfaceGrp xml:id="stugan_album_uppslag6">
+                <figure>
+                    <label>Albumets sjätte uppslag</label>
+                    <figDesc> Ett fotografi av sida elva och tolv i albumet.
+                    </figDesc>
+                    <graphic xml:id="stugan_album_uppslag6_pub" url="assets/img/documents/6_stugan_album_uppslag6_mindre.jpg"/>
+                </figure>
+  <text type="note" facs="#stugan_album_s11_artkl">
+            <body>
+                <div>
+                    <p>
+                  Till Sahlgrenska på onsdag! Det här färgglada omslaget pryder en jultidning, Stugan, 
+                  som utkommer till förmån för den sommarstuga, som den stora sjuksköterske- och elevkåren på Sahlgrenska sjukhuset 
+                  är i färd med att skaffa sig. Den bjuder på ett synnerligen värdefullt och gediget innehåll, 
+                  såväl tankeställare i den mera allvarliga stilen som pigga kåserier och för julen väl vald 
+                  förströelse läsning. Bland raden av författare märkas chefredaktörerna Torgny Segerstedt 
+                  och Hakon Wigert-Lundström, överläkarna Gotthard Söderbergh och Sven Johansson, Jarl Hemmer, 
+                  C.T. Holmström, Harry Blomberg, Fritz Schéel, Herbert Wärnlöf, Olof Forsén och Nils Hasselskog. 
+                  Alltsammans serveras i prydlig utstyrsel, till vilken bl. a. Gustaf Adolf Wärnlöf bidragit med omslaget. 
+                  Hela publikationen fås för en riksdaler i samband med den försäljning, som anordnas onsdagen den 
+                  2 december på Sahlgrenska med början klockan 12 middagen. Den kommer att gå i samma glada tecken 
+                  som förra årets försäljning, vilken blev stor succés och inbragte så mycket att tomtfrågan till 
+                  sommarstugan nu är lyckligt avklarad. Allt som knåpats ihop under de flitiga systrarnas syaftnar 
+                  kommer nu att avyttras. Det är massor av vackra dukar och kuddar, dockor och julsaker, såsom 
+                  julbonader och tomtar av alla de slag, allt lämpliga julklappar, som säkerligen kamma att få 
+                  strykande åtgång. Allmännheten har i år liksom i fjol redan visat sig ytterst välvillig och 
+                  har skickat upp talrika gåvor. Bland annat en båt, grammofoner och tavlor. De värdefullaste 
+                  sakerna komma att utlottas, och så blir det fiskdamm, som skall förestås av samma klämmiga 
+                  fiskarflicka, som förra året förstod att hela dagen locka en strid ström av besökare. 
+                  För att det skall bli riktig fart på affärerna stimuleras dessa genom servering av kaffe, 
+                  te och förfriskningar. Nästa onsdag reserveras sålunda till besök på Sahlgrenska. 
+                  Det är bäst att komma i god tid om man vill göra affärer utan att behöva stå i kö. 
+                  Förra året blev det åtminstone allmänn rusning, vilket mycket väl kan förstås. 
+                  Alla vilja helt naturligt vara med och visa sin tacksamhet mot sjuksköterskekåren på Sahlgrenska, 
+                  då den nu på nytt bjuder allmännheten ett: Väl mött!
+                    </p>
+                </div>
+            </body>
+        </text>       
+          <text type="note" facs="#stugan_album_s12_artkl">
+            <body>
+                <div>
+                    <p>
+                         Systrarna på Sahlgrenska ha som bekant givit ut en jultidning med det symboliska namnet Stugan. 
+                         Behållningen går som bidrag till den sommarstuga som de ämnar skaffa sig. 
+                         Emellertid var det bara de, som besökte den stora försäljningen, som systrarna 
+                         hade anordnat häromdagen, som blevo i tillfälle att skaffa sig publikationen. 
+                         Den som försummade att infinna sig vid det tillfället har nu tillfälle att i någon 
+                         ringa mån gottgöra underlåtenhetssynden. "Stugan" finns att få i bokhandeln. 
+                         Gack alltså, goda och snälla Allmännhet, och köp publikationen, skaffa Dig själv en 
+                         angenäm stund och känn julefrid, när Du vet att Du hjälpt systrarna ett litet stycke närmare 
+                         förverkligandet av tanken på sommarstugan. I jultidningen möta flera kända namn så som 
+                         chefläkarna Söderbergh och Johansson, Jarl Hemmer, professor Segerstedt, Harry Blomberg, 
+                         dr. Hakon Wigert-Lundström, Fritz Schéel, C.T.H., Herbert Wärnlöf och Nils Hasselskog, 
+                         vilka i ord och bild bidraga till den underhållning, som finns innanför det roliga omslaget, 
+                         vilket artisten Gustaf wärnlöf är mästare för. Alltsammans får man för en enda krona. 
+                         Det är billigt pris.
+                    </p>
+
+                    <p>
+                         Sommarstuga till Sahlgrenssystrarna. Julpublikation och försäljning för att skaffa medel. 
+                         I den långa raden av jultidningar har en debutant dykt upp. En som knappast behöver känna 
+                         någon oro för det mottagande den skall röna. "Stugan" heter den och den har fått sitt namn 
+                         av följande orsak: En dag förra året fick en av systrarna på Sahlgrenska en förträfflig idé. 
+                         Man borde, tyckte hon, försöka genom en syförening skrapa ihop medel till en sommarstuga, 
+                         dit elever och systrar kunde bege sig på sin fritid. Uppslaget togs vara på och fram mot 
+                         julen 1930 hade syföreningen producerat så mycket varor, att man kunde anordna en försäljning. 
+                         Man hade sträckt förväntningarna till en blygsam framgång, men man hade underskattat 
+                         göteborgsfolkets tacksamhet mot dem, som pyssla om dess krämpor. Försäljningen blev en succés. 
+                         Och nu ha systrarna kommit så långt mot sitt mål, att de köpt en tomt och en badstrand vid havet, 
+                         närmare bestämt vid Näset, Säröbanan. Så långt är allting bra. Men tomtköpet tog ett kraftigt grepp 
+                         i kassan. Nästan ingenting blev kvar. Själva stugan existerar ännu inte annat än som förhoppning. 
+                         "Stugan", jultidningen föreligger emellertid i tryck och vid den skall förhoppningen bli verklighet. 
+                         Göteborgarna skola nämligen, därom är ingen tvekan, köpa sjuksystrarnas jultidning. 
+                         Den kostar bara en krona, en vanlig deprecierad papperskrona. Ett mycket blygsamt pris. 
+                         Tidningen skulle i själva verket alls inte behöva stödet av speciell välvilja. 
+                         Den är som publikation förstklassig nog att marschera fram på egna ben. Bidrag ha lämnats av bl.a. 
+                         överläkarna Sven Johansson och Gotthard Söderbergh, redaktörerna Torgny Segerstedt och 
+                         Hakon Wigert- Lundström samt av Jarl Hemmer, C.T. Holmström, Harry Blomberg, Herbert Wärnlöf, 
+                         Fritz Schéel, Olof Forsén och Nils Hasselskog. Omslaget har ritats av G.A. Wärnlöf. 
+                         När så göteborgarna, som vi veta att de skola göra, slå sig i backen på att systrarna 
+                         skola ha sin sommarstuga, så behöva de inte inskränka sina anträngningar till att köpa 
+                         upp så många exemplar av "Stugan" som de komma över. Det finns en chans till. 
+                         På onsdag kl. 12 öppnas på Sahlgrenska en försäljning av samma art som den som förra året 
+                         blev en så stor framgång. Där komma att finnas mängder av vackra och nyttiga ting, 
+                         en del gjorde av systrarna och en del skänkta. Vidare serveras där kaffe och té och läckra kakor. 
+                         F.d. dietpatienter böra unna sig raffinemanget att gå dit och i full frihet äta sig fördärvade 
+                         på godsakerna. Sina samveten kunna de alltid stilla mad inköp.
+                    </p>
+                </div>
+            </body>
+        </text>  
+
+            <TEI xml:id="S13-14">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Album, stugan sjunde uppslaget</title>
+                    <author></author>
+                </titleStmt>
+                <publicationStmt>
+                    <p></p>
+                </publicationStmt>
+                <sourceDesc>
+                    <p></p>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+
+         <facsimile>
+        <surfaceGrp xml:id="stugan_album_uppslag7">
+                <figure>
+                    <label>Albumets sjunde uppslag</label>
+                    <figDesc> Ett fotografi av sida tretton och fjorton i albumet.
+                    </figDesc>
+                    <graphic xml:id="stugan_album_uppslag7_pub" url="assets/img/documents/7_stugan_album_uppslag7_mindre.jpg"/>
+                </figure>
+  <text type="note" facs="#stugan_album_s13_artkl">
+            <body>
+                <div>
+                    <p>
+                         Systrarna på Sahlgrenska äro som de flesta göteborgare vid det här laget känna till, 
+                         i färd med att spara ihop till en sommarstuga åt sig. Tanken är inte ny, den kom upp våren 1930, 
+                         men tyvärr är den ännu inte förverkligad. Men som man vet: beslut och handling äro hos kvinnan 
+                         ett eller åtminstone två. Alltså dröjer det inte länge förrän stugan är färdig. 
+                         Tomten är inköpt och det gäller bara att bygga. Att bygga kostar förstås pengar, 
+                         men systrarna äro inte rädda för de ekonomiska svårigheterna. Tack vare försäljningen på 
+                         Sahlgrenska för någon vecka sedan fick de ett bra handtag och nu är det "Stugan" som skall 
+                         göra susen. "Stugan" är nämligen systrarnas egen jultidning. Jag vill inte påstå att man 
+                         bleknar av förvåning, då man ser att den bara kostar en krona. Systrarna tycka inte om bleka 
+                         människor. Säg hellre att man blir glatt överraskad när man ser hur mycket man verkligen kan 
+                         få för en silverslant, som bara mäter några cm. i diameter, och som till på köpet inte blir 
+                         föremål för en enkel notering fyra mil söderöver från skånska gränsen. Det är rent av Fabulöst. 
+                         Man får för att börja från början, en strålande vacker och tindrande dikt av Jarl Hemmer, 
+                         en historik till Sahlgrenskas 150 årsminne av doktor Sven Johansson, en stämningsfull och 
+                         tankediger berättelse av Sten Sjögren, en rolig satir av doktor Gotthard Söderbergh. 
+                         "Kloka ord" av professor Segerstedt, dikter av C.T.H. och Fritz Scheel. Brev från Grönköping 
+                         av Nils Hasselskog; man får följa med på en bilfärd genom norra Italien i sällskap med I. 
+                         H-G, under vilken signatur man förmodligen finner sjukhusets föreståndarinna, man få läsa om 
+                         "Mod" av doktor Wigert-Lundström, om Några julminnen från vårt sjukhus av Håbe man får en 
+                         berättelse av Harry Blomberg ett kåseri av Sir, Höstprat av B.K. och till slut En god utgång 
+                         av Olle Forsén. Vad som är bäst i denna samling är inte lätt att säga. Men nog tycker jag 
+                         att Hasselskog har gjort ett ovanligt lyckat fynd bland sina många andra då han låter 
+                         f. förrädaren Peterzhon sälja almanackor som, nej tyst min mun, vi skola inte avslöja några hemligheter... 
+                         jag vill istället berätta litet om julaftonen på sjukhuset, om patienten som stått på mjölkdiet, 
+                         men som på högtidsdagen fick äggstanning istället och som grät av glädje, eller om den andre 
+                         sjuklingen som blev själaglad då han fick till löfte om att få smaka på julskinkan, eller om 
+                         tant Mina, som hade stickat en grytlapp som doktorn fick i present, men det skulle bli alldeles 
+                         för långt. Köp och läs själv! Litet var ha vi gjort kortare gästspel på S.A.S. så vi ha inte 
+                         svårt att förstå dem. Deras goda vilja och goda hjärta uppskatta och värdera vi alla. 
+                         Så nog skola de få sin stuga alltid. S.F.
+                    </p>
+
+                    <p>
+                    "Stugan", Sahlgrenssystrarnas jultidning, fick ett så gynnsamt mottagnade vid den stora försäljningen 
+                    på sjukhuset häromdagen att amn beslöt göra den tillgänglig även för en större allmänhet. 
+                    Därtill goda skäl, ty "Stugan" är faktiskt en av de bästa publikationerna i julfloden- 
+                    vi påpeka ännu en gång bidragen av de båda chefsläkarna Söderbergh och Johansson, av Jarl Hemmer, 
+                    Harry Blomberg och Nils Hasselskog prof. T. Segerstedt, dr Hakon Wigert-Lundström, red. Sten Sjögren, 
+                    Fritz Schéel, programchefen Olof Forsén, C.T.H. m.fl. F.r.o.m. idag lyser tidningen alltså mot er med 
+                    Gustaf Wärnlöfs originella och färgglada omslag mot er i boklådorna. Den kostar en krona.
+                    </p>
+
+                    <p>
+                    "STUGAN" Sahlgrensystrarnas jultidning- förut utförligen beskriven i dessa spalter- 
+                    finnes nu även i bokhandlarna och bör inte glömmas bort vid julinköpen. 
+                    Systrarna förtjäna verkligen att få sin sommarstuga byggd, och det blir den om försäljningen 
+                    går riktigt bra. Det bör den också göra ty sällan får väl läsaren så mycken valuta för en enkrona. 
+                    En av Stugans författare med vilken vi har sammanträffat, försäkrade att enbart hans bidrag 
+                    vore värt 1 krona. Så allt det andra får man gratis.
+                    </p>
+
+                    <p>
+                    Stugans ordflätetävling Resultatet av ordflätetävlingen i Sahlgrensystrarnas tidning "Stugan" 
+                    föreligger nu klart. Beda Johansson Stockholmsgatan 40 B och Madame Gösta Månsson, 
+                    Bolte postale 620, Istanbul, Turkiet, vunno rabattkoden på en resa till Schweiz. 
+                    Henrik Nilsson, AEG, Göteborg, och fru Elsa Almgren Berzeliigatan 12, Göteborg, 
+                    vunno varsin duk. Priserna kommo att tillsändas vederbörande. "Stugan" fick synnerligen god åtgång 
+                    i julas- den var ju också en synnerligen förnämlig publikation- men ännu finnas av den 
+                    stora upplagan några exemplar kvar att få.
+                    </p>
+                </div>
+            </body>
+        </text>       
 
     <TEI xml:id="S15-16">
         <teiHeader>
@@ -677,11 +927,60 @@
         </text>
         </TEI>
 
-        <TEI xml:id="S19-20">
+        <TEI xml:id="S17-18">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>Album, stugan tionde uppslaget</title>
+                    <title>Album, stugan nionde uppslaget</title>
+                    <author></author>
+                </titleStmt>
+                <publicationStmt>
+                    <p></p>
+                </publicationStmt>
+                <sourceDesc>
+                    <p></p>
+                </sourceDesc>
+            </fileDesc>
+            
+        </teiHeader>
+
+ <facsimile>
+        <surfaceGrp xml:id="stugan_album_uppslag9">
+                <figure>
+                    <label>Albumets nioende uppslag</label>
+                    <figDesc> Ett fotografi av sida sjutton och arton i albumet.
+                    </figDesc>
+                    <graphic xml:id="stugan_album_uppslag9_pub" url="assets/img/documents/9_stugan_album_uppslag9_mindre.jpg"/>
+                </figure>
+  <text type="note" facs="#stugan_album_s18_artkl">
+            <body>
+                <div>
+                    <p>
+                         Systrarna inviga sommarstuga. Sahlgrenssystrarnas sommarstuga invigd. 
+                         Det var en stor dag för Sahlgrensystrarna igår, då deras sommarstuga vid Näset, 
+                         för vilkens tillkomst de nu i tre år träget arbetat, invigdes i närvaro av c.a. 180 personer. 
+                         Fröken Hennig, som höll invigningstalet, tackade däri, alla dem som på det ena eller andra 
+                         sättet bidragit till stugans tillkomst. Stugan är belägen c.a. 20 minuters väg från 
+                         busslinjens till Näset ändstation. Det inköpta området omfattar c:a 17,000 kvm, och 
+                         ligger längst ute på udden vid Hammar. Från stugan har man c:a 200 meter ner till den 
+                         egna badstranden. Själva byggnaden är ritad av arkitekt Mattson och arbetet har utförts 
+                         av byggmästare Tellander. Utrymmet är väl tilltaget, storstugan är 12*5 meter och försedd 
+                         med öppen spis. I nedre våningen finns dessutom ett präktigt kök med masoniteklädda väggar, 
+                         ett omklädningsrum och ett stort kapprum. I ovanvåningen finns tre sovrum med sammanlagt 
+                         18 bäddar och hall. Allt som allt kan man ta emot 38 nattgäster. Ännu återstår väl litet 
+                         att göra därute i "Stugan", men i det stora hela är allt klart för inflyttning. 
+                         Till stor glädje för alla Sahlgrensystrarna, vilka sågo ut att trivas förträffligt 
+                         bland de kala klipporna.
+                    </p>
+                </div>
+            </body>
+        </text>       
+       
+               <TEI xml:id="S19-20">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Album, stugan tioende uppslaget</title>
                     <author></author>
                 </titleStmt>
                 <publicationStmt>
@@ -880,11 +1179,11 @@
         </text>
         </TEI>
 
-        <TEI xml:id="S27-28">
+        <TEI xml:id="S21-22">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>Album, stugan åttonde uppslaget</title>
+                    <title>Album, stugan elfte uppslaget</title>
                     <author></author>
                 </titleStmt>
                 <publicationStmt>
@@ -895,6 +1194,146 @@
                 </sourceDesc>
             </fileDesc>
         </teiHeader>
+
+        <facsimile>
+        <surfaceGrp xml:id="stugan_album_uppslag11">
+                <figure>
+                    <label>Albumets elfte uppslag</label>
+                    <figDesc> Ett fotografi av sida tjugoett och tjugotvå i albumet.
+                    </figDesc>
+                    <graphic xml:id="stugan_album_uppslag11_pub" url="assets/img/documents/jpg/11_stugan_album_uppslag11.jpg"/>
+                </figure>
+  <text type="note" facs="#stugan_album_s21_artkl">
+            <body>
+                <div>
+                    <p>
+                     Sahlgrenssystrarnas nya sommarhem Här är gudagott att vara, sjöngo Sahlgrenssystrarna vid invigningen av 
+                     sin sommarstuga vid Näset igår. Och det var nog ingen av de nära ett 100-tal gästerna, som inte med 
+                     iver stämde in i detta, då de stodo på stugans öppna veranda och sågo ut över det solglittrande havet, 
+                     de grålila kobbarna och de ljusgröna björkarna. Vädrets makter hade sett i nåd till systerkåren och 
+                     lagat till riktigt sommarväder för invigningsdagen av den mycket efterlängtade lantliga tillflyktsorten. 
+                     Vid halv sex-tiden anlände en rad bussar till Näset och tillsammans med alla sköterskorna, som slitit sig 
+                     från sjukhuset var det gott och väl 150 personer som vandrade iväg över bergknallarna, genom dungar och 
+                     obanade stigar för att efter 20 minuters promenad komma fram till målet. På en tomt av 17,000 kvm:s areal 
+                     ligger stugan endast någon minuts väg från havsstranden. Det första intrycket man får är att den är mycket 
+                     gedigen och rymlig. Efter en hjärtlig hälsning av värdinnorna som mötte utanför på backen steg man uppför 
+                     en ganska hög stentrappa in i det brunmålade huset med sina gröna fönsterluckor. Under den första kvarten 
+                     surrade det av superlativer och hänförda utrop från alla som gjorde husesyn. Först beundrades den rymliga 
+                     storstugan, där de dignande kaffeborden stodo dukade. Genom de många och stora fönstren med klarblå gardiner 
+                     har man en underbar utsikt över vattnet och raden av puttrande fiskeskutor. Alla rummen äro hållna i klara 
+                     färger, rostrött, grönt, gult och i köket ljusblått. I taket plywood med lister emellan, i väggarna tretex 
+                     och i köket härskar masoniten. Mitt emot köket i bottenvåningen finns ett mycket praktiskt rum, vars väggar 
+                     äro kantade med höga skåp försedda med prydliga etiketter. Här skola systrarna förvara sina badgrejor, 
+                     när de komma hit på lediga dagar. Det är meningen att de skall kunna ligga över natten härute och övre 
+                     våningen upptages av tre sovrum med tillsammans aderton liggplatser, ett liter krypin med plats för två 
+                     och de övriga med åtta sängar i vardera, varav flera bestå av väggfasta britsar. Överallt ljusa färger 
+                     och blommiga tapeter. Så småningom samlades man utanför huset där såpngerskorna fylkats kring flaggstången. 
+                     Invigningstalet hölls av föreståndarinnan fröken Inga Hennig som hälsade alla välkommna samt talade om 
+                     stugans tillkomst. Hon riktade sitt tack främst till sjukhusets båda överläkare dr Söderbergh och 
+                     dr Sven Johansson för deras vänliga intresse för bygget, till de många som på olika sätt bidragit 
+                     till finansieringen och slutligen till stugans arkitekt och byggmästare. Medel till bygget har som 
+                     bekant hopsamlats under tr års träget hopsamlande, genom två bazarer och en jultidning. 
+                     Efter ytterligare ett sång nummer skedde kommendering till kaffeborden som bjödo på kakornas mångfald. 
+                     Sedan man ätit och druckit och pratat spredo sig gästerna över tomten eller gjorde en rond genom huset. 
+                     Man solade sig på klipphällen nedanför verandan eller gjorde smärre berbestigningar i omgivningen. 
+                     Somliga droga sig ner till stranden där systrarnas ägandes eka sakta gungade. Man fick nästan lust att bada, 
+                     vattnet kändes ljumt och klipporna solvarma. Om sommaren bjuder på många sådana sköna dagar, 
+                     som gårdagen kommer stugan vid Näset bli ett riktigt paradis för Sahlgrensystrarna.
+                    </p>
+                </div>
+            </body>
+        </text>       
+
+     <TEI xml:id="S23-24">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Album, stugan tolfte uppslaget</title>
+                    <author></author>
+                </titleStmt>
+                <publicationStmt>
+                    <p></p>
+                </publicationStmt>
+                <sourceDesc>
+                    <p></p>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <facsimile>
+        <surfaceGrp xml:id="stugan_album_uppslag12">
+                <figure>
+                    <label>Albumets tolfte uppslag</label>
+                    <figDesc> Ett fotografi av sida tjugotre och tjugofyra i albumet.
+                    </figDesc>
+                    <graphic xml:id="stugan_album_uppslag12_pub" url="assets/img/documents/jpg/12_stugan_album_uppslag12.jpg"/>
+                </figure>
+  <text type="note" facs="#stugan_album_s23_artkl">
+            <body>
+                <div>
+                    <p>
+                    Glada systrar på invigning. Den här gruppen av glada unda damer knäppte H.T:s fotograf 
+                    igår eftermiddag ute vid Sahlgrensystrarnas sommarstuga på Näset. Åtskilligt fler än 
+                    de som synas på bilden voro med därute, men så var det också själva invigningen som ägde rum. 
+                    En rymlig och präktig stuga på bara någon minuts håll från havet ha Sahlgrensystrarna här byggt 
+                    åt sig, och förtjusningen över att få ta den i besittning var stor hos invigningspubliken, 
+                    inalles omkring hundrafemtio personer. I storstugan på nedre botten väntade dignande kaffebord, 
+                    när gästerna anlänt efter tjugo minuters skogspromenad från busshållsplatsen. 
+                    Men den materiella välfägnanden fick lov att vänta ett slag, tills huset var riktigt färdiginvigt. 
+                    Kring flaggstången utanför stugan samlades sångerskorna, så höll föreståndarinnan, fröken Inga Hennig, 
+                    ett välkomsttal, där hon bland annat tackade överläkarna Söderbergh och Johansson för deras intresse 
+                    och många andra för den hjälp, med vilken de bidragit till systrarnas hem. Finansieringen har tagit 
+                    tre år och möjliggjorts bl.a. genom två bazarer och en jultidning. Så sjöng kören igen och sedan 
+                    blev det kaffebordens tur. Men det blev tid över till annat också. Att gå husesyn i det egna hemmet 
+                    var givetvis en lockande sysselsättning, och den stora omgivningen lockade också till upptäcktsfärder. 
+                    Meningen är, att systrarna under sommaren skola kunna tillbringa sina lediga dagar här ute, 
+                    och sovplatser finns för trettioåtta åt gången. I ett särskilt rum med stora skåp har man skapat 
+                    möjligheter till förvaring åt badgrejorna.
+                    </p>
+                </div>
+            </body>
+        </text>   
+
+        <TEI xml:id="S25-26">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Album, stugan trettonde uppslaget</title>
+                    <author></author>
+                </titleStmt>
+                <publicationStmt>
+                    <p></p>
+                </publicationStmt>
+                <sourceDesc>
+                    <p></p>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+
+         <facsimile>
+        <surfaceGrp xml:id="stugan_album_uppslag13">
+                <figure>
+                    <label>Albumets trettonde uppslag</label>
+                    <figDesc> Ett fotografi av sida tjugofem och tjugosex i albumet.
+                    </figDesc>
+                    <graphic xml:id="stugan_album_uppslag13_pub" url="assets/img/documents/jpg/13_stugan_album_uppslag13.jpg"/>
+                </figure>
+
+     <TEI xml:id="S27-28">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Album, stugan fjortonde uppslaget</title>
+                    <author></author>
+                </titleStmt>
+                <publicationStmt>
+                    <p></p>
+                </publicationStmt>
+                <sourceDesc>
+                    <p></p>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+
 
         <facsimile>
         <surfaceGrp xml:id="stugan_album_uppslag14">
@@ -977,5 +1416,80 @@
             </surface>
             </surfaceGrp>
         </facsimile>
+
+  <TEI xml:id="S29-30">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Album, stugan femtonde uppslaget</title>
+                    <author></author>
+                </titleStmt>
+                <publicationStmt>
+                    <p></p>
+                </publicationStmt>
+                <sourceDesc>
+                    <p></p>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+
+ <facsimile>
+        <surfaceGrp xml:id="stugan_album_uppslag15">
+                <figure>
+                    <label>Albumets femtonde uppslag</label>
+                    <figDesc> Ett fotografi av sida tjugonio och trettio i albumet.
+                    </figDesc>
+                    <graphic xml:id="stugan_album_uppslag15_pub" url="assets/img/documents/jpg/15_stugan_album_uppslag15.jpg"/>
+                </figure>
+  <text type="note" facs="#stugan_album_s30_artkl">
+            <body>
+                <div>
+                    <p>
+                      Syjunta En vacker bild inte sant? Några snälla sjuksystrar i flitigt arbete runt bordet. 
+                      Vad tror ni de ha för sig? Gissa! -De sy kanske julklappar, men har sjuksystrar egentligen tid med sådant? 
+                      -Riktigt, det är julklappar det är fråga om. Och sjuksystrarna har alltid tid när det gäller att vara till nytta. 
+                      De kan konsten att "glatt sig själv försaka, att offra allt för andras väl." -Det var högtravande, 
+                       vad är det då fråga om? -Sahlgrensystrarnas försäljning till förmån för behövande patienter. 
+                       Den äger rum på onsdag skriv upp det. De snälla, rara, förtjusande systrarna har haft syjuntor 
+                      hela året med tanke på denna försäljning. Resultatet har blivit en mängd vackra handarbeten och andra ting, 
+                      lämpliga till julklappar, som nu slumpas bort för en billig penning. Dessutom finns det julprydnader, 
+                      hemstöpta ljus och mera sådant. På onsdag klockan 12 börjar det. Det blir fiskdamm, tombola och 
+                      pepparkaksstuga, och mellan kl. 3 och 4 är musikstund anordnad varvid både fiol, violoncell och 
+                      piano kommer att trakteras. Klockan 5 sjunger operasångaren Erik Åby. Det bör väl locka till talrikt 
+                      besök och flitig köpenskap. På onsdag träffas vi således hos Sahlgrenssystrarna, glöm inte bort det.
+                    </p>
+                </div>
+            </body>
+        </text>   
+
+ <TEI xml:id="S31-32">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Album, stugan sextonde uppslaget</title>
+                    <author></author>
+                </titleStmt>
+                <publicationStmt>
+                    <p></p>
+                </publicationStmt>
+                <sourceDesc>
+                    <p></p>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+<facsimile>
+        <surfaceGrp xml:id="stugan_album_uppslag16">
+                <figure>
+                    <label>Albumets sextonde uppslag</label>
+                    <figDesc> Ett fotografi av sida trettioett och trettiotvå i albumet.
+                    </figDesc>
+                    <graphic xml:id="stugan_album_uppslag16_pub" url="assets/img/documents/16_stugan_album_uppslag16_mindre.jpg"/>
+                </figure>
+  
+                </div>
+            </body>
+        </text>   
+
+
         </TEI>
 </teiCorpus>
